@@ -1,13 +1,16 @@
 {
   "$mapversion": 1,
   "version": 8,
-  "keepDevOnly": true,
 
+  "name": "mp_rr_desertlands_mu2",
   "starpakPath": "paks/Win64/mp_rr_desertlands_mu2.starpak",
 
   "assetsDir": "./assets/",
   "outputDir": "./build/",
-  "name": "mp_rr_desertlands_mu2",
+
+  "compressLevel": 0,
+  "compressWorkers": 16,
+
 
   "files": [
     {
