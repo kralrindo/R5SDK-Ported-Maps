@@ -18,10 +18,10 @@
       "$type": "dtbl",
       "path": "datatable/dialogue/blood_tt_announcer_dialogue"
     },
-    //{
-     // "$type": "txtr",
-     // "path": "texture/ui_atlas/overviews/mp_rr_desertlands_mu2"
-    //},
+    {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/overviews/mp_rr_desertlands_mu2"
+    },
     {
       "$type": "shdr",
       "path": "shaderset/0xf89ab9c5d6451e3e/0x91331CBED05BB181",
@@ -11832,20 +11832,20 @@
       "$type": "rmdl",
       "path": "mdl/fx/harvester_beam_mu1.rmdl",
       "static": true
-    }//,
-    ////{
-    //  "$type": "uimg",
-    //  "path": "ui_image_atlas/overviews/mp_rr_desertlands_mu2",
-     // "atlas": "texture/ui_atlas/overviews/mp_rr_desertlands_mu2",
-     // "textures": [
-     //   {
-      //    "path": "overviews/mp_rr_desertlands_mu2",
-      //    "width": 4096,
-     //     "height": 4096,
-      //    "posX": 0,
-      //    "posY": 0
-      //  }
-    //  ]
-  //  }
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/overviews/mp_rr_desertlands_mu2",
+      "atlas": "texture/ui_atlas/overviews/mp_rr_desertlands_mu2",
+      "textures": [
+        {
+          "path": "overviews/mp_rr_desertlands_mu2",
+          "width": 4096,
+          "height": 4096,
+          "posX": 0,
+          "posY": 0
+        }
+      ]
+    }
   ]
 }
