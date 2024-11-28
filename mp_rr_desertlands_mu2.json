@@ -31,6 +31,42 @@
     },
     {
       "$type": "shdr",
+      "path": "shaderset/0xe9d97b3b0d9cf9e3/0xC6977DCFE447FEEF",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000211",
+        "0x4034002000D01",
+        "0x2000251",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xe9d97b3b0d9cf9e3/0x6F6A986762AD98A3",
+      "numPixelShaderTextures": 33,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0xe9d97b3b0d9cf9e3",
+      "$guid": "0xe9d97b3b0d9cf9e3",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0xe9d97b3b0d9cf9e3/0xC6977DCFE447FEEF",
+      "pixelShader": "shaderset/0xe9d97b3b0d9cf9e3/0x6F6A986762AD98A3"
+    },
+    {
+      "$type": "shdr",
       "path": "shaderset/0x742bd0b022777101/0xBD79718F54D706F5",
       "numVertexShaderTextures": 0,
       "inputFlags": [
@@ -3623,7 +3659,7 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0xeecd29893bae13d5",  //from here
+      "shaderset": "0xe9d97b3b0d9cf9e3",  //from here
       "width": 2048,
       "height": 2048,
       "textureSlotCount": 33,
