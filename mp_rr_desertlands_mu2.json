@@ -343,13 +343,11 @@
     },
     {
       "$type": "shdr",
-      "path": "shaderset/0x8a459d6acc67eb5f/0x8815107E59BA114B",
+      "path": "shaderset/0xdbf5268a701fea0b/0xCD68D7260A8CCD89",
       "numVertexShaderTextures": 0,
       "inputFlags": [
-        "0x2000202",
-        "0x4030002000D01",
-        "0x2000242",
-        "0x4030002000D41"
+        "0x79000201",
+        "0x4430002100D01"
       ]
     },
     {
