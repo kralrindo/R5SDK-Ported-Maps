@@ -31,6 +31,415 @@
     },
     {
       "$type": "shdr",
+      "path": "shaderset/0x849dadaaf83dd8cd/0x68C175CD8879399",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x79000211",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x849dadaaf83dd8cd/0xA520F04B3D5A86AE",
+      "numPixelShaderTextures": 8,
+      "inputFlags": [
+        "0x4434002100D01",
+        "0x4434002100D01",
+        "0x4434002100D01",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x849dadaaf83dd8cd",
+      "$guid": "0x849dadaaf83dd8cd",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x849dadaaf83dd8cd/0x68C175CD8879399",
+      "pixelShader": "shaderset/0x849dadaaf83dd8cd/0xA520F04B3D5A86AE"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x708acb8d387917b3/0xBD79718F54D706F5",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000212",
+        "0x4034002000D01",
+        "0x2000252",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x708acb8d387917b3/0x5E95AF7510C1EB9F",
+      "numPixelShaderTextures": 8,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x708acb8d387917b3",
+      "$guid": "0x708acb8d387917b3",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x708acb8d387917b3/0xBD79718F54D706F5",
+      "pixelShader": "shaderset/0x708acb8d387917b3/0x5E95AF7510C1EB9F"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x12a4e6185a7afb5/0x68C175CD8879399",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x79000211",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x12a4e6185a7afb5/0xC6977DCFE447FEEF",
+      "numPixelShaderTextures": 8,
+      "inputFlags": [
+        "0x2000211",
+        "0x4034002000D01",
+        "0x2000251",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x12a4e6185a7afb5",
+      "$guid": "0x12a4e6185a7afb5",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x12a4e6185a7afb5/0x68C175CD8879399",
+      "pixelShader": "shaderset/0x12a4e6185a7afb5/0xC6977DCFE447FEEF"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x20f4e9878e0ec262/0x68C175CD8879399",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x79000211",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x20f4e9878e0ec262/0xEEDD01EEC2DE0CD8",
+      "numPixelShaderTextures": 3,
+      "inputFlags": [
+        "0x4434002100D01",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x20f4e9878e0ec262",
+      "$guid": "0x20f4e9878e0ec262",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x20f4e9878e0ec262/0x68C175CD8879399",
+      "pixelShader": "shaderset/0x20f4e9878e0ec262/0xEEDD01EEC2DE0CD8"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x3aa5f3cf71f3aa3e/0xBD79718F54D706F5",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000212",
+        "0x4034002000D01",
+        "0x2000252",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x3aa5f3cf71f3aa3e/0xA1E2DBD3F92732BA",
+      "numPixelShaderTextures": 10,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x3aa5f3cf71f3aa3e",
+      "$guid": "0x3aa5f3cf71f3aa3e",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x3aa5f3cf71f3aa3e/0xBD79718F54D706F5",
+      "pixelShader": "shaderset/0x3aa5f3cf71f3aa3e/0xA1E2DBD3F92732BA"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x84cc4d3db0e53d0d/0xC6977DCFE447FEEF",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000211",
+        "0x4034002000D01",
+        "0x2000251",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x84cc4d3db0e53d0d/0xCF2642FD7C816EB5",
+      "numPixelShaderTextures": 26,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x84cc4d3db0e53d0d",
+      "$guid": "0x84cc4d3db0e53d0d",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x84cc4d3db0e53d0d/0xC6977DCFE447FEEF",
+      "pixelShader": "shaderset/0x84cc4d3db0e53d0d/0xCF2642FD7C816EB5"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x1310032f7fb762b0/0xBD79718F54D706F5",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000212",
+        "0x4034002000D01",
+        "0x2000252",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xfc497072329a393f/0x68C175CD8879399",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x79000211",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xfc497072329a393f/0xF0242EB2A199BB27",
+      "numPixelShaderTextures": 33,
+      "inputFlags": [
+        "0x4434002100D01",
+        "0x4434002100D01",
+        "0x4434002100D01",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0xfc497072329a393f",
+      "$guid": "0xfc497072329a393f",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0xfc497072329a393f/0x68C175CD8879399",
+      "pixelShader": "shaderset/0xfc497072329a393f/0xF0242EB2A199BB27"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x1310032f7fb762b0/0xBD79718F54D706F5",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000212",
+        "0x4034002000D01",
+        "0x2000252",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x1310032f7fb762b0/0x27EF4B487112DF88",
+      "numPixelShaderTextures": 6,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x1310032f7fb762b0",
+      "$guid": "0x1310032f7fb762b0",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x1310032f7fb762b0/0xBD79718F54D706F5",
+      "pixelShader": "shaderset/0x1310032f7fb762b0/0x27EF4B487112DF88"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x3c0821f74fade405/0xC6977DCFE447FEEF",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000211",
+        "0x4034002000D01",
+        "0x2000251",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x3c0821f74fade405/0xFC79C6661FEA3BEF",
+      "numPixelShaderTextures": 4,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x3c0821f74fade405",
+      "$guid": "0x3c0821f74fade405",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x3c0821f74fade405/0xC6977DCFE447FEEF",
+      "pixelShader": "shaderset/0x3c0821f74fade405/0xFC79C6661FEA3BEF"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x1efe6d0bede9a74b/0x8573EE631D763748",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000212",
+        "0x34002000101",
+        "0x2000252",
+        "0x34002000141"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x1efe6d0bede9a74b/0xC8EE83CD6674B158",
+      "numPixelShaderTextures": 1,
+      "inputFlags": [
+        "0x34002000101",
+        "0x34002000141",
+        "0x34002000101",
+        "0x34002000141"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x1efe6d0bede9a74b",
+      "$guid": "0x1efe6d0bede9a74b",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x1efe6d0bede9a74b/0x8573EE631D763748",
+      "pixelShader": "shaderset/0x1efe6d0bede9a74b/0xC8EE83CD6674B158"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x3bd7c1179ed36512/0xBD79718F54D706F5",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000211",
+        "0x4034002000D01",
+        "0x2000251",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x3bd7c1179ed36512/0xAEC364004D8BB6B0",
+      "numPixelShaderTextures": 33,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x3bd7c1179ed36512",
+      "$guid": "0x3bd7c1179ed36512",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x3bd7c1179ed36512/0xBD79718F54D706F5",
+      "pixelShader": "shaderset/0x3bd7c1179ed36512/0xAEC364004D8BB6B0"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xcdf7f92a0e24e274/0xC6977DCFE447FEEF",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000211",
+        "0x4034002000D01",
+        "0x2000251",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xcdf7f92a0e24e274/0xAEC364004D8BB6B0",
+      "numPixelShaderTextures": 33,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0xcdf7f92a0e24e274",
+      "$guid": "0xcdf7f92a0e24e274",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0xcdf7f92a0e24e274/0xC6977DCFE447FEEF",
+      "pixelShader": "shaderset/0xcdf7f92a0e24e274/0xAEC364004D8BB6B0"
+    },
+    {
+      "$type": "shdr",
       "path": "shaderset/0xe9d97b3b0d9cf9e3/0xC6977DCFE447FEEF",
       "numVertexShaderTextures": 0,
       "inputFlags": [
@@ -3659,7 +4068,7 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0xe9d97b3b0d9cf9e3",  //from here
+      "shaderset": "0xe9d97b3b0d9cf9e3",
       "width": 2048,
       "height": 2048,
       "textureSlotCount": 33,
@@ -3791,7 +4200,7 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0xc1b58ff9015d72f6",
+      "shaderset": "0x6f38226226050697",
       "width": 2048,
       "height": 2048,
       "textureSlotCount": 33,
@@ -3824,14 +4233,15 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
+      "shaderset": "0x742bd0b022777101",
       "width": 2048,
       "height": 2048,
-      "textureSlotCount": 5,
+      "textureSlotCount": 33,
       "textures": {
         "0": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_rgdc/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_albedoTexture",
         "1": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_rgdc/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_normalTexture",
         "2": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_rgdc/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_glossTexture",
+        "3": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_3",
         "6": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_rgdc/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_cavityTexture",
         "8": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_rgdc/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_detailTexture",
         "9": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_rgdc/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_detailNormalTexture",
@@ -3856,25 +4266,24 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0xc1b58ff9015d72f6",
+      "shaderset": "0xcdf7f92a0e24e274",
       "width": 2048,
       "height": 2048,
-      "textureSlotCount": 26,
+      "textureSlotCount": 33,
       "textures": {
-        "0": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_albedoTexture",
-        "1": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_normalTexture",
-        "2": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_glossTexture",
-        "6": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_cavityTexture",
-        "8": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_detailTexture",
-        "9": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_detailNormalTexture",
-        "16": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_layerBlendTexture",
-        "22": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_albedo2Texture",
-        "23": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_normal2Texture",
-        "24": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_gloss2Texture",
-        "25": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_spec2Texture",
-        "28": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_ao2Texture",
-        "31": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_detail2Texture",
-        "32": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_detailNormal2Texture"
+        "0": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_albedoTexture",
+        "1": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_normalTexture",
+        "2": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_glossTexture",
+        "8": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_detailTexture",
+        "9": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_detailNormalTexture",
+        "16": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_layerBlendTexture",
+        "22": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_albedo2Texture",
+        "23": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_normal2Texture",
+        "24": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_gloss2Texture",
+        "25": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_spec2Texture",
+        "28": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_ao2Texture",
+        "31": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_detail2Texture",
+        "32": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_detailNormal2Texture"
       }
     },
     {
@@ -3888,10 +4297,10 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
+      "shaderset": "0x3bd7c1179ed36512",
       "width": 2048,
       "height": 2048,
-      "textureSlotCount": 5,
+      "textureSlotCount": 33,
       "textures": {
         "0": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_albedoTexture",
         "1": "texture/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_RGDC/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_normalTexture",
@@ -3919,10 +4328,10 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0xc1b58ff9015d72f6",
+      "shaderset": "0xe9d97b3b0d9cf9e3",
       "width": 2048,
       "height": 2048,
-      "textureSlotCount": 26,
+      "textureSlotCount": 33,
       "textures": {
         "0": "texture/models/world/stone/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm_RGDC/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm_albedoTexture",
         "1": "texture/models/world/stone/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm_RGDC/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm_normalTexture",
@@ -3951,10 +4360,10 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
+      "shaderset": "0xeecd29893bae13d5",
       "width": 2048,
       "height": 2048,
-      "textureSlotCount": 5,
+      "textureSlotCount": 33,
       "textures": {
         "0": "texture/models/world/stone/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm_RGDC/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm_albedoTexture",
         "1": "texture/models/world/stone/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm_RGDC/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm_normalTexture",
@@ -3979,14 +4388,14 @@
       "cpu": "cpudata/blinn_maya_test_wldc",
       "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
       "samplers": "001D0300",
-      "flags2": "56000020",
+      "flags2": "72000000",
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0x4B0F3B4CBD009096",
+      "shaderset": "0x94ab808cfb7edf5c",
       "width": 32,
       "height": 32,
-      "textureSlotCount": 4,
+      "textureSlotCount": 6,
       "textures": {
         "0": "texture/test/blinn_maya_test_WLDC/blinn_maya_test_albedoTexture",
         "1": "texture/test/blinn_maya_test_WLDC/blinn_maya_test_normalTexture",
@@ -4006,10 +4415,10 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
+      "shaderset": "0xc1b58ff9015d72f6",
       "width": 1024,
       "height": 1024,
-      "textureSlotCount": 5,
+      "textureSlotCount": 26,
       "textures": {
         "0": "texture/world/asphalt/asphalt08_wet_bm_RGDP/asphalt08_wet_bm_albedoTexture",
         "1": "texture/world/asphalt/asphalt08_wet_bm_RGDP/asphalt08_wet_bm_normalTexture",
@@ -4033,7 +4442,7 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0xda1d6dd0ca091b36",
+      "shaderset": "0x4528ef4273f39c0e",
       "width": 1024,
       "height": 1024,
       "textureSlotCount": 26,
@@ -4054,16 +4463,16 @@
       "path": "world/atmosphere/atmosphere_1000_fade_thick_depth_scroll",
       "type": "rgdc",
       "cpu": "cpudata/atmosphere_1000_fade_thick_depth_scroll_rgdc",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "blendStates": "F0138086 00138286 F0008286 00000000 F0138086 00000000 00000000 00000000",
       "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
+      "flags2": "10020006",
+      "depthStencilFlags": 7,
       "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0xc79bdc034a6a677e",
+      "unkFlags": 9,
+      "shaderset": "0x1ef9795d7af43796",
       "width": 512,
       "height": 512,
-      "textureSlotCount": 4,
+      "textureSlotCount": 1,
       "textures": {
         "0": "texture/world/atmosphere/atmosphere_1000_fade_thick_depth_scroll_RGDC/atmosphere_1000_fade_thick_depth_scroll_albedoTexture"
       }
@@ -4073,16 +4482,16 @@
       "path": "world/atmosphere/atmosphere_1000_fade_thick_depth_scroll",
       "type": "rgdp",
       "cpu": "cpudata/atmosphere_1000_fade_thick_depth_scroll_rgdp",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "blendStates": "F0138086 00138286 F0008286 00000000 F0138086 00000000 00000000 00000000",
       "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
+      "flags2": "10020006",
+      "depthStencilFlags": 7,
       "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
+      "unkFlags": 9,
+      "shaderset": "0x1efe6d0bede9a74b",
       "width": 512,
       "height": 512,
-      "textureSlotCount": 5,
+      "textureSlotCount": 1,
       "textures": {
         "0": "texture/world/atmosphere/atmosphere_1000_fade_thick_depth_scroll_RGDP/atmosphere_1000_fade_thick_depth_scroll_albedoTexture"
       }
@@ -4092,16 +4501,16 @@
       "path": "world/atmosphere/atmosphere_1500_fade_thick_depth",
       "type": "rgdp",
       "cpu": "cpudata/atmosphere_1500_fade_thick_depth_rgdp",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "blendStates": "F0138086 00138286 F0008286 00000000 F0138086 00000000 00000000 00000000",
       "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
+      "flags2": "10020006",
+      "depthStencilFlags": 7,
       "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
+      "unkFlags": 9,
+      "shaderset": "0x4e46d87e1ef7e0ec",
       "width": 512,
       "height": 512,
-      "textureSlotCount": 5,
+      "textureSlotCount": 1,
       "textures": {
         "0": "texture/world/atmosphere/atmosphere_1500_fade_thick_depth_RGDP/atmosphere_1500_fade_thick_depth_albedoTexture"
       }
@@ -4111,16 +4520,16 @@
       "path": "world/beacon/beacon_building_overlay_decal",
       "type": "rgdc",
       "cpu": "cpudata/beacon_building_overlay_decal_rgdc",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "blendStates": "F0138286 F0138286 F0008286 F0000000 F0138286 00000000 80500002 00000000",
       "samplers": "001D0300",
       "flags2": "56000023",
       "depthStencilFlags": 7,
       "rasterizerFlags": 22,
       "unkFlags": 5,
-      "shaderset": "0xf5777d63cf9824ad",
+      "shaderset": "0x3c0821f74fade405",
       "width": 1024,
       "height": 1024,
-      "textureSlotCount": 8,
+      "textureSlotCount": 4,
       "textures": {
         "0": "texture/world/beacon/beacon_building_overlay_decal_RGDC/beacon_building_overlay_decal_albedoTexture",
         "1": "texture/world/beacon/beacon_building_overlay_decal_RGDC/beacon_building_overlay_decal_normalTexture",
@@ -4139,10 +4548,10 @@
       "depthStencilFlags": 7,
       "rasterizerFlags": 22,
       "unkFlags": 5,
-      "shaderset": "0xfa6b2bb216789663",
+      "shaderset": "0x520489ce84fc3706",
       "width": 1024,
       "height": 1024,
-      "textureSlotCount": 8,
+      "textureSlotCount": 4,
       "textures": {
         "0": "texture/world/beacon/beacon_building_overlay_decal_RGDP/beacon_building_overlay_decal_albedoTexture",
         "1": "texture/world/beacon/beacon_building_overlay_decal_RGDP/beacon_building_overlay_decal_normalTexture",
@@ -4184,10 +4593,10 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0xc79bdc034a6a677e",
+      "shaderset": "0x5f14f2898e398863",
       "width": 2048,
       "height": 2048,
-      "textureSlotCount": 4,
+      "textureSlotCount": 6,
       "textures": {
         "0": "texture/world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_RGDC/beacon_industrial_floor_01_albedoTexture",
         "1": "texture/world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_RGDC/beacon_industrial_floor_01_normalTexture",
@@ -4207,10 +4616,10 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
+      "shaderset": "0x75ab3c79b6cb8ee8",
       "width": 2048,
       "height": 2048,
-      "textureSlotCount": 5,
+      "textureSlotCount": 6,
       "textures": {
         "0": "texture/world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_RGDC/beacon_industrial_floor_01_albedoTexture",
         "1": "texture/world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_RGDC/beacon_industrial_floor_01_normalTexture",
@@ -4230,10 +4639,10 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0xc79bdc034a6a677e",
+      "shaderset": "0x5f14f2898e398863",
       "width": 2048,
       "height": 2048,
-      "textureSlotCount": 4,
+      "textureSlotCount": 6,
       "textures": {
         "0": "texture/world/beacon/beacon_metal_panel_grey_01/beacon_metal_panel_grey_01_RGDC/beacon_metal_panel_grey_01_albedoTexture",
         "1": "texture/world/beacon/beacon_metal_panel_grey_01/beacon_metal_panel_grey_01_RGDC/beacon_metal_panel_grey_01_normalTexture",
@@ -4249,14 +4658,14 @@
       "cpu": "cpudata/beacon_metal_panel_grey_01_wldc",
       "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
       "samplers": "001D0300",
-      "flags2": "56000020",
+      "flags2": "72000000",
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0x4B0F3B4CBD009096",
+      "shaderset": "0x94ab808cfb7edf5c",
       "width": 2048,
       "height": 2048,
-      "textureSlotCount": 4,
+      "textureSlotCount": 6,
       "textures": {
         "0": "texture/world/beacon/beacon_metal_panel_grey_01/beacon_metal_panel_grey_01_RGDC/beacon_metal_panel_grey_01_albedoTexture",
         "1": "texture/world/beacon/beacon_metal_panel_grey_01/beacon_metal_panel_grey_01_RGDC/beacon_metal_panel_grey_01_normalTexture",
@@ -4387,11 +4796,11 @@
       "cpu": "cpudata/wf_painted_metal_01_yellow_wldc",
       "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
       "samplers": "001D0300",
-      "flags2": "56000020",
+      "flags2": "72000000",
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0x4B0F3B4CBD009096",
+      "shaderset": "0x4b0f3b4cbd009096",
       "width": 1024,
       "height": 1024,
       "textureSlotCount": 4,
@@ -4413,7 +4822,7 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0x16862555b68b37bd",
+      "shaderset": "0x1310032f7fb762b0",
       "width": 1024,
       "height": 1024,
       "textureSlotCount": 6,
@@ -4435,14 +4844,15 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
+      "shaderset": "0xc5c7ad158e8ce42b",
       "width": 2048,
       "height": 2048,
-      "textureSlotCount": 5,
+      "textureSlotCount": 6,
       "textures": {
         "0": "texture/world/concrete/asphalt_dark_dirty_cracked_01_RGDP/asphalt_dark_dirty_cracked_01_albedoTexture",
         "1": "texture/world/concrete/asphalt_dark_dirty_cracked_01_RGDP/asphalt_dark_dirty_cracked_01_normalTexture",
         "2": "texture/world/concrete/asphalt_dark_dirty_cracked_01_RGDP/asphalt_dark_dirty_cracked_01_glossTexture",
+        "3": "texture/world/concrete/asphalt_dark_dirty_cracked_01_RGDP/asphalt_dark_dirty_cracked_01_3",
         "5": "texture/world/concrete/asphalt_dark_dirty_cracked_01_RGDP/asphalt_dark_dirty_cracked_01_aoTexture"
       }
     },
@@ -4476,7 +4886,7 @@
       "cpu": "cpudata/concrete_broken_surface_wldc",
       "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
       "samplers": "001D0300",
-      "flags2": "56000020",
+      "flags2": "72000000",
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
@@ -4503,10 +4913,10 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
+      "shaderset": "0x302f39ff53b0f990",
       "width": 2048,
       "height": 2048,
-      "textureSlotCount": 5,
+      "textureSlotCount": 26,
       "textures": {
         "0": "texture/world/concrete/concrete_floor_01_stained_bm_RGDP/concrete_floor_01_stained_bm_albedoTexture",
         "1": "texture/world/concrete/concrete_floor_01_stained_bm_RGDP/concrete_floor_01_stained_bm_normalTexture",
@@ -4554,7 +4964,7 @@
       "cpu": "cpudata/concrete_sidewalk01_cracks03_wldc",
       "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
       "samplers": "001D0300",
-      "flags2": "56000020",
+      "flags2": "72000000",
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
@@ -4580,14 +4990,15 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0xda1d6dd0ca091b36",
+      "shaderset": "0xfc497072329a393f",
       "width": 2048,
       "height": 2048,
-      "textureSlotCount": 26,
+      "textureSlotCount": 33,
       "textures": {
         "0": "texture/world/concrete/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_WLDC/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_albedoTexture",
         "1": "texture/world/concrete/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_WLDC/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_normalTexture",
         "2": "texture/world/concrete/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_WLDC/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_glossTexture",
+        "3": "texture/world/concrete/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_WLDC/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_3",
         "5": "texture/world/concrete/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_WLDC/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_aoTexture",
         "16": "texture/world/concrete/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_WLDC/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_layerBlendTexture",
         "22": "texture/world/concrete/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_WLDC/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_albedo2Texture",
@@ -4608,7 +5019,7 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0xc79bdc034a6a677e",
+      "shaderset": "0x26baf7eedc1e8b4e",
       "width": 2048,
       "height": 2048,
       "textureSlotCount": 4,
@@ -4630,7 +5041,7 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0xc79bdc034a6a677e",
+      "shaderset": "0x26baf7eedc1e8b4e",
       "width": 2048,
       "height": 2048,
       "textureSlotCount": 4,
@@ -4652,7 +5063,7 @@
       "depthStencilFlags": 23,
       "rasterizerFlags": 6,
       "unkFlags": 4,
-      "shaderset": "0xc1b58ff9015d72f6",
+      "shaderset": "0x84cc4d3db0e53d0d",
       "width": 2048,
       "height": 2048,
       "textureSlotCount": 26,
@@ -4678,14 +5089,16 @@
       "flags2": "56000023",
       "depthStencilFlags": 7,
       "rasterizerFlags": 22,
-      "unkFlags": 5,
-      "shaderset": "0xfa6b2bb216789663",
+      "unkFlags": 4,
+      "shaderset": "0x3aa5f3cf71f3aa3e",  //Is this a different kind of mat? Looks like it needs lightshadow,shadow,prepass and vsm, check back if it causes visual glitches!!!
       "width": 1024,
       "height": 1024,
-      "textureSlotCount": 8,
+      "textureSlotCount": 10,
       "textures": {
         "0": "texture/world/decal/bloodhound_tt_decal_01_RGDP/bloodhound_tt_decal_01_albedoTexture",
         "1": "texture/world/decal/bloodhound_tt_decal_01_RGDP/bloodhound_tt_decal_01_normalTexture",
+        "2": "texture/world/decal/bloodhound_tt_decal_01_RGDP/bloodhound_tt_decal_01_2",
+        "3": "texture/world/decal/bloodhound_tt_decal_01_RGDP/bloodhound_tt_decal_01_3",
         "7": "texture/world/decal/bloodhound_tt_decal_01_RGDP/bloodhound_tt_decal_01_opacityMultiplyTexture",
         "9": "texture/world/decal/bloodhound_tt_decal_01_RGDP/bloodhound_tt_decal_01_detailNormalTexture"
       }
@@ -4725,7 +5138,7 @@
       "shaderset": "0x28ea5ce728a2e14a",
       "width": 1024,
       "height": 1024,
-      "textureSlotCount": 8,
+      "textureSlotCount": 3,
       "textures": {
         "0": "texture/world/decal/decals_cracks_01_RGDC/decals_cracks_01_albedoTexture",
         "1": "texture/world/decal/decals_cracks_01_RGDC/decals_cracks_01_normalTexture",
@@ -4743,10 +5156,10 @@
       "depthStencilFlags": 7,
       "rasterizerFlags": 22,
       "unkFlags": 5,
-      "shaderset": "0x237deec2a99bab06",
+      "shaderset": "0x20f4e9878e0ec262",
       "width": 1024,
       "height": 1024,
-      "textureSlotCount": 8,
+      "textureSlotCount": 3,
       "textures": {
         "0": "texture/world/decal/decals_cracks_01_RGDC/decals_cracks_01_albedoTexture",
         "1": "texture/world/decal/decals_cracks_01_RGDC/decals_cracks_01_normalTexture",
@@ -4764,7 +5177,7 @@
       "depthStencilFlags": 7,
       "rasterizerFlags": 22,
       "unkFlags": 4,
-      "shaderset": "0xdab69a33ebe135cb",
+      "shaderset": "0x12a4e6185a7afb5",
       "width": 1024,
       "height": 1024,
       "textureSlotCount": 8,
@@ -4786,7 +5199,7 @@
       "depthStencilFlags": 7,
       "rasterizerFlags": 22,
       "unkFlags": 4,
-      "shaderset": "0x4a64086c49f32713",
+      "shaderset": "0x708acb8d387917b3",
       "width": 1024,
       "height": 1024,
       "textureSlotCount": 8,
@@ -4804,11 +5217,11 @@
       "cpu": "cpudata/hammond_robotics_decal_vc_01_wldc",
       "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
       "samplers": "001D0300",
-      "flags2": "56000031",
+      "flags2": "72000011",
       "depthStencilFlags": 7,
       "rasterizerFlags": 22,
-      "unkFlags": 5,
-      "shaderset": "0x5e29f97d5e775ee3",
+      "unkFlags": 4,
+      "shaderset": "0x849dadaaf83dd8cd",
       "width": 1024,
       "height": 1024,
       "textureSlotCount": 8,
@@ -4826,11 +5239,11 @@
       "cpu": "cpudata/kodai_caution_stripe_decals_rgdc",
       "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
       "samplers": "001D0300",
-      "flags2": "56000023",
+      "flags2": "56000031",
       "depthStencilFlags": 7,
       "rasterizerFlags": 22,
-      "unkFlags": 5,
-      "shaderset": "0xf5777d63cf9824ad",
+      "unkFlags": 4,
+      "shaderset": "0xf5777d63cf9824ad", //taking break here, change the shaderset after
       "width": 1024,
       "height": 512,
       "textureSlotCount": 8,
