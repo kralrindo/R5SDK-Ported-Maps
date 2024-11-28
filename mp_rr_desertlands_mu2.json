@@ -2671,7 +2671,7 @@
         "2": "texture/models/props/desertlands_bloodhound_tt/bloodhound_flag_03_RGDP/bloodhound_flag_03_glossTexture",
         "3": "texture/models/props/desertlands_bloodhound_tt/bloodhound_flag_03_RGDP/bloodhound_flag_03_specTexture",
         "7": "texture/models/props/desertlands_bloodhound_tt/bloodhound_flag_03_RGDP/bloodhound_flag_03_opacityMultiplyTexture",
-        "8": "texture/models/props/desertlands_bloodhound_tt/bloodhound_flag_02_RGDP/bloodhound_flag_03_8"
+        "8": "texture/models/props/desertlands_bloodhound_tt/bloodhound_flag_03_RGDP/bloodhound_flag_03_8"
       }
     },
     {
@@ -2695,7 +2695,7 @@
         "2": "texture/models/props/desertlands_bloodhound_tt/bloodhound_flag_04_RGDP/bloodhound_flag_04_glossTexture",
         "3": "texture/models/props/desertlands_bloodhound_tt/bloodhound_flag_04_RGDP/bloodhound_flag_04_specTexture",
         "7": "texture/models/props/desertlands_bloodhound_tt/bloodhound_flag_04_RGDP/bloodhound_flag_04_opacityMultiplyTexture",
-        "8": "texture/models/props/desertlands_bloodhound_tt/bloodhound_flag_02_RGDP/bloodhound_flag_4_8"
+        "8": "texture/models/props/desertlands_bloodhound_tt/bloodhound_flag_04_RGDP/bloodhound_flag_04_8"
       }
     },
     {
@@ -3730,7 +3730,7 @@
         "0": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_albedoTexture",
         "1": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_normalTexture",
         "2": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_glossTexture",
-        "3": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm",
+        "3": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_3",
         "6": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_cavityTexture",
         "8": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_detailTexture",
         "9": "texture/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_RGDC/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_detailNormalTexture",
