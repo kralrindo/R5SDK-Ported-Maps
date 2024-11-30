@@ -4642,6 +4642,29 @@
     },
     {
       "$type": "matl",
+      "path": "world/signs/beacon_crane_screens",
+      "type": "rgdp",
+      "cpu": "cpudata/beacon_crane_screens_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0xd37ff6ad1a31778e",
+      "width": 1024,
+      "height": 512,
+      "textureSlotCount": 5,
+      "textures": {
+        "0": "texture/world/signs/beacon_crane_screens_RGDP/beacon_crane_screens_albedoTexture",
+        "1": "texture/world/signs/beacon_crane_screens_RGDP/beacon_crane_screens_normalTexture",
+        "2": "texture/world/signs/beacon_crane_screens_RGDP/beacon_crane_screens_2",
+        "3": "texture/world/signs/beacon_crane_screens_RGDP/beacon_crane_screens_3",
+        "4": "texture/world/signs/beacon_crane_screens_RGDP/beacon_crane_screens_emissiveTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/concrete/concrete_wall_base_02",
       "type": "rgdp",
       "cpu": "cpudata/concrete_wall_base_02_RGDP",
@@ -5653,6 +5676,28 @@
         "1": "texture/models/rocks/thunderdome/rock_sand_large_01_RGDP/rock_sand_large_01_normalTexture",
         "2": "texture/models/rocks/thunderdome/rock_sand_large_01_RGDP/rock_sand_large_01_glossTexture",
         "3": "texture/models/rocks/thunderdome/rock_sand_large_01_RGDP/rock_sand_large_01_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/rocks/thunderdome/rock_sand_large_02",
+      "type": "rgdp",
+      "cpu": "cpudata/rock_sand_large_02_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x36627716165fc7da",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/rocks/thunderdome/rock_sand_large_02_RGDP/rock_sand_large_02_albedoTexture",
+        "1": "texture/models/rocks/thunderdome/rock_sand_large_02_RGDP/rock_sand_large_02_normalTexture",
+        "2": "texture/models/rocks/thunderdome/rock_sand_large_02_RGDP/rock_sand_large_02_glossTexture",
+        "3": "texture/models/rocks/thunderdome/rock_sand_large_02_RGDP/rock_sand_large_02_specTexture"
       }
     },
     {
@@ -6791,6 +6836,33 @@
         "23": "texture/world/ola/stamped_metal_large_rusty_bm_RGDP/stamped_metal_large_rusty_bm_normal2Texture",
         "24": "texture/world/ola/stamped_metal_large_rusty_bm_RGDP/stamped_metal_large_rusty_bm_gloss2Texture",
         "25": "texture/world/ola/stamped_metal_large_rusty_bm_RGDP/stamped_metal_large_rusty_bm_spec2Texture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/metal/military_bridge/military_bridge_01_grime_bm",
+      "type": "rgdp",
+      "cpu": "cpudata/military_bridge_01_grime_bm_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x302f39ff53b0f990",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 26,
+      "textures": {
+        "0": "texture/world/metal/military_bridge/military_bridge_01_grime_bm_RGDP/military_bridge_01_grime_bm_albedoTexture",
+        "1": "texture/world/metal/military_bridge/military_bridge_01_grime_bm_RGDP/military_bridge_01_grime_bm_normalTexture",
+        "2": "texture/world/metal/military_bridge/military_bridge_01_grime_bm_RGDP/military_bridge_01_grime_bm_glossTexture",
+        "3": "texture/world/metal/military_bridge/military_bridge_01_grime_bm_RGDP/military_bridge_01_grime_bm_specTexture",
+        "16": "texture/world/metal/military_bridge/military_bridge_01_grime_bm_RGDP/military_bridge_01_grime_bm_layerBlendTexture",
+        "22": "texture/world/metal/military_bridge/military_bridge_01_grime_bm_RGDP/military_bridge_01_grime_bm_albedo2Texture",
+        "23": "texture/world/metal/military_bridge/military_bridge_01_grime_bm_RGDP/military_bridge_01_grime_bm_normal2Texture",
+        "24": "texture/world/metal/military_bridge/military_bridge_01_grime_bm_RGDP/military_bridge_01_grime_bm_gloss2Texture",
+        "25": "texture/world/metal/military_bridge/military_bridge_01_grime_bm_RGDP/military_bridge_01_grime_bm_spec2Texture"
       }
     },
     {
@@ -13090,6 +13162,29 @@
     },
     {
       "$type": "matl",
+      "path": "world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01",
+      "type": "rgdc",
+      "cpu": "cpudata/timeshift_metal_trim_01_RGDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x5f14f2898e398863",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_albedoTexture",
+        "1": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_normalTexture",
+        "2": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_glossTexture",
+        "3": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_specTexture",
+        "5": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/stasis/stasis_lab_trim_02/stasis_lab_trim_02",
       "type": "rgdc",
       "cpu": "cpudata/stasis_lab_trim_02_RGDC",
@@ -13425,6 +13520,29 @@
       "rasterizerFlags": 6,
       "unkFlags": 5,
       "shaderset": "0x52be692c7c2e683",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 8,
+      "textures": {
+        "0": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_albedoTexture",
+        "1": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_normalTexture",
+        "2": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_glossTexture",
+        "3": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_specTexture",
+        "7": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_opacityMultiplyTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/windows/glass_window_bulletproof01_less_transparent",
+      "type": "rgdp",
+      "cpu": "cpudata/glass_window_bulletproof01_less_transparent_RGDC",
+      "blendStates": "F0138286 F0138286 F0008286 F0000000 F0138286 00000000 80500002 00000000",
+      "samplers": "001D0300",
+      "flags2": "56000022",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 6,
+      "unkFlags": 5,
+      "shaderset": "0xa1f94e0f5d40075",
       "width": 1024,
       "height": 1024,
       "textureSlotCount": 8,
