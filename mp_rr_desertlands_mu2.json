@@ -31,6 +31,110 @@
     },
     {
       "$type": "shdr",
+      "path": "shaderset/0x88b829c6640aa10d/0x119527D74F210987",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2005202",
+        "0x4030002000D01",
+        "0x2005242",
+        "0x4030002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x88b829c6640aa10d/0x936C13413823F663",
+      "numPixelShaderTextures": 7,
+      "inputFlags": [
+        "0x4030002000D01",
+        "0x4030002000D41",
+        "0x4030002000D01",
+        "0x4030002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x88b829c6640aa10d",
+      "$guid": "0x88b829c6640aa10d",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x88b829c6640aa10d/0x119527D74F210987",
+      "pixelShader": "shaderset/0x88b829c6640aa10d/0x936C13413823F663"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x4f98a3071773dbc5/0x8815107E59BA114B",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000202",
+        "0x4030002000D01",
+        "0x2000242",
+        "0x4030002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x4f98a3071773dbc5/0x406DC09111C7B05A",
+      "numPixelShaderTextures": 16,
+      "inputFlags": [
+        "0x4030002000D01",
+        "0x4030002000D01",
+        "0x4030002000D41",
+        "0x4030002000D41",
+        "0x4030002000D01",
+        "0x4030002000D01",
+        "0x4030002000D41",
+        "0x4030002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x4f98a3071773dbc5",
+      "$guid": "0x4f98a3071773dbc5",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x4f98a3071773dbc5/0x8815107E59BA114B",
+      "pixelShader": "shaderset/0x4f98a3071773dbc5/0x406DC09111C7B05A"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x7701cea67d76ef45/0xBD79718F54D706F5",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000212",
+        "0x4034002000D01",
+        "0x2000252",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x7701cea67d76ef45/0xCB1F33713DDC7796",
+      "numPixelShaderTextures": 14,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x7701cea67d76ef45",
+      "$guid": "0x7701cea67d76ef45",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x7701cea67d76ef45/0xBD79718F54D706F5",
+      "pixelShader": "shaderset/0x7701cea67d76ef45/0xCB1F33713DDC7796"
+    },
+    {
+      "$type": "shdr",
       "path": "shaderset/0x61e4913da01ba4ee/0x68C175CD8879399",
       "numVertexShaderTextures": 0,
       "inputFlags": [
@@ -8079,6 +8183,260 @@
         "2": "texture/models/cockpit/ship_console_control_small_RGDP/ship_console_control_small_glossTexture",
         "3": "texture/models/cockpit/ship_console_control_small_RGDP/ship_console_control_small_specTexture",
         "5": "texture/models/cockpit/ship_console_control_small_RGDP/ship_console_control_small_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/domestic/fire_exstinguisher",
+      "type": "rgdp",
+      "cpu": "cpudata/fire_exstinguisher_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x36627716165fc7da",
+      "width": 512,
+      "height": 512,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/domestic/fire_exstinguisher_RGDP/fire_exstinguisher_albedoTexture",
+        "1": "texture/models/domestic/fire_exstinguisher_RGDP/fire_exstinguisher_normalTexture",
+        "2": "texture/models/domestic/fire_exstinguisher_RGDP/fire_exstinguisher_glossTexture",
+        "3": "texture/models/domestic/fire_exstinguisher_RGDP/fire_exstinguisher_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/domestic/fire_exstinguisher_case",
+      "type": "rgdp",
+      "cpu": "cpudata/fire_exstinguisher_case_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x36627716165fc7da",
+      "width": 512,
+      "height": 512,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/domestic/fire_exstinguisher_case_RGDP/fire_exstinguisher_case_albedoTexture",
+        "1": "texture/models/domestic/fire_exstinguisher_case_RGDP/fire_exstinguisher_case_normalTexture",
+        "2": "texture/models/domestic/fire_exstinguisher_case_RGDP/fire_exstinguisher_case_glossTexture",
+        "3": "texture/models/domestic/fire_exstinguisher_case_RGDP/fire_exstinguisher_case_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/floating_village/metalset_floating_village_01",
+      "type": "rgdp",
+      "cpu": "cpudata/metalset_floating_village_01_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x36627716165fc7da",
+      "width": 2048,
+      "height": 1024,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/floating_village/metalset_floating_village_01_RGDP/metalset_floating_village_01_albedoTexture",
+        "1": "texture/models/floating_village/metalset_floating_village_01_RGDP/metalset_floating_village_01_normalTexture",
+        "2": "texture/models/floating_village/metalset_floating_village_01_RGDP/metalset_floating_village_01_glossTexture",
+        "3": "texture/models/floating_village/metalset_floating_village_01_RGDP/metalset_floating_village_01_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/doors/canyonlands_door_large_01/canyonlands_door_large_01",
+      "type": "rgdp",
+      "cpu": "cpudata/canyonlands_door_large_01_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x17c5d5b7fb298991",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 7,
+      "textures": {
+        "0": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_RGDP/canyonlands_door_large_01_albedoTexture",
+        "1": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_RGDP/canyonlands_door_large_01_normalTexture",
+        "2": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_RGDP/canyonlands_door_large_01_glossTexture",
+        "3": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_RGDP/canyonlands_door_large_01_specTexture",
+        "5": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_RGDP/canyonlands_door_large_01_aoTexture",
+        "6": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_RGDP/canyonlands_door_large_01_cavityTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/doors/canyonlands_door_large_01/canyonlands_door_large_01",
+      "type": "sknp",
+      "cpu": "cpudata/canyonlands_door_large_01_sknp",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x1d9fff314e152725",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 7,
+      "textures": {
+        "0": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_RGDP/canyonlands_door_large_01_albedoTexture",
+        "1": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_RGDP/canyonlands_door_large_01_normalTexture",
+        "2": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_RGDP/canyonlands_door_large_01_glossTexture",
+        "3": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_RGDP/canyonlands_door_large_01_specTexture",
+        "5": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_RGDP/canyonlands_door_large_01_aoTexture",
+        "6": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_RGDP/canyonlands_door_large_01_cavityTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/doors/canyonlands_door_large_01/canyonlands_door_large_01_transparent",
+      "type": "sknp",
+      "cpu": "cpudata/canyonlands_door_large_01_transparent_SKNP",
+      "blendStates": "F0138286 F0138286 F0008286 F0000000 F0138286 00000000 80500002 00000000",
+      "samplers": "001D0300",
+      "flags2": "560000A2",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 2,
+      "unkFlags": 5,
+      "shaderset": "0x88b829c6640aa10d",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 7,
+      "textures": {
+        "0": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_transparent_SKNP/canyonlands_door_large_01_transparent_albedoTexture",
+        "1": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_transparent_SKNP/canyonlands_door_large_01_transparent_normalTexture",
+        "2": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_transparent_SKNP/canyonlands_door_large_01_transparent_glossTexture",
+        "3": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_transparent_SKNP/canyonlands_door_large_01_transparent_specTexture",
+        "5": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_transparent_SKNP/canyonlands_door_large_01_transparent_aoTexture",
+        "6": "texture/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_transparent_SKNP/canyonlands_door_large_01_transparent_cavityTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/lamps/hanging_relic_light_on",
+      "type": "rgdp",
+      "cpu": "cpudata/hanging_relic_light_on_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x2a2db3a47af9b3d5",
+      "width": 512,
+      "height": 512,
+      "textureSlotCount": 5,
+      "textures": {
+        "0": "texture/models/lamps/hanging_relic_light_on_RGDP/hanging_relic_light_on_albedoTexture",
+        "1": "texture/models/lamps/hanging_relic_light_on_RGDP/hanging_relic_light_on_normalTexture",
+        "2": "texture/models/lamps/hanging_relic_light_on_RGDP/hanging_relic_light_on_glossTexture",
+        "3": "texture/models/lamps/hanging_relic_light_on_RGDP/hanging_relic_light_on_specTexture",
+        "4": "texture/models/lamps/hanging_relic_light_on_RGDP/hanging_relic_light_on_emissiveTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/harmony_mines/rock/harmony_mines_rockchunks_01_light",
+      "type": "rgdp",
+      "cpu": "cpudata/harmony_mines_rockchunks_01_light_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x4c48e8e302411b17",
+      "width": 512,
+      "height": 512,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/harmony_mines/rock/harmony_mines_rockchunks_01_light_RGDP/harmony_mines_rockchunks_01_light_albedoTexture",
+        "1": "texture/models/harmony_mines/rock/harmony_mines_rockchunks_01_light_RGDP/harmony_mines_rockchunks_01_light_normalTexture",
+        "2": "texture/models/harmony_mines/rock/harmony_mines_rockchunks_01_light_RGDP/harmony_mines_rockchunks_01_light_glossTexture",
+        "3": "texture/models/harmony_mines/rock/harmony_mines_rockchunks_01_light_RGDP/harmony_mines_rockchunks_01_light_3"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/harmony_mines/rock/harmony_mines_rockchunks_01_dark",
+      "type": "rgdp",
+      "cpu": "cpudata/harmony_mines_rockchunks_01_dark_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x4c48e8e302411b17",
+      "width": 512,
+      "height": 512,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/harmony_mines/rock/harmony_mines_rockchunks_01_dark_RGDP/harmony_mines_rockchunks_01_dark_albedoTexture",
+        "1": "texture/models/harmony_mines/rock/harmony_mines_rockchunks_01_dark_RGDP/harmony_mines_rockchunks_01_dark_normalTexture",
+        "2": "texture/models/harmony_mines/rock/harmony_mines_rockchunks_01_dark_RGDP/harmony_mines_rockchunks_01_dark_glossTexture",
+        "3": "texture/models/harmony_mines/rock/harmony_mines_rockchunks_01_dark_RGDP/harmony_mines_rockchunks_01_dark_3"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/foliage/moss_green_hanging_large_01",
+      "type": "rgdp",
+      "cpu": "cpudata/moss_green_hanging_large_01_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "560000B0",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 2,
+      "unkFlags": 4,
+      "shaderset": "0x7701cea67d76ef45",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 14,
+      "textures": {
+        "0": "texture/models/foliage/moss_green_hanging_large_01_RGDP/moss_green_hanging_large_01_albedoTexture",
+        "1": "texture/models/foliage/moss_green_hanging_large_01_RGDP/moss_green_hanging_large_01_normalTexture",
+        "2": "texture/models/foliage/moss_green_hanging_large_01_RGDP/moss_green_hanging_large_01_glossTexture",
+        "3": "texture/models/foliage/moss_green_hanging_large_01_RGDP/moss_green_hanging_large_01_specTexture",
+        "13": "texture/models/foliage/moss_green_hanging_large_01_RGDP/moss_green_hanging_large_01_scatterThicknessTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/domestic/nessy_doll",
+      "type": "rgdp",
+      "cpu": "cpudata/nessy_doll_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x4f98a3071773dbc5",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 16,
+      "textures": {
+        "0": "texture/models/domestic/nessy_doll_RGDP/nessy_doll_albedoTexture",
+        "1": "texture/models/domestic/nessy_doll_RGDP/nessy_doll_normalTexture",
+        "2": "texture/models/domestic/nessy_doll_RGDP/nessy_doll_glossTexture",
+        "3": "texture/models/domestic/nessy_doll_RGDP/nessy_doll_specTexture",
+        "5": "texture/models/domestic/nessy_doll_RGDP/nessy_doll_aoTexture",
+        "6": "texture/models/domestic/nessy_doll_RGDP/nessy_doll_cavityTexture",
+        "13": "texture/models/domestic/nessy_doll_RGDP/nessy_doll_scatterThicknessTexture",
+        "15": "texture/models/domestic/nessy_doll_RGDP/nessy_doll_anisoSpecDirTexture"
       }
     },
     {
@@ -16229,15 +16587,18 @@
     },
     {
       "$type": "rmdl",
-      "path": "mdl/props/raisable_wall_floor/raisable_wall_floor.rmdl"
+      "path": "mdl/props/raisable_wall_floor/raisable_wall_floor.rmdl",
+      "usePhysics": true
     },
     {
       "$type": "rmdl",
-      "path": "mdl/levels_terrain/mp_rr_desertlands/dlands_mu2_console_01.rmdl"
+      "path": "mdl/levels_terrain/mp_rr_desertlands/dlands_mu2_console_01.rmdl",
+      "usePhysics": true
     },
     {
       "$type": "rmdl",
-      "path": "mdl/beacon/crane_room_monitor_console.rmdl"
+      "path": "mdl/beacon/crane_room_monitor_console.rmdl",
+      "usePhysics": true
     },
     {
       "$type": "rmdl",
@@ -16304,6 +16665,7 @@
     {
       "$type": "rmdl",
       "path": "mdl/thunderdome/thunderdome_cage_wall_256x256_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
@@ -16314,66 +16676,78 @@
     {
       "$type": "rmdl",
       "path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_z12_mid_platform_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/ola/sewer_staircase_96_quad.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/ola/sewer_staircase_96_double.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/ola/sewer_grate_01_32.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/ola/sewer_staircase_96_single.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/desertlands/desertlands_train_track_straight_arrows_512.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/rocks/thunderdome_quarry_block_01.rmdl", 
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/rocks/thunderdome_quarry_block_02.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/utilities/power_cell_64_empty.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/commercial/rack_spectre_portable_closed.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/utilities/power_cell_64_brace_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/utilities/power_cell_64_single_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
-      "path": "mdl/domestic/fire_extinguisher_case.rmdl", //taking break here
+      "path": "mdl/domestic/fire_extinguisher_case.rmdl",
       "static": true
     },
     {
@@ -16384,91 +16758,109 @@
     {
       "$type": "rmdl",
       "path": "mdl/industrial/modular_railing_trim_long.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/metal_scraps/scrap_metal_panel01_bent.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/industrial/modular_railing_trim_mid.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/metal_scraps/scrap_metal_hinge01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/industrial/modular_railing_trim_a.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/pipes/pipe_modular_painted_yellow_45_angle.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/IMC_base/imc_portable_ext_double_door_frame_red_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/IMC_base/imc_portable_ext_single_door_frame_red_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/thunderdome/thunderdome_cage_frame_64x352_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/thunderdome/thunderdome_stands_girder_32x512_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/thunderdome/thunderdome_spike_traps_small_128_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/thunderdome/thunderdome_cage_frame_32_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/imc_base/imc_portable_int_wall_pipe_corner_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/imc_base/imc_portable_int_wall_pipe_32_valve_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/imc_base/imc_portable_int_wall_pipe_tjunction_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/imc_base/imc_portable_int_wall_pipe_32_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/imc_base/imc_portable_int_wall_pipe_16_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/imc_base/imc_portable_int_wall_pipe_8_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
@@ -16484,6 +16876,7 @@
     {
       "$type": "rmdl",
       "path": "mdl/door/canyonlands_lift_door_frame_large_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
@@ -16504,11 +16897,13 @@
     {
       "$type": "rmdl",
       "path": "mdl/thunderdome/canyonland_thunderdome_ground_cap_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/ola/sewer_staircase_96_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
@@ -16519,6 +16914,7 @@
     {
       "$type": "rmdl",
       "path": "mdl/cockpit/ship_console_control_med_v1.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
@@ -16529,67 +16925,65 @@
     {
       "$type": "rmdl",
       "path": "mdl/ola/sewer_staircase_96_end_02.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/ola/sewer_staircase_48_quad.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/ola/sewer_staircase_96_end_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/ola/sewer_grate_clamp_01_256.rmdl",
-      "static": true
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/IMC_base/camera_imc_base_01.rmdl",
-      "static": true
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/IMC_base/camera_imc_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/domestic/nessy_doll.rmdl",
-      "static": true
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/rocks/rock_white_chalk_modular_flat_02.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/thunderdome/thunderdome_cage_ceiling_256x128_05.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/thunderdome/thunderdome_cage_frame_64x32_01.rmdl",
-      "static": true
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/canyonlands/fabric_canopy_02.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/thunderdome/thunderdome_cage_ceiling_256x32_01.rmdl",
+      "usePhysics": true,
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_themine_cylinder_01.rmdl",
+      "usePhysics": true,
       "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/door/door_canyonlands_large_01_animated.rmdl",
-      "static": true
+      "usePhysics": true,
+      "sequences": [
+        "animseq/door/door_canyonlands_large_01_animated/close.rseq",
+        "animseq/door/door_canyonlands_large_01_animated/open.rseq"
+      ]
     },
     {
       "$type": "rmdl",
