@@ -31,6 +31,42 @@
     },
     {
       "$type": "shdr",
+      "path": "shaderset/0xc65f09bb5104240/0xBD79718F54D706F5",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000212",
+        "0x4034002000D01",
+        "0x2000252",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xc65f09bb5104240/0x604D52BAD6C73789",
+      "numPixelShaderTextures": 31,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0xc65f09bb5104240",
+      "$guid": "0xc65f09bb5104240",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0xc65f09bb5104240/0xBD79718F54D706F5",
+      "pixelShader": "shaderset/0xc65f09bb5104240/0x604D52BAD6C73789"
+    },
+    {
+      "$type": "shdr",
       "path": "shaderset/0xdd54d69f937a066e/0x91331CBED05BB181",
       "numVertexShaderTextures": 0,
       "inputFlags": [
@@ -4491,6 +4527,29 @@
     },
     {
       "$type": "matl",
+      "path": "models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko",
+      "type": "rgdp",
+      "cpu": "cpudata/ceiling_padded_mendoko_rgdc",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x75ab3c79b6cb8ee8",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko_RGDC/ceiling_padded_mendoko_albedoTexture",
+        "1": "texture/models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko_RGDC/ceiling_padded_mendoko_normalTexture",
+        "2": "texture/models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko_RGDC/ceiling_padded_mendoko_glossTexture",
+        "3": "texture/models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko_RGDC/ceiling_padded_mendoko_specTexture",
+        "5": "texture/models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko_RGDC/ceiling_padded_mendoko_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03",
       "type": "rgdc",
       "cpu": "cpudata/floor_panel_mendoko_03_rgdc",
@@ -4556,6 +4615,73 @@
         "2": "texture/models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03_RGDC/floor_panel_mendoko_03_glossTexture",
         "3": "texture/models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03_RGDC/floor_panel_mendoko_03_specTexture",
         "5": "texture/models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03_RGDC/floor_panel_mendoko_03_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/walls/construction_metal_form_walls_02",
+      "type": "rgdc",
+      "cpu": "cpudata/construction_metal_form_walls_02_RGDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x5f14f2898e398863",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/walls/construction_metal_form_walls_02_RGDC/construction_metal_form_walls_02_albedoTexture",
+        "1": "texture/world/walls/construction_metal_form_walls_02_RGDC/construction_metal_form_walls_02_normalTexture",
+        "2": "texture/world/walls/construction_metal_form_walls_02_RGDC/construction_metal_form_walls_02_glossTexture",
+        "3": "texture/world/walls/construction_metal_form_walls_02_RGDC/construction_metal_form_walls_02_specTexture",
+        "5": "texture/world/walls/construction_metal_form_walls_02_RGDC/construction_metal_form_walls_02_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/concrete/concrete_wall_base_02",
+      "type": "rgdp",
+      "cpu": "cpudata/concrete_wall_base_02_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x36627716165fc7da",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/concrete/concrete_wall_base_02_RGDP/concrete_wall_base_02_albedoTexture",
+        "1": "texture/world/concrete/concrete_wall_base_02_RGDP/concrete_wall_base_02_normalTexture",
+        "2": "texture/world/concrete/concrete_wall_base_02_RGDP/concrete_wall_base_02_glossTexture",
+        "3": "texture/world/concrete/concrete_wall_base_02_RGDP/concrete_wall_base_02_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/concrete/concrete_wall_base_02",
+      "type": "rgdc",
+      "cpu": "cpudata/concrete_wall_base_02_RGDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0xc79bdc034a6a677e",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/concrete/concrete_wall_base_02_RGDP/concrete_wall_base_02_albedoTexture",
+        "1": "texture/world/concrete/concrete_wall_base_02_RGDP/concrete_wall_base_02_normalTexture",
+        "2": "texture/world/concrete/concrete_wall_base_02_RGDP/concrete_wall_base_02_glossTexture",
+        "3": "texture/world/concrete/concrete_wall_base_02_RGDP/concrete_wall_base_02_specTexture"
       }
     },
     {
@@ -5527,6 +5653,34 @@
         "1": "texture/models/rocks/thunderdome/rock_sand_large_01_RGDP/rock_sand_large_01_normalTexture",
         "2": "texture/models/rocks/thunderdome/rock_sand_large_01_RGDP/rock_sand_large_01_glossTexture",
         "3": "texture/models/rocks/thunderdome/rock_sand_large_01_RGDP/rock_sand_large_01_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/metal/military_bridge/military_bridge_02_grime_bm",
+      "type": "rgdp",
+      "cpu": "cpudata/military_bridge_02_grime_bm_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "560000A0",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 2,
+      "unkFlags": 4,
+      "shaderset": "0xc65f09bb5104240",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 31,
+      "textures": {
+        "0": "texture/world/metal/military_bridge/military_bridge_02_grime_bm_RGDP/military_bridge_02_grime_bm_albedoTexture",
+        "1": "texture/world/metal/military_bridge/military_bridge_02_grime_bm_RGDP/military_bridge_02_grime_bm_normalTexture",
+        "2": "texture/world/metal/military_bridge/military_bridge_02_grime_bm_RGDP/military_bridge_02_grime_bm_glossTexture",
+        "3": "texture/world/metal/military_bridge/military_bridge_02_grime_bm_RGDP/military_bridge_02_grime_bm_specTexture",
+        "16": "texture/world/metal/military_bridge/military_bridge_02_grime_bm_RGDP/military_bridge_02_grime_bm_layerBlendTexture",
+        "22": "texture/world/metal/military_bridge/military_bridge_02_grime_bm_RGDP/military_bridge_02_grime_bm_albedo2Texture",
+        "23": "texture/world/metal/military_bridge/military_bridge_02_grime_bm_RGDP/military_bridge_02_grime_bm_normal2Texture",
+        "24": "texture/world/metal/military_bridge/military_bridge_02_grime_bm_RGDP/military_bridge_02_grime_bm_gloss2Texture",
+        "25": "texture/world/metal/military_bridge/military_bridge_02_grime_bm_RGDP/military_bridge_02_grime_bm_spec2Texture",
+        "30": "texture/world/metal/military_bridge/military_bridge_02_grime_bm_RGDP/military_bridge_02_grime_bm_30"
       }
     },
     {
@@ -6592,6 +6746,55 @@
     },
     {
       "$type": "matl",
+      "path": "world/asphalt/sidewalk_curb_trim_01",
+      "type": "rgdc",
+      "cpu": "cpudata/sidewalk_curb_trim_01_RGDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0xc79bdc034a6a677e",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/asphalt/sidewalk_curb_trim_01_RGDC/sidewalk_curb_trim_01_albedoTexture",
+        "1": "texture/world/asphalt/sidewalk_curb_trim_01_RGDC/sidewalk_curb_trim_01_normalTexture",
+        "2": "texture/world/asphalt/sidewalk_curb_trim_01_RGDC/sidewalk_curb_trim_01_glossTexture",
+        "3": "texture/world/asphalt/sidewalk_curb_trim_01_RGDC/sidewalk_curb_trim_01_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/ola/stamped_metal_large_rusty_bm",
+      "type": "rgdp",
+      "cpu": "cpudata/stamped_metal_large_rusty_bm_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x302f39ff53b0f990",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 26,
+      "textures": {
+        "0": "texture/world/ola/stamped_metal_large_rusty_bm_RGDP/stamped_metal_large_rusty_bm_albedoTexture",
+        "1": "texture/world/ola/stamped_metal_large_rusty_bm_RGDP/stamped_metal_large_rusty_bm_normalTexture",
+        "2": "texture/world/ola/stamped_metal_large_rusty_bm_RGDP/stamped_metal_large_rusty_bm_glossTexture",
+        "3": "texture/world/ola/stamped_metal_large_rusty_bm_RGDP/stamped_metal_large_rusty_bm_specTexture",
+        "16": "texture/world/ola/stamped_metal_large_rusty_bm_RGDP/stamped_metal_large_rusty_bm_layerBlendTexture",
+        "22": "texture/world/ola/stamped_metal_large_rusty_bm_RGDP/stamped_metal_large_rusty_bm_albedo2Texture",
+        "23": "texture/world/ola/stamped_metal_large_rusty_bm_RGDP/stamped_metal_large_rusty_bm_normal2Texture",
+        "24": "texture/world/ola/stamped_metal_large_rusty_bm_RGDP/stamped_metal_large_rusty_bm_gloss2Texture",
+        "25": "texture/world/ola/stamped_metal_large_rusty_bm_RGDP/stamped_metal_large_rusty_bm_spec2Texture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/asphalt/asphalt08_wet_bm",
       "type": "rgdp",
       "cpu": "cpudata/asphalt08_wet_bm_rgdp",
@@ -6602,6 +6805,33 @@
       "rasterizerFlags": 6,
       "unkFlags": 4,
       "shaderset": "0x302f39ff53b0f990",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 26,
+      "textures": {
+        "0": "texture/world/asphalt/asphalt08_wet_bm_RGDP/asphalt08_wet_bm_albedoTexture",
+        "1": "texture/world/asphalt/asphalt08_wet_bm_RGDP/asphalt08_wet_bm_normalTexture",
+        "2": "texture/world/asphalt/asphalt08_wet_bm_RGDP/asphalt08_wet_bm_glossTexture",
+        "3": "texture/world/asphalt/asphalt08_wet_bm_RGDP/asphalt08_wet_bm_specTexture",
+        "16": "texture/world/asphalt/asphalt08_wet_bm_RGDP/asphalt08_wet_bm_layerBlendTexture",
+        "22": "texture/world/asphalt/asphalt08_wet_bm_RGDP/asphalt08_wet_bm_albedo2Texture",
+        "23": "texture/world/asphalt/asphalt08_wet_bm_RGDP/asphalt08_wet_bm_normal2Texture",
+        "24": "texture/world/asphalt/asphalt08_wet_bm_RGDP/asphalt08_wet_bm_gloss2Texture",
+        "25": "texture/world/asphalt/asphalt08_wet_bm_RGDP/asphalt08_wet_bm_spec2Texture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/asphalt/asphalt08_wet_bm",
+      "type": "rgdc",
+      "cpu": "cpudata/asphalt08_wet_bm_rgdp",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0xc1b58ff9015d72f6",
       "width": 1024,
       "height": 1024,
       "textureSlotCount": 26,
@@ -9348,6 +9578,29 @@
       "rasterizerFlags": 6,
       "unkFlags": 4,
       "shaderset": "0xa80c7b4f263155b9",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/metal/painted_metal_tank_welded_01_vert_color_RGDC/painted_metal_tank_welded_01_vert_color_albedoTexture",
+        "1": "texture/world/metal/painted_metal_tank_welded_01_vert_color_RGDC/painted_metal_tank_welded_01_vert_color_normalTexture",
+        "2": "texture/world/metal/painted_metal_tank_welded_01_vert_color_RGDC/painted_metal_tank_welded_01_vert_color_glossTexture",
+        "3": "texture/world/metal/painted_metal_tank_welded_01_vert_color_RGDC/painted_metal_tank_welded_01_vert_color_specTexture",
+        "5": "texture/world/metal/painted_metal_tank_welded_01_vert_color_RGDC/painted_metal_tank_welded_01_vert_color_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/metal/painted_metal_tank_welded_01_vert_color",
+      "type": "rgdp",
+      "cpu": "cpudata/painted_metal_tank_welded_01_vert_color_rgdp",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x16862555b68b37bd",
       "width": 2048,
       "height": 2048,
       "textureSlotCount": 6,
@@ -12535,6 +12788,72 @@
     },
     {
       "$type": "matl",
+      "path": "world/street_utilities/street_utility_meter_box_a",
+      "type": "rgdp",
+      "cpu": "cpudata/street_utility_meter_box_a_rgdp",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000031",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0xa85733c6f84ddb7",
+      "width": 512,
+      "height": 512,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/street_utilities/street_utility_meter_box_a_RGDC/street_utility_meter_box_a_albedoTexture",
+        "1": "texture/world/street_utilities/street_utility_meter_box_a_RGDC/street_utility_meter_box_a_normalTexture",
+        "2": "texture/world/street_utilities/street_utility_meter_box_a_RGDC/street_utility_meter_box_a_glossTexture",
+        "3": "texture/world/street_utilities/street_utility_meter_box_a_RGDC/street_utility_meter_box_a_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/decal/rise_stain_decal_01_vert_color",
+      "type": "rgdc",
+      "cpu": "cpudata/rise_stain_decal_01_vert_color_RGDC",
+      "blendStates": "F0138286 F0138286 F0008286 F0000000 F0138286 00000000 80500002 00000000",
+      "samplers": "001D0300",
+      "flags2": "56000023",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 22,
+      "unkFlags": 5,
+      "shaderset": "0x3c0821f74fade405",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/decal/rise_stain_decal_01_vert_color_RGDC/rise_stain_decal_01_vert_color_albedoTexture",
+        "1": "texture/world/decal/rise_stain_decal_01_vert_color_RGDC/rise_stain_decal_01_vert_color_normalTexture",
+        "2": "texture/world/decal/rise_stain_decal_01_vert_color_RGDC/rise_stain_decal_01_vert_color_glossTexture",
+        "3": "texture/world/decal/rise_stain_decal_01_vert_color_RGDC/rise_stain_decal_01_vert_color_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/decal/rise_stain_decal_01_vert_color",
+      "type": "rgdp",
+      "cpu": "cpudata/rise_stain_decal_01_vert_color_RGDC",
+      "blendStates": "F0138286 F0138286 F0008286 F0000000 F0138286 00000000 80500002 00000000",
+      "samplers": "001D0300",
+      "flags2": "56000023",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 22,
+      "unkFlags": 5,
+      "shaderset": "0x520489ce84fc3706",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/decal/rise_stain_decal_01_vert_color_RGDC/rise_stain_decal_01_vert_color_albedoTexture",
+        "1": "texture/world/decal/rise_stain_decal_01_vert_color_RGDC/rise_stain_decal_01_vert_color_normalTexture",
+        "2": "texture/world/decal/rise_stain_decal_01_vert_color_RGDC/rise_stain_decal_01_vert_color_glossTexture",
+        "3": "texture/world/decal/rise_stain_decal_01_vert_color_RGDC/rise_stain_decal_01_vert_color_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/test/mike_grey_01_vc",
       "type": "wldc",
       "cpu": "cpudata/mike_grey_01_vc_wldc",
@@ -12767,6 +13086,74 @@
         "2": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_glossTexture",
         "3": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_specTexture",
         "5": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/stasis/stasis_lab_trim_02/stasis_lab_trim_02",
+      "type": "rgdc",
+      "cpu": "cpudata/stasis_lab_trim_02_RGDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x5f14f2898e398863",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_RGDC/stasis_lab_trim_02_albedoTexture",
+        "1": "texture/world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_RGDC/stasis_lab_trim_02_normalTexture",
+        "2": "texture/world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_RGDC/stasis_lab_trim_02_glossTexture",
+        "3": "texture/world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_RGDC/stasis_lab_trim_02_specTexture",
+        "5": "texture/world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_RGDC/stasis_lab_trim_02_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/beacon/stamped_metal_large_painted_03_vert_color",
+      "type": "rgdc",
+      "cpu": "cpudata/stamped_metal_large_painted_03_vert_color_RGDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0xa80c7b4f263155b9",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/beacon/stamped_metal_large_painted_03_vert_color_RGDC/stamped_metal_large_painted_03_vert_color_albedoTexture",
+        "1": "texture/world/beacon/stamped_metal_large_painted_03_vert_color_RGDC/stamped_metal_large_painted_03_vert_color_normalTexture",
+        "2": "texture/world/beacon/stamped_metal_large_painted_03_vert_color_RGDC/stamped_metal_large_painted_03_vert_color_glossTexture",
+        "3": "texture/world/beacon/stamped_metal_large_painted_03_vert_color_RGDC/stamped_metal_large_painted_03_vert_color_specTexture",
+        "5": "texture/world/beacon/stamped_metal_large_painted_03_vert_color_RGDC/stamped_metal_large_painted_03_vert_color_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/metal/railgun_trim_02",
+      "type": "rgdc",
+      "cpu": "cpudata/railgun_trim_02_RGDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0xc79bdc034a6a677e",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/metal/railgun_trim_02_RGDP/railgun_trim_02_albedoTexture",
+        "1": "texture/world/metal/railgun_trim_02_RGDP/railgun_trim_02_normalTexture",
+        "2": "texture/world/metal/railgun_trim_02_RGDP/railgun_trim_02_glossTexture",
+        "3": "texture/world/metal/railgun_trim_02_RGDP/railgun_trim_02_specTexture"
       }
     },
     {
