@@ -5887,6 +5887,50 @@
     },
     {
       "$type": "matl",
+      "path": "models/rocks/thunderdome/thunderdome_quarry_blocks_01",
+      "type": "rgdp",
+      "cpu": "cpudata/thunderdome_quarry_blocks_01_rgdp",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x36627716165fc7da",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/rocks/thunderdome/thunderdome_quarry_blocks_01_WLDC/thunderdome_quarry_blocks_01_albedoTexture",
+        "1": "texture/models/rocks/thunderdome/thunderdome_quarry_blocks_01_WLDC/thunderdome_quarry_blocks_01_normalTexture",
+        "2": "texture/models/rocks/thunderdome/thunderdome_quarry_blocks_01_WLDC/thunderdome_quarry_blocks_01_glossTexture",
+        "3": "texture/models/rocks/thunderdome/thunderdome_quarry_blocks_01_WLDC/thunderdome_quarry_blocks_01_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/rocks/thunderdome/thunderdome_quarry_blocks_02",
+      "type": "rgdp",
+      "cpu": "cpudata/thunderdome_quarry_blocks_02_rgdp",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x36627716165fc7da",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/rocks/thunderdome/thunderdome_quarry_blocks_02_rgdp/thunderdome_quarry_blocks_02_albedoTexture",
+        "1": "texture/models/rocks/thunderdome/thunderdome_quarry_blocks_02_rgdp/thunderdome_quarry_blocks_02_normalTexture",
+        "2": "texture/models/rocks/thunderdome/thunderdome_quarry_blocks_02_rgdp/thunderdome_quarry_blocks_02_glossTexture",
+        "3": "texture/models/rocks/thunderdome/thunderdome_quarry_blocks_02_rgdp/thunderdome_quarry_blocks_02_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "models/rocks/thunderdome/thunderdome_quarry_blocks_03",
       "type": "rgdp",
       "cpu": "cpudata/thunderdome_quarry_blocks_03_rgdp",
@@ -13156,6 +13200,50 @@
     },
     {
       "$type": "matl",
+      "path": "models/utilities/power_cell_64",
+      "type": "rgdp",
+      "cpu": "cpudata/power_cell_64_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x36627716165fc7da",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/utilities/power_cell_64_RGDP/power_cell_64_albedoTexture",
+        "1": "texture/models/utilities/power_cell_64_RGDP/power_cell_64_normalTexture",
+        "2": "texture/models/utilities/power_cell_64_RGDP/power_cell_64_glossTexture",
+        "3": "texture/models/utilities/power_cell_64_RGDP/power_cell_64_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/commercial/rack_spectre_portable_01",
+      "type": "rgdp",
+      "cpu": "cpudata/rack_spectre_portable_01_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x36627716165fc7da",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/commercial/rack_spectre_portable_01_RGDP/rack_spectre_portable_01_albedoTexture",
+        "1": "texture/models/commercial/rack_spectre_portable_01_RGDP/rack_spectre_portable_01_normalTexture",
+        "2": "texture/models/commercial/rack_spectre_portable_01_RGDP/rack_spectre_portable_01_glossTexture",
+        "3": "texture/models/commercial/rack_spectre_portable_01_RGDP/rack_spectre_portable_01_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/decal/rise_stain_decal_01_vert_color",
       "type": "rgdc",
       "cpu": "cpudata/rise_stain_decal_01_vert_color_RGDC",
@@ -16251,6 +16339,256 @@
     {
       "$type": "rmdl",
       "path": "mdl/desertlands/desertlands_train_track_straight_arrows_512.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/rocks/thunderdome_quarry_block_01.rmdl", 
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/rocks/thunderdome_quarry_block_02.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/utilities/power_cell_64_empty.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/commercial/rack_spectre_portable_closed.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/utilities/power_cell_64_brace_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/utilities/power_cell_64_single_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/domestic/fire_extinguisher_case.rmdl", //taking break here
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/IMC_base/ladder_modular_32_IMC.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/industrial/modular_railing_trim_long.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/metal_scraps/scrap_metal_panel01_bent.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/industrial/modular_railing_trim_mid.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/metal_scraps/scrap_metal_hinge01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/industrial/modular_railing_trim_a.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/pipes/pipe_modular_painted_yellow_45_angle.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/IMC_base/imc_portable_ext_double_door_frame_red_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/IMC_base/imc_portable_ext_single_door_frame_red_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/thunderdome/thunderdome_cage_frame_64x352_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/thunderdome/thunderdome_stands_girder_32x512_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/thunderdome/thunderdome_spike_traps_small_128_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/thunderdome/thunderdome_cage_frame_32_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/imc_base/imc_portable_int_wall_pipe_corner_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/imc_base/imc_portable_int_wall_pipe_32_valve_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/imc_base/imc_portable_int_wall_pipe_tjunction_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/imc_base/imc_portable_int_wall_pipe_32_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/imc_base/imc_portable_int_wall_pipe_16_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/imc_base/imc_portable_int_wall_pipe_8_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/beacon/mendoko_wire_cluster_04.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/foliage/moss_green_hanging_large_04.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/door/canyonlands_lift_door_frame_large_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/relic/hanging_relic_light_on_2.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/rocks/rockcluster_light_03.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/rocks/rockcluster_light_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/thunderdome/canyonland_thunderdome_ground_cap_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/ola/sewer_staircase_96_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/canyonlands/concrete_broken_chunk_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/cockpit/ship_console_control_med_v1.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/canyonlands/concrete_broken_chunk_02.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/ola/sewer_staircase_96_end_02.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/ola/sewer_staircase_48_quad.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/ola/sewer_staircase_96_end_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/ola/sewer_grate_clamp_01_256.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/IMC_base/camera_imc_base_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/IMC_base/camera_imc_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/domestic/nessy_doll.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/rocks/rock_white_chalk_modular_flat_02.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/thunderdome/thunderdome_cage_ceiling_256x128_05.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/thunderdome/thunderdome_cage_frame_64x32_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/canyonlands/fabric_canopy_02.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/thunderdome/thunderdome_cage_ceiling_256x32_01.rmdl",
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/door/door_canyonlands_large_01_animated.rmdl",
       "static": true
     },
     {
