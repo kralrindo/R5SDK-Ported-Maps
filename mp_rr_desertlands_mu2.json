@@ -31,6 +31,92 @@
     },
     {
       "$type": "shdr",
+      "path": "shaderset/0x61e4913da01ba4ee/0x68C175CD8879399",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x79000211",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x61e4913da01ba4ee/0x6D7A319D606C7F",
+      "numPixelShaderTextures": 12,
+      "inputFlags": [
+        "0x4434002100D01",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x61e4913da01ba4ee",
+      "$guid": "0x61e4913da01ba4ee",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x61e4913da01ba4ee/0x68C175CD8879399",
+      "pixelShader": "shaderset/0x61e4913da01ba4ee/0x6D7A319D606C7F"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xcd31b06a779d3273/0x68C175CD8879399",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x79000211",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xcd31b06a779d3273/0x279DAA31E0E91697",
+      "numPixelShaderTextures": 8,
+      "inputFlags": [
+        "0x4434002100D01",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0xcd31b06a779d3273",
+      "$guid": "0xcd31b06a779d3273",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0xcd31b06a779d3273/0x68C175CD8879399",
+      "pixelShader": "shaderset/0xcd31b06a779d3273/0x279DAA31E0E91697"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x5fd1a021284ecdfe/0x68C175CD8879399",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x79000211",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x5fd1a021284ecdfe/0xC5D779F0089718A0",
+      "numPixelShaderTextures": 4,
+      "inputFlags": [
+        "0x4434002100D01",
+        "0x4434002100D01",
+        "0x4434002100D01",
+        "0x4434002100D01"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x5fd1a021284ecdfe",
+      "$guid": "0x5fd1a021284ecdfe",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x5fd1a021284ecdfe/0x68C175CD8879399",
+      "pixelShader": "shaderset/0x5fd1a021284ecdfe/0xC5D779F0089718A0"
+    },
+    {
+      "$type": "shdr",
       "path": "shaderset/0xc65f09bb5104240/0xBD79718F54D706F5",
       "numVertexShaderTextures": 0,
       "inputFlags": [
@@ -3583,6 +3669,31 @@
     },
     {
       "$type": "matl",
+      "path": "world/decal/burn_decal",
+      "type": "wldc",
+      "cpu": "cpudata/burn_decal_WLDC",
+      "blendStates": "F0138286 F0138286 F0008286 F0000000 F0138286 00000000 80500002 00000000",
+      "samplers": "001D0300",
+      "flags2": "72000003",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 22,
+      "unkFlags": 5,
+      "shaderset": "0x61e4913da01ba4ee",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 12,
+      "textures": {
+        "0": "texture/world/decal/burn_decal_WLDC/burn_decal_albedoTexture",
+        "1": "texture/world/decal/burn_decal_WLDC/burn_decal_normalTexture",
+        "2": "texture/world/decal/burn_decal_WLDC/burn_decal_glossTexture",
+        "3": "texture/world/decal/burn_decal_WLDC/burn_decal_specTexture",
+        "4": "texture/world/decal/burn_decal_WLDC/burn_decal_emissiveTexture",
+        "10": "texture/world/decal/burn_decal_WLDC/burn_decal_emissiveMultiplyTexture",
+        "11": "texture/world/decal/burn_decal_WLDC/burn_decal_uvDistortionTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "decals/decals_asphalt_road_dirty/decals_asphalt_road_dirty_01",
       "type": "rgdc",
       "cpu": "cpudata/decals_asphalt_road_dirty_01_rgdc",
@@ -6840,6 +6951,57 @@
     },
     {
       "$type": "matl",
+      "path": "world/concrete/concrete_floor_01_cracked_bm",
+      "type": "wldc",
+      "cpu": "cpudata/concrete_floor_01_cracked_bm_WLDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "72000000",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x81b1357d694c34fb",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 26,
+      "textures": {
+        "0": "texture/world/concrete/concrete_floor_01_cracked_bm_WLDC/concrete_floor_01_cracked_bm_albedoTexture",
+        "1": "texture/world/concrete/concrete_floor_01_cracked_bm_WLDC/concrete_floor_01_cracked_bm_normalTexture",
+        "2": "texture/world/concrete/concrete_floor_01_cracked_bm_WLDC/concrete_floor_01_cracked_bm_glossTexture",
+        "3": "texture/world/concrete/concrete_floor_01_cracked_bm_WLDC/concrete_floor_01_cracked_bm_specTexture",
+        "9": "texture/world/concrete/concrete_floor_01_cracked_bm_WLDC/concrete_floor_01_cracked_bm_detailNormalTexture",
+        "16": "texture/world/concrete/concrete_floor_01_cracked_bm_WLDC/concrete_floor_01_cracked_bm_layerBlendTexture",
+        "22": "texture/world/concrete/concrete_floor_01_cracked_bm_WLDC/concrete_floor_01_cracked_bm_albedo2Texture",
+        "23": "texture/world/concrete/concrete_floor_01_cracked_bm_WLDC/concrete_floor_01_cracked_bm_normal2Texture",
+        "24": "texture/world/concrete/concrete_floor_01_cracked_bm_WLDC/concrete_floor_01_cracked_bm_gloss2Texture",
+        "25": "texture/world/concrete/concrete_floor_01_cracked_bm_WLDC/concrete_floor_01_cracked_bm_spec2Texture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/mendoko/interior/panel_trim_mendoko/panel_trim_mendoko",
+      "type": "wldc",
+      "cpu": "cpudata/panel_trim_mendoko_WLDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "72000000",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x94ab808cfb7edf5c",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/models/mendoko/interior/panel_trim_mendoko/panel_trim_mendoko_WLDC/panel_trim_mendoko_albedoTexture",
+        "1": "texture/models/mendoko/interior/panel_trim_mendoko/panel_trim_mendoko_WLDC/panel_trim_mendoko_normalTexture",
+        "2": "texture/models/mendoko/interior/panel_trim_mendoko/panel_trim_mendoko_WLDC/panel_trim_mendoko_glossTexture",
+        "3": "texture/models/mendoko/interior/panel_trim_mendoko/panel_trim_mendoko_WLDC/panel_trim_mendoko_specTexture",
+        "5": "texture/models/mendoko/interior/panel_trim_mendoko/panel_trim_mendoko_WLDC/panel_trim_mendoko_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/metal/military_bridge/military_bridge_01_grime_bm",
       "type": "rgdp",
       "cpu": "cpudata/military_bridge_01_grime_bm_RGDP",
@@ -7001,6 +7163,28 @@
       "textureSlotCount": 1,
       "textures": {
         "0": "texture/world/atmosphere/atmosphere_1500_fade_thick_depth_RGDP/atmosphere_1500_fade_thick_depth_albedoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/beacon/beacon_building_overlay_decal",
+      "type": "wldc",
+      "cpu": "cpudata/beacon_building_overlay_decal_wldc",
+      "blendStates": "F0138286 F0138286 F0008286 F0000000 F0138286 00000000 80500002 00000000",
+      "samplers": "001D0300",
+      "flags2": "72000003",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 22,
+      "unkFlags": 5,
+      "shaderset": "0xd38a01109f170a8e",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/beacon/beacon_building_overlay_decal_RGDC/beacon_building_overlay_decal_albedoTexture",
+        "1": "texture/world/beacon/beacon_building_overlay_decal_RGDC/beacon_building_overlay_decal_normalTexture",
+        "2": "texture/world/beacon/beacon_building_overlay_decal_RGDC/beacon_building_overlay_decal_glossTexture",
+        "3": "texture/world/beacon/beacon_building_overlay_decal_RGDC/beacon_building_overlay_decal_specTexture"
       }
     },
     {
@@ -7219,6 +7403,29 @@
       "rasterizerFlags": 6,
       "unkFlags": 4,
       "shaderset": "0xa80c7b4f263155b9",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_RGDC/beacon_metal_panel_grey_02_vc_albedoTexture",
+        "1": "texture/world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_RGDC/beacon_metal_panel_grey_02_vc_normalTexture",
+        "2": "texture/world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_RGDC/beacon_metal_panel_grey_02_vc_glossTexture",
+        "3": "texture/world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_RGDC/beacon_metal_panel_grey_02_vc_specTexture",
+        "5": "texture/world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_RGDC/beacon_metal_panel_grey_02_vc_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc",
+      "type": "wldc",
+      "cpu": "cpudata/beacon_metal_panel_grey_02_vc_wldc",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "72000000",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x2b7fda9898c77ed1",
       "width": 2048,
       "height": 2048,
       "textureSlotCount": 6,
@@ -12220,6 +12427,28 @@
     },
     {
       "$type": "matl",
+      "path": "world/decal/grunge_decal_drips",
+      "type": "wldc",
+      "cpu": "cpudata/grunge_decal_drips_WLDC",
+      "blendStates": "F0138286 F0138286 F0008286 F0000000 F0138286 00000000 80500002 00000000",
+      "samplers": "001D0300",
+      "flags2": "72000003",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 22,
+      "unkFlags": 5,
+      "shaderset": "0xcd31b06a779d3273",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 8,
+      "textures": {
+        "0": "texture/world/decal/grunge_decal_drips_WLDC/grunge_decal_drips_albedoTexture",
+        "1": "texture/world/decal/grunge_decal_drips_WLDC/grunge_decal_drips_normalTexture",
+        "2": "texture/world/decal/grunge_decal_drips_WLDC/grunge_decal_drips_glossTexture",
+        "7": "texture/world/decal/grunge_decal_drips_WLDC/grunge_decal_drips_opacityMultiplyTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/s2s/s2s_bridge_glass_cracked_01/s2s_bridge_glass_cracked_01_decal",
       "type": "rgdc",
       "cpu": "cpudata/s2s_bridge_glass_cracked_01_decal_rgdc",
@@ -12285,6 +12514,29 @@
         "2": "texture/world/s2s/s2s_floor_01_WLDC/s2s_floor_01_glossTexture",
         "3": "texture/world/s2s/s2s_floor_01_WLDC/s2s_floor_01_specTexture",
         "5": "texture/world/s2s/s2s_floor_01_WLDC/s2s_floor_01_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/s2s/s2s_floor_03",
+      "type": "wldc",
+      "cpu": "cpudata/s2s_floor_03_wldc",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "72000000",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x94ab808cfb7edf5c",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/s2s/s2s_floor_03_wldc/s2s_floor_03_albedoTexture",
+        "1": "texture/world/s2s/s2s_floor_03_wldc/s2s_floor_03_normalTexture",
+        "2": "texture/world/s2s/s2s_floor_03_wldc/s2s_floor_03_glossTexture",
+        "3": "texture/world/s2s/s2s_floor_03_wldc/s2s_floor_03_specTexture",
+        "5": "texture/world/s2s/s2s_floor_03_wldc/s2s_floor_03_aoTexture"
       }
     },
     {
@@ -12839,13 +13091,35 @@
     {
       "$type": "matl",
       "path": "world/street_utilities/street_utility_meter_box_a",
+      "type": "wldc",
+      "cpu": "cpudata/street_utility_meter_box_a_wldc",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "72000011",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 22,
+      "unkFlags": 4,
+      "shaderset": "0x5fd1a021284ecdfe",
+      "width": 512,
+      "height": 512,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/street_utilities/street_utility_meter_box_a_RGDC/street_utility_meter_box_a_albedoTexture",
+        "1": "texture/world/street_utilities/street_utility_meter_box_a_RGDC/street_utility_meter_box_a_normalTexture",
+        "2": "texture/world/street_utilities/street_utility_meter_box_a_RGDC/street_utility_meter_box_a_glossTexture",
+        "3": "texture/world/street_utilities/street_utility_meter_box_a_RGDC/street_utility_meter_box_a_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/street_utilities/street_utility_meter_box_a",
       "type": "rgdc",
       "cpu": "cpudata/street_utility_meter_box_a_rgdc",
       "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
       "samplers": "001D0300",
       "flags2": "56000031",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 22,
       "unkFlags": 4,
       "shaderset": "0xa807f8e155ec5c6",
       "width": 512,
@@ -12866,8 +13140,8 @@
       "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
       "samplers": "001D0300",
       "flags2": "56000031",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 22,
       "unkFlags": 4,
       "shaderset": "0xa85733c6f84ddb7",
       "width": 512,
@@ -13185,6 +13459,29 @@
     },
     {
       "$type": "matl",
+      "path": "world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01",
+      "type": "wldc",
+      "cpu": "cpudata/timeshift_metal_trim_01_RGDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "72000000",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x94ab808cfb7edf5c",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_albedoTexture",
+        "1": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_normalTexture",
+        "2": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_glossTexture",
+        "3": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_specTexture",
+        "5": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/stasis/stasis_lab_trim_02/stasis_lab_trim_02",
       "type": "rgdc",
       "cpu": "cpudata/stasis_lab_trim_02_RGDC",
@@ -13204,6 +13501,29 @@
         "2": "texture/world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_RGDC/stasis_lab_trim_02_glossTexture",
         "3": "texture/world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_RGDC/stasis_lab_trim_02_specTexture",
         "5": "texture/world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_RGDC/stasis_lab_trim_02_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/beacon/stamped_metal_large_painted_03_vert_color",
+      "type": "wldc",
+      "cpu": "cpudata/stamped_metal_large_painted_03_vert_color_WLDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "72000000",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x2b7fda9898c77ed1",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/beacon/stamped_metal_large_painted_03_vert_color_RGDC/stamped_metal_large_painted_03_vert_color_albedoTexture",
+        "1": "texture/world/beacon/stamped_metal_large_painted_03_vert_color_RGDC/stamped_metal_large_painted_03_vert_color_normalTexture",
+        "2": "texture/world/beacon/stamped_metal_large_painted_03_vert_color_RGDC/stamped_metal_large_painted_03_vert_color_glossTexture",
+        "3": "texture/world/beacon/stamped_metal_large_painted_03_vert_color_RGDC/stamped_metal_large_painted_03_vert_color_specTexture",
+        "5": "texture/world/beacon/stamped_metal_large_painted_03_vert_color_RGDC/stamped_metal_large_painted_03_vert_color_aoTexture"
       }
     },
     {
@@ -13275,6 +13595,50 @@
     },
     {
       "$type": "matl",
+      "path": "world/metal/railgun_trim_02",
+      "type": "wldc",
+      "cpu": "cpudata/railgun_trim_02_WLDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "72000000",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x4b0f3b4cbd009096",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/metal/railgun_trim_02_RGDP/railgun_trim_02_albedoTexture",
+        "1": "texture/world/metal/railgun_trim_02_RGDP/railgun_trim_02_normalTexture",
+        "2": "texture/world/metal/railgun_trim_02_RGDP/railgun_trim_02_glossTexture",
+        "3": "texture/world/metal/railgun_trim_02_RGDP/railgun_trim_02_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/decal/scorch_decal_BIG",
+      "type": "wldc",
+      "cpu": "cpudata/scorch_decal_BIG_WLDC",
+      "blendStates": "F0138286 F0138286 F0008286 F0000000 F0138286 00000000 80500002 00000000",
+      "samplers": "001D0300",
+      "flags2": "72000003",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 22,
+      "unkFlags": 5,
+      "shaderset": "0x59566b30b22bb2c3",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/decal/scorch_decal_BIG_WLDC/scorch_decal_BIG_albedoTexture",
+        "1": "texture/world/decal/scorch_decal_BIG_WLDC/scorch_decal_BIG_normalTexture",
+        "2": "texture/world/decal/scorch_decal_BIG_WLDC/scorch_decal_BIG_glossTexture",
+        "3": "texture/world/decal/scorch_decal_BIG_WLDC/scorch_decal_BIG_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "models/industrial/modular_railing_trim",
       "type": "rgdp",
       "cpu": "cpudata/modular_railing_trim_RGDP",
@@ -13293,6 +13657,28 @@
         "1": "texture/models/industrial/modular_railing_trim_RGDP/modular_railing_trim_normalTexture",
         "2": "texture/models/industrial/modular_railing_trim_RGDP/modular_railing_trim_glossTexture",
         "3": "texture/models/industrial/modular_railing_trim_RGDP/modular_railing_trim_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/metal/metal_grate_orangepanels",
+      "type": "wldc",
+      "cpu": "cpudata/metal_grate_orangepanels_WLDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "72000090",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 2,
+      "unkFlags": 4,
+      "shaderset": "0xfc2837c74bbf8e0f",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/metal/metal_grate_orangepanels_WLDC/metal_grate_orangepanels_albedoTexture",
+        "1": "texture/world/metal/metal_grate_orangepanels_WLDC/metal_grate_orangepanels_normalTexture",
+        "2": "texture/world/metal/metal_grate_orangepanels_WLDC/metal_grate_orangepanels_glossTexture",
+        "3": "texture/world/metal/metal_grate_orangepanels_WLDC/metal_grate_orangepanels_specTexture"
       }
     },
     {
@@ -13506,6 +13892,29 @@
         "2": "texture/world/windows/glass_window_bulletproof01_RGDP/glass_window_bulletproof01_glossTexture",
         "3": "texture/world/windows/glass_window_bulletproof01_RGDP/glass_window_bulletproof01_specTexture",
         "7": "texture/world/windows/glass_window_bulletproof01_RGDP/glass_window_bulletproof01_opacityMultiplyTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/windows/glass_window_bulletproof01_less_transparent",
+      "type": "wldc",
+      "cpu": "cpudata/glass_window_bulletproof01_less_transparent_WLDC",
+      "blendStates": "F0138286 F0138286 F0008286 F0000000 F0138286 00000000 80500002 00000000",
+      "samplers": "001D0300",
+      "flags2": "72000002",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 6,
+      "unkFlags": 5,
+      "shaderset": "0xdc4c37805d811310",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 8,
+      "textures": {
+        "0": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_albedoTexture",
+        "1": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_normalTexture",
+        "2": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_glossTexture",
+        "3": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_specTexture",
+        "7": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_opacityMultiplyTexture"
       }
     },
     {
