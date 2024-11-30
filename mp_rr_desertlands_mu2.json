@@ -31,6 +31,182 @@
     },
     {
       "$type": "shdr",
+      "path": "shaderset/0xdd54d69f937a066e/0x91331CBED05BB181",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000201",
+        "0x4030002000D01",
+        "0x2000241",
+        "0x4030002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xdd54d69f937a066e/0xF00AECEAC89C2C49",
+      "numPixelShaderTextures": 10,
+      "inputFlags": [
+        "0x4030002000D01",
+        "0x4030002000D01",
+        "0x4030002000D41",
+        "0x4030002000D41",
+        "0x4030002000D01",
+        "0x4030002000D01",
+        "0x4030002000D41",
+        "0x4030002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0xdd54d69f937a066e",
+      "$guid": "0xdd54d69f937a066e",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0xdd54d69f937a066e/0x91331CBED05BB181",
+      "pixelShader": "shaderset/0xdd54d69f937a066e/0xF00AECEAC89C2C49"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xa7097dda709bb243/0xBD79718F54D706F5",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000212",
+        "0x4034002000D01",
+        "0x2000252",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xa7097dda709bb243/0xB86A8F89A060E889",
+      "numPixelShaderTextures": 4,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0xa7097dda709bb243",
+      "$guid": "0xa7097dda709bb243",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0xa7097dda709bb243/0xBD79718F54D706F5",
+      "pixelShader": "shaderset/0xa7097dda709bb243/0xB86A8F89A060E889"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xd3483e99366ac6aa/0xBD79718F54D706F5",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000212",
+        "0x4034002000D01",
+        "0x2000252",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xd3483e99366ac6aa/0xEF14E0BCE8DFEB9C",
+      "numPixelShaderTextures": 7,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0xd3483e99366ac6aa",
+      "$guid": "0xd3483e99366ac6aa",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0xd3483e99366ac6aa/0xBD79718F54D706F5",
+      "pixelShader": "shaderset/0xd3483e99366ac6aa/0xEF14E0BCE8DFEB9C"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x52589eb1faf32296/0xBD79718F54D706F5",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000212",
+        "0x4034002000D01",
+        "0x2000252",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x52589eb1faf32296/0xE1E391D91FD02DCA",
+      "numPixelShaderTextures": 33,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x52589eb1faf32296",
+      "$guid": "0x52589eb1faf32296",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x52589eb1faf32296/0xBD79718F54D706F5",
+      "pixelShader": "shaderset/0x52589eb1faf32296/0xE1E391D91FD02DCA"
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xa80c7b4f263155b9/0xC6977DCFE447FEEF",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000211",
+        "0x4034002000D01",
+        "0x2000251",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0xa80c7b4f263155b9/0xF2FE3E2319087B21",
+      "numPixelShaderTextures": 6,
+      "inputFlags": [
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41",
+        "0x4034002000D01",
+        "0x4034002000D01",
+        "0x4034002000D41",
+        "0x4034002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0xa80c7b4f263155b9",
+      "$guid": "0xa80c7b4f263155b9",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0xa80c7b4f263155b9/0xC6977DCFE447FEEF",
+      "pixelShader": "shaderset/0xa80c7b4f263155b9/0xF2FE3E2319087B21"
+    },
+    {
+      "$type": "shdr",
       "path": "shaderset/0x52be692c7c2e683/0x91331CBED05BB181",
       "numVertexShaderTextures": 0,
       "inputFlags": [
@@ -4103,6 +4279,28 @@
     },
     {
       "$type": "matl",
+      "path": "models/imc_interior/imc_int_glass",
+      "type": "rgdp",
+      "cpu": "cpudata/imc_int_glass_rgdp",
+      "blendStates": "F0138286 F0138286 F0008286 F0000000 F0138286 00000000 80500002 00000000",
+      "samplers": "001D0300",
+      "flags2": "56000022",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 6,
+      "unkFlags": 5,
+      "shaderset": "0xa7097dda709bb243",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/imc_interior/imc_int_glass_WLDC/imc_int_glass_albedoTexture",
+        "1": "texture/models/imc_interior/imc_int_glass_WLDC/imc_int_glass_normalTexture",
+        "2": "texture/models/imc_interior/imc_int_glass_WLDC/imc_int_glass_glossTexture",
+        "3": "texture/models/imc_interior/imc_int_glass_WLDC/imc_int_glass_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "models/lamps/search_light_glass_on",
       "type": "rgdp",
       "cpu": "cpudata/search_light_glass_on_rgdp",
@@ -6915,6 +7113,29 @@
     {
       "$type": "matl",
       "path": "world/concrete/concrete_broken_surface",
+      "type": "rgdp",
+      "cpu": "cpudata/concrete_broken_surface_rgdc",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0xd3483e99366ac6aa",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 7,
+      "textures": {
+        "0": "texture/world/concrete/concrete_broken_surface_RGDC/concrete_broken_surface_albedoTexture",
+        "1": "texture/world/concrete/concrete_broken_surface_RGDC/concrete_broken_surface_normalTexture",
+        "2": "texture/world/concrete/concrete_broken_surface_RGDC/concrete_broken_surface_glossTexture",
+        "3": "texture/world/concrete/concrete_broken_surface_RGDC/concrete_broken_surface_specTexture",
+        "6": "texture/world/concrete/concrete_broken_surface_RGDC/concrete_broken_surface_cavityTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/concrete/concrete_broken_surface",
       "type": "wldc",
       "cpu": "cpudata/concrete_broken_surface_wldc",
       "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
@@ -7259,6 +7480,75 @@
         "3": "texture/world/decal/bloodhound_tt_decal_01_RGDP/bloodhound_tt_decal_01_3",
         "7": "texture/world/decal/bloodhound_tt_decal_01_RGDP/bloodhound_tt_decal_01_opacityMultiplyTexture",
         "9": "texture/world/decal/bloodhound_tt_decal_01_RGDP/bloodhound_tt_decal_01_detailNormalTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/cockpit/ship_console_control_tower",
+      "type": "rgdp",
+      "cpu": "cpudata/ship_console_control_tower_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000023",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0xe630639c8b35bd9",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/models/cockpit/ship_console_control_tower_RGDP/ship_console_control_tower_albedoTexture",
+        "1": "texture/models/cockpit/ship_console_control_tower_RGDP/ship_console_control_tower_normalTexture",
+        "2": "texture/models/cockpit/ship_console_control_tower_RGDP/ship_console_control_tower_glossTexture",
+        "3": "texture/models/cockpit/ship_console_control_tower_RGDP/ship_console_control_tower_specTexture",
+        "5": "texture/models/cockpit/ship_console_control_tower_RGDP/ship_console_control_tower_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/cockpit/ship_console_control_small",
+      "type": "rgdp",
+      "cpu": "cpudata/ship_console_control_small_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000023",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0xe630639c8b35bd9",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/models/cockpit/ship_console_control_small_RGDP/ship_console_control_small_albedoTexture",
+        "1": "texture/models/cockpit/ship_console_control_small_RGDP/ship_console_control_small_normalTexture",
+        "2": "texture/models/cockpit/ship_console_control_small_RGDP/ship_console_control_small_glossTexture",
+        "3": "texture/models/cockpit/ship_console_control_small_RGDP/ship_console_control_small_specTexture",
+        "5": "texture/models/cockpit/ship_console_control_small_RGDP/ship_console_control_small_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/cockpit/ship_interior_console_screens",
+      "type": "rgdp",
+      "cpu": "cpudata/ship_interior_console_screens_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000023",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x2a2db3a47af9b3d5",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 5,
+      "textures": {
+        "0": "texture/models/cockpit/ship_interior_console_screens_RGDP/ship_interior_console_screens_albedoTexture",
+        "1": "texture/models/cockpit/ship_interior_console_screens_RGDP/ship_interior_console_screens_normalTexture",
+        "2": "texture/models/cockpit/ship_interior_console_screens_RGDP/ship_interior_console_screens_glossTexture",
+        "3": "texture/models/cockpit/ship_interior_console_screens_RGDP/ship_interior_console_screens_specTexture",
+        "4": "texture/models/cockpit/ship_interior_console_screens_RGDP/ship_interior_console_screens_emissiveTexture"
       }
     },
     {
@@ -8169,6 +8459,35 @@
     },
     {
       "$type": "matl",
+      "path": "world/concrete/concrete_base_01_concrete_base_01_cracked_bm",
+      "type": "rgdp",
+      "cpu": "cpudata/concrete_base_01_concrete_base_01_cracked_bm_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x52589eb1faf32296",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 33,
+      "textures": {
+        "0": "texture/world/concrete/concrete_base_01_concrete_base_01_cracked_bm_RGDP/concrete_base_01_concrete_base_01_cracked_bm_albedoTexture",
+        "1": "texture/world/concrete/concrete_base_01_concrete_base_01_cracked_bm_RGDP/concrete_base_01_concrete_base_01_cracked_bm_normalTexture",
+        "2": "texture/world/concrete/concrete_base_01_concrete_base_01_cracked_bm_RGDP/concrete_base_01_concrete_base_01_cracked_bm_glossTexture",
+        "3": "texture/world/concrete/concrete_base_01_concrete_base_01_cracked_bm_RGDP/concrete_base_01_concrete_base_01_cracked_bm_specTexture",
+        "9": "texture/world/concrete/concrete_base_01_concrete_base_01_cracked_bm_RGDP/concrete_base_01_concrete_base_01_cracked_bm_detailNormalTexture",
+        "16": "texture/world/concrete/concrete_base_01_concrete_base_01_cracked_bm_RGDP/concrete_base_01_concrete_base_01_cracked_bm_layerBlendTexture",
+        "22": "texture/world/concrete/concrete_base_01_concrete_base_01_cracked_bm_RGDP/concrete_base_01_concrete_base_01_cracked_bm_albedo2Texture",
+        "23": "texture/world/concrete/concrete_base_01_concrete_base_01_cracked_bm_RGDP/concrete_base_01_concrete_base_01_cracked_bm_normal2Texture",
+        "24": "texture/world/concrete/concrete_base_01_concrete_base_01_cracked_bm_RGDP/concrete_base_01_concrete_base_01_cracked_bm_gloss2Texture",
+        "25": "texture/world/concrete/concrete_base_01_concrete_base_01_cracked_bm_RGDP/concrete_base_01_concrete_base_01_cracked_bm_spec2Texture",
+        "32": "texture/world/concrete/concrete_base_01_concrete_base_01_cracked_bm_RGDP/concrete_base_01_concrete_base_01_cracked_bm_detailNormal2Texture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/mcor/mcor_floor_panel_02",
       "type": "rgdc",
       "cpu": "cpudata/mcor_floor_panel_02_rgdc",
@@ -8782,6 +9101,52 @@
     },
     {
       "$type": "matl",
+      "path": "world/s2s/s2s_metal_trims_02_vc",
+      "type": "rgdc",
+      "cpu": "cpudata/s2s_metal_trims_02_vc_rgdc",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0xa80c7b4f263155b9",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/s2s/s2s_metal_trims_02_vc_rgdc/s2s_metal_trims_02_vc_albedoTexture",
+        "1": "texture/world/s2s/s2s_metal_trims_02_vc_rgdc/s2s_metal_trims_02_vc_normalTexture",
+        "2": "texture/world/s2s/s2s_metal_trims_02_vc_rgdc/s2s_metal_trims_02_vc_glossTexture",
+        "3": "texture/world/s2s/s2s_metal_trims_02_vc_rgdc/s2s_metal_trims_02_vc_specTexture",
+        "5": "texture/world/s2s/s2s_metal_trims_02_vc_rgdc/s2s_metal_trims_02_vc_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/metal/metal_grate_stretched01",
+      "type": "rgdc",
+      "cpu": "cpudata/metal_grate_stretched01_RGDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "560000B0",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 2,
+      "unkFlags": 4,
+      "shaderset": "0xdd54d69f937a066e",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 10,
+      "textures": {
+        "0": "texture/world/metal/metal_grate_stretched01_rgdc/metal_grate_stretched01_albedoTexture",
+        "1": "texture/world/metal/metal_grate_stretched01_rgdc/metal_grate_stretched01_normalTexture",
+        "2": "texture/world/metal/metal_grate_stretched01_rgdc/metal_grate_stretched01_2",
+        "3": "texture/world/metal/metal_grate_stretched01_rgdc/metal_grate_stretched01_3",
+        "9": "texture/world/metal/metal_grate_stretched01_rgdc/metal_grate_stretched01_detailNormalTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/metal/s2s_metal_trims_02_vc_dirty_bm",
       "type": "sknp",
       "cpu": "cpudata/s2s_metal_trims_02_vc_dirty_bm_sknp",
@@ -9358,6 +9723,52 @@
       "rasterizerFlags": 6,
       "unkFlags": 4,
       "shaderset": "0x7b8565f309b72c7c",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/stasis/stasis_trim_02/stasis_trim_02_sknp/stasis_trim_02_albedoTexture",
+        "1": "texture/world/stasis/stasis_trim_02/stasis_trim_02_sknp/stasis_trim_02_normalTexture",
+        "2": "texture/world/stasis/stasis_trim_02/stasis_trim_02_sknp/stasis_trim_02_glossTexture",
+        "3": "texture/world/stasis/stasis_trim_02/stasis_trim_02_sknp/stasis_trim_02_specTexture",
+        "5": "texture/world/stasis/stasis_trim_02/stasis_trim_02_sknp/stasis_trim_02_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/floors/plastic_panels_large",
+      "type": "rgdc",
+      "cpu": "cpudata/plastic_panels_large_RGDC",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x5f14f2898e398863",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/floors/plastic_panels_large_RGDC/plastic_panels_large_albedoTexture",
+        "1": "texture/world/floors/plastic_panels_large_RGDC/plastic_panels_large_normalTexture",
+        "2": "texture/world/floors/plastic_panels_large_RGDC/plastic_panels_large_glossTexture",
+        "3": "texture/world/floors/plastic_panels_large_RGDC/plastic_panels_large_specTexture",
+        "5": "texture/world/floors/plastic_panels_large_RGDC/plastic_panels_large_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/stasis/stasis_trim_02/stasis_trim_02",
+      "type": "rgdc",
+      "cpu": "cpudata/stasis_trim_02_rgdc",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x5f14f2898e398863",
       "width": 2048,
       "height": 2048,
       "textureSlotCount": 6,
@@ -10139,6 +10550,33 @@
     },
     {
       "$type": "matl",
+      "path": "world/ola/concrete_01_wet_bm",
+      "type": "rgdp",
+      "cpu": "cpudata/concrete_01_wet_bm_rgdp",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x302f39ff53b0f990",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 26,
+      "textures": {
+        "0": "texture/world/ola/concrete_01_wet_bm_RGDC/concrete_01_wet_bm_albedoTexture",
+        "1": "texture/world/ola/concrete_01_wet_bm_RGDC/concrete_01_wet_bm_normalTexture",
+        "2": "texture/world/ola/concrete_01_wet_bm_RGDC/concrete_01_wet_bm_glossTexture",
+        "3": "texture/world/ola/concrete_01_wet_bm_RGDC/concrete_01_wet_bm_specTexture",
+        "16": "texture/world/ola/concrete_01_wet_bm_RGDC/concrete_01_wet_bm_layerBlendTexture",
+        "22": "texture/world/ola/concrete_01_wet_bm_RGDC/concrete_01_wet_bm_albedo2Texture",
+        "23": "texture/world/ola/concrete_01_wet_bm_RGDC/concrete_01_wet_bm_normal2Texture",
+        "24": "texture/world/ola/concrete_01_wet_bm_RGDC/concrete_01_wet_bm_gloss2Texture",
+        "25": "texture/world/ola/concrete_01_wet_bm_RGDC/concrete_01_wet_bm_spec2Texture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/ola/concrete_02_wet_bm",
       "type": "rgdc",
       "cpu": "cpudata/concrete_02_wet_bm_rgdc",
@@ -10162,6 +10600,56 @@
         "23": "texture/world/ola/concrete_02_wet_bm_rgdc/concrete_02_wet_bm_normal2Texture",
         "24": "texture/world/ola/concrete_02_wet_bm_rgdc/concrete_02_wet_bm_gloss2Texture",
         "25": "texture/world/ola/concrete_02_wet_bm_rgdc/concrete_02_wet_bm_25"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/ola/concrete_02_wet_bm",
+      "type": "rgdp",
+      "cpu": "cpudata/concrete_02_wet_bm_rgdp",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x92c7200f1fb8d164",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 26,
+      "textures": {
+        "0": "texture/world/ola/concrete_02_wet_bm_rgdc/concrete_02_wet_bm_albedoTexture",
+        "1": "texture/world/ola/concrete_02_wet_bm_rgdc/concrete_02_wet_bm_normalTexture",
+        "2": "texture/world/ola/concrete_02_wet_bm_rgdc/concrete_02_wet_bm_glossTexture",
+        "3": "texture/world/ola/concrete_02_wet_bm_rgdc/concrete_02_wet_bm_3",
+        "16": "texture/world/ola/concrete_02_wet_bm_rgdc/concrete_02_wet_bm_layerBlendTexture",
+        "22": "texture/world/ola/concrete_02_wet_bm_rgdc/concrete_02_wet_bm_albedo2Texture",
+        "23": "texture/world/ola/concrete_02_wet_bm_rgdc/concrete_02_wet_bm_normal2Texture",
+        "24": "texture/world/ola/concrete_02_wet_bm_rgdc/concrete_02_wet_bm_gloss2Texture",
+        "25": "texture/world/ola/concrete_02_wet_bm_rgdc/concrete_02_wet_bm_25"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01",
+      "type": "rgdp",
+      "cpu": "cpudata/mendoko_pipes_01_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x75ab3c79b6cb8ee8",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_RGDP/mendoko_pipes_01_albedoTexture",
+        "1": "texture/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_RGDP/mendoko_pipes_01_normalTexture",
+        "2": "texture/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_RGDP/mendoko_pipes_01_glossTexture",
+        "3": "texture/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_RGDP/mendoko_pipes_01_specTexture",
+        "5": "texture/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_RGDP/mendoko_pipes_01_aoTexture"
       }
     },
     {
@@ -12260,6 +12748,73 @@
     },
     {
       "$type": "matl",
+      "path": "world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01",
+      "type": "rgdp",
+      "cpu": "cpudata/timeshift_metal_trim_01_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x75ab3c79b6cb8ee8",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_albedoTexture",
+        "1": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_normalTexture",
+        "2": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_glossTexture",
+        "3": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_specTexture",
+        "5": "texture/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_RGDP/timeshift_metal_trim_01_aoTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/metal/railgun_trim_02",
+      "type": "rgdp",
+      "cpu": "cpudata/railgun_trim_02_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x36627716165fc7da",
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/metal/railgun_trim_02_RGDP/railgun_trim_02_albedoTexture",
+        "1": "texture/world/metal/railgun_trim_02_RGDP/railgun_trim_02_normalTexture",
+        "2": "texture/world/metal/railgun_trim_02_RGDP/railgun_trim_02_glossTexture",
+        "3": "texture/world/metal/railgun_trim_02_RGDP/railgun_trim_02_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/industrial/modular_railing_trim",
+      "type": "rgdp",
+      "cpu": "cpudata/modular_railing_trim_RGDP",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x36627716165fc7da",
+      "width": 512,
+      "height": 256,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/industrial/modular_railing_trim_RGDP/modular_railing_trim_albedoTexture",
+        "1": "texture/models/industrial/modular_railing_trim_RGDP/modular_railing_trim_normalTexture",
+        "2": "texture/models/industrial/modular_railing_trim_RGDP/modular_railing_trim_glossTexture",
+        "3": "texture/models/industrial/modular_railing_trim_RGDP/modular_railing_trim_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/utility/cable_large_steel_02",
       "type": "rgdp",
       "cpu": "cpudata/cable_large_steel_02_rgdp",
@@ -12896,25 +13451,12 @@
     {
       "$type": "rmdl",
       "path": "mdl/desertlands/rocket_engine_small.rmdl",
-      "static": true,
-      "materials": [
-        "world/s2s/s2s_metal_trims_01_rgdp",
-        "world/s2s/s2s_wall_trim_03_rgdp",
-        "world/dev/dev_gray_512_v_color_rgdp"
-      ]
+      "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/desertlands/rocket_thruster_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_destroyed/timeshift_metal_trim_01_destroyed_rgdp",
-        "world/s2s/s2s_floor_03_rgdp",
-        "world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_rgdp",
-        "world/metal/railgun_trim_02_rgdp",
-        "world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_rgdp",
-        "world/s2s/s2s_painted_metal_01_rgdp"
-      ]
+      "static": true
     },
     {
       "$type": "rmdl",
@@ -12927,26 +13469,17 @@
     {
       "$type": "rmdl",
       "path": "mdl/fixtures/stasis_light_01_off.rmdl",
-      "static": true,
-      "materials": [
-        "models/fixtures/stasis_light_01/stasis_light_01_rgdp"
-      ]
+      "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/foliage/grass_burnt_yellow_01.rmdl",
-      "static": true,
-      "materials": [
-        "models/foliage/grass_canyonland_burnt_long_02_rgdp"
-      ]
+      "static": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/foliage/grass_burnt_yellow_02.rmdl",
-      "static": true,
-      "materials": [
-        "models/foliage/grass_canyonland_burnt_long_02_rgdp"
-      ]
+      "static": true
     },
     {
       "$type": "rmdl",
