@@ -31,6 +31,38 @@
     },
     {
       "$type": "shdr",
+      "path": "shaderset/0x52be692c7c2e683/0x91331CBED05BB181",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000201",
+        "0x4030002000D01",
+        "0x2000241",
+        "0x4030002000D41"
+      ]
+    },
+    {
+      "$type": "shdr",
+      "path": "shaderset/0x52be692c7c2e683/0xCBCF98A5C17D9693",
+      "numPixelShaderTextures": 8,
+      "inputFlags": [
+        "0x4030002000D01",
+        "0x4030002000D41",
+        "0x4030002000D01",
+        "0x4030002000D41"
+      ]
+    },
+    {
+      "$type": "shds",
+      "path": "0x52be692c7c2e683",
+      "$guid": "0x52be692c7c2e683",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x52be692c7c2e683/0x91331CBED05BB181",
+      "pixelShader": "shaderset/0x52be692c7c2e683/0xCBCF98A5C17D9693"
+    },
+    {
+      "$type": "shdr",
       "path": "shaderset/0xf8b38f6f323de640/0x91331CBED05BB181",
       "numVertexShaderTextures": 0,
       "inputFlags": [
@@ -9139,7 +9171,7 @@
       "$type": "matl",
       "path": "world/metal/research_station/research_station_painted_metal_01_vc",
       "type": "rgdc",
-      "cpu": "cpudata/research_station_painted_metal_01_vc_rgdc",  //is this material even used?
+      "cpu": "cpudata/research_station_painted_metal_01_vc_rgdc",
       "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
       "samplers": "001D0300",
       "flags2": "56000020",
@@ -9963,28 +9995,6 @@
         "1": "texture/world/metal/trim_metal_01_blue_RGDP/trim_metal_01_blue_normalTexture",
         "2": "texture/world/metal/trim_metal_01_blue_RGDP/trim_metal_01_blue_glossTexture",
         "3": "texture/world/metal/trim_metal_01_blue_RGDP/trim_metal_01_blue_specTexture"
-      }
-    },
-    {
-      "$type": "matl",
-      "path": "world/metal/trim_metal_01_blue_seedingtower", //whats this for? not exist in s6
-      "type": "rgdp",
-      "cpu": "cpudata/trim_metal_01_blue_seedingtower_rgdp",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0x36627716165fc7da",
-      "width": 2048,
-      "height": 2048,
-      "textureSlotCount": 4,
-      "textures": {
-        "0": "texture/world/metal/trim_metal_01_blue_seedingtower_RGDP/trim_metal_01_blue_seedingtower_albedoTexture",
-        "1": "texture/world/metal/trim_metal_01_blue_seedingtower_RGDP/trim_metal_01_blue_seedingtower_normalTexture",
-        "2": "texture/world/metal/trim_metal_01_blue_seedingtower_RGDP/trim_metal_01_blue_seedingtower_glossTexture",
-        "3": "texture/world/metal/trim_metal_01_blue_seedingtower_RGDP/trim_metal_01_blue_seedingtower_specTexture"
       }
     },
     {
@@ -11109,6 +11119,28 @@
     },
     {
       "$type": "matl",
+      "path": "models/industrial/gun_rack_arm_new_off",
+      "type": "rgdp",
+      "cpu": "cpudata/gun_rack_arm_new_off_RGDP_rgdp",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x36627716165fc7da",
+      "width": 512,
+      "height": 1024,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/models/industrial/gun_rack_arm_new_off_RGDP/gun_rack_arm_new_off_albedoTexture",
+        "1": "texture/models/industrial/gun_rack_arm_new_off_RGDP/gun_rack_arm_new_off_normalTexture",
+        "2": "texture/models/industrial/gun_rack_arm_new_off_RGDP/gun_rack_arm_new_off_glossTexture",
+        "3": "texture/models/industrial/gun_rack_arm_new_off_RGDP/gun_rack_arm_new_off_specTexture"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "world/ola/sewer_padded_ceiling_panels",
       "type": "rgdc",
       "cpu": "cpudata/sewer_padded_ceiling_panels_rgdc",
@@ -11945,198 +11977,6 @@
     },
     {
       "$type": "matl",
-      "path": "world/signs/beacon_screens/caustic_big_screen_01", //what are these for? get rid of them!
-      "type": "rgdp",
-      "cpu": "cpudata/caustic_big_screen_01_rgdp",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
-      "width": 2048,
-      "height": 1024,
-      "textureSlotCount": 5,
-      "textures": {
-        "0": "texture/world/signs/beacon_screens/caustic_big_screen_01_RGDP/caustic_big_screen_01_albedoTexture",
-        "1": "texture/world/signs/beacon_screens/caustic_big_screen_01_RGDP/caustic_big_screen_01_normalTexture",
-        "2": "texture/world/signs/beacon_screens/caustic_big_screen_01_RGDP/caustic_big_screen_01_glossTexture",
-        "3": "texture/world/signs/beacon_screens/caustic_big_screen_01_RGDP/caustic_big_screen_01_specTexture",
-        "4": "texture/world/signs/beacon_screens/caustic_big_screen_01_RGDP/caustic_big_screen_01_emissiveTexture",
-        "10": "texture/world/signs/beacon_screens/caustic_big_screen_01_RGDP/caustic_big_screen_01_emissiveMultiplyTexture",
-        "11": "texture/world/signs/beacon_screens/caustic_big_screen_01_RGDP/caustic_big_screen_01_uvDistortionTexture"
-      }
-    },
-    {
-      "$type": "matl",
-      "path": "world/signs/beacon_screens/caustic_big_screen_01b",//what are these for? get rid of them!
-      "type": "rgdp",
-      "cpu": "cpudata/caustic_big_screen_01b_rgdp",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
-      "width": 2048,
-      "height": 1024,
-      "textureSlotCount": 5,
-      "textures": {
-        "0": "texture/world/signs/beacon_screens/caustic_big_screen_01b_RGDP/caustic_big_screen_01b_albedoTexture",
-        "1": "texture/world/signs/beacon_screens/caustic_big_screen_01b_RGDP/caustic_big_screen_01b_normalTexture",
-        "2": "texture/world/signs/beacon_screens/caustic_big_screen_01b_RGDP/caustic_big_screen_01b_glossTexture",
-        "3": "texture/world/signs/beacon_screens/caustic_big_screen_01b_RGDP/caustic_big_screen_01b_specTexture",
-        "4": "texture/world/signs/beacon_screens/caustic_big_screen_01b_RGDP/caustic_big_screen_01b_emissiveTexture",
-        "10": "texture/world/signs/beacon_screens/caustic_big_screen_01b_RGDP/caustic_big_screen_01b_emissiveMultiplyTexture",
-        "11": "texture/world/signs/beacon_screens/caustic_big_screen_01b_RGDP/caustic_big_screen_01b_uvDistortionTexture"
-      }
-    },
-    {
-      "$type": "matl",
-      "path": "world/signs/beacon_screens/caustic_big_screen_01c",//what are these for? get rid of them!
-      "type": "rgdp",
-      "cpu": "cpudata/caustic_big_screen_01c_rgdp",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
-      "width": 2048,
-      "height": 1024,
-      "textureSlotCount": 5,
-      "textures": {
-        "0": "texture/world/signs/beacon_screens/caustic_big_screen_01c_RGDP/caustic_big_screen_01c_albedoTexture",
-        "1": "texture/world/signs/beacon_screens/caustic_big_screen_01c_RGDP/caustic_big_screen_01c_normalTexture",
-        "2": "texture/world/signs/beacon_screens/caustic_big_screen_01c_RGDP/caustic_big_screen_01c_glossTexture",
-        "3": "texture/world/signs/beacon_screens/caustic_big_screen_01c_RGDP/caustic_big_screen_01c_specTexture",
-        "4": "texture/world/signs/beacon_screens/caustic_big_screen_01c_RGDP/caustic_big_screen_01c_emissiveTexture",
-        "10": "texture/world/signs/beacon_screens/caustic_big_screen_01c_RGDP/caustic_big_screen_01c_emissiveMultiplyTexture",
-        "11": "texture/world/signs/beacon_screens/caustic_big_screen_01c_RGDP/caustic_big_screen_01c_uvDistortionTexture"
-      }
-    },
-    {
-      "$type": "matl",
-      "path": "world/signs/beacon_screens/caustic_big_screen_01d",//what are these for? get rid of them!
-      "type": "rgdp",
-      "cpu": "cpudata/caustic_big_screen_01d_rgdp",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
-      "width": 2048,
-      "height": 1024,
-      "textureSlotCount": 5,
-      "textures": {
-        "0": "texture/world/signs/beacon_screens/caustic_big_screen_01d_RGDP/caustic_big_screen_01d_albedoTexture",
-        "1": "texture/world/signs/beacon_screens/caustic_big_screen_01d_RGDP/caustic_big_screen_01d_normalTexture",
-        "2": "texture/world/signs/beacon_screens/caustic_big_screen_01d_RGDP/caustic_big_screen_01d_glossTexture",
-        "3": "texture/world/signs/beacon_screens/caustic_big_screen_01d_RGDP/caustic_big_screen_01d_specTexture",
-        "4": "texture/world/signs/beacon_screens/caustic_big_screen_01d_RGDP/caustic_big_screen_01d_emissiveTexture",
-        "10": "texture/world/signs/beacon_screens/caustic_big_screen_01d_RGDP/caustic_big_screen_01d_emissiveMultiplyTexture",
-        "11": "texture/world/signs/beacon_screens/caustic_big_screen_01d_RGDP/caustic_big_screen_01d_uvDistortionTexture"
-      }
-    },
-    {
-      "$type": "matl",
-      "path": "world/signs/beacon_screens/caustic_big_screen_02b",//what are these for? get rid of them!
-      "type": "rgdp",
-      "cpu": "cpudata/caustic_big_screen_02b_rgdp",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
-      "width": 2048,
-      "height": 1024,
-      "textureSlotCount": 5,
-      "textures": {
-        "0": "texture/world/signs/beacon_screens/caustic_big_screen_02b_RGDP/caustic_big_screen_02b_albedoTexture",
-        "1": "texture/world/signs/beacon_screens/caustic_big_screen_02b_RGDP/caustic_big_screen_02b_normalTexture",
-        "2": "texture/world/signs/beacon_screens/caustic_big_screen_02b_RGDP/caustic_big_screen_02b_glossTexture",
-        "3": "texture/world/signs/beacon_screens/caustic_big_screen_02b_RGDP/caustic_big_screen_02b_specTexture",
-        "4": "texture/world/signs/beacon_screens/caustic_big_screen_02b_RGDP/caustic_big_screen_02b_emissiveTexture",
-        "10": "texture/world/signs/beacon_screens/caustic_big_screen_02b_RGDP/caustic_big_screen_02b_emissiveMultiplyTexture",
-        "11": "texture/world/signs/beacon_screens/caustic_big_screen_02b_RGDP/caustic_big_screen_02b_uvDistortionTexture"
-      }
-    },
-    {
-      "$type": "matl",
-      "path": "world/signs/beacon_screens/echo_big_screen_01", //what are these for? get rid of them!
-      "type": "rgdp",
-      "cpu": "cpudata/echo_big_screen_01_rgdp",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
-      "width": 2048,
-      "height": 1024,
-      "textureSlotCount": 5,
-      "textures": {
-        "0": "texture/world/signs/beacon_screens/echo_big_screen_01_RGDP/echo_big_screen_01_albedoTexture",
-        "1": "texture/world/signs/beacon_screens/echo_big_screen_01_RGDP/echo_big_screen_01_normalTexture",
-        "2": "texture/world/signs/beacon_screens/echo_big_screen_01_RGDP/echo_big_screen_01_glossTexture",
-        "3": "texture/world/signs/beacon_screens/echo_big_screen_01_RGDP/echo_big_screen_01_specTexture",
-        "4": "texture/world/signs/beacon_screens/echo_big_screen_01_RGDP/echo_big_screen_01_emissiveTexture"
-      }
-    },
-    {
-      "$type": "matl",
-      "path": "world/signs/beacon_screens/echo_big_screen_02", //what are these for? get rid of them!
-      "type": "rgdp",
-      "cpu": "cpudata/echo_big_screen_02_rgdp",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
-      "width": 2048,
-      "height": 1024,
-      "textureSlotCount": 5,
-      "textures": {
-        "0": "texture/world/signs/beacon_screens/echo_big_screen_02_RGDP/echo_big_screen_02_albedoTexture",
-        "1": "texture/world/signs/beacon_screens/echo_big_screen_02_RGDP/echo_big_screen_02_normalTexture",
-        "2": "texture/world/signs/beacon_screens/echo_big_screen_02_RGDP/echo_big_screen_02_glossTexture",
-        "3": "texture/world/signs/beacon_screens/echo_big_screen_02_RGDP/echo_big_screen_02_specTexture",
-        "4": "texture/world/signs/beacon_screens/echo_big_screen_02_RGDP/echo_big_screen_02_emissiveTexture"
-      }
-    },
-    {
-      "$type": "matl",
-      "path": "world/signs/beacon_screens/echo_big_screen_animation_01", //what are these for? get rid of them!
-      "type": "rgdp",
-      "cpu": "cpudata/echo_big_screen_animation_01_rgdp",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0x2a2db3a47af9b3d5",
-      "width": 2048,
-      "height": 1024,
-      "textureSlotCount": 5,
-      "textures": {
-        "0": "texture/world/signs/beacon_screens/echo_big_screen_animation_01_RGDP/echo_big_screen_animation_01_albedoTexture",
-        "4": "texture/world/signs/beacon_screens/echo_big_screen_animation_01_RGDP/echo_big_screen_animation_01_emissiveTexture",
-        "7": "texture/world/signs/beacon_screens/echo_big_screen_animation_01_RGDP/echo_big_screen_animation_01_opacityMultiplyTexture"
-      }
-    },
-    {
-      "$type": "matl",
       "path": "world/stasis/stasis_trim_01/stasis_trim_damaged_01",
       "type": "wldc",
       "cpu": "cpudata/stasis_trim_damaged_01_wldc",
@@ -12610,29 +12450,6 @@
     },
     {
       "$type": "matl",
-      "path": "world/windows/glass_window_bulletproof01", //does this exist in season 6?
-      "type": "rgdc",
-      "cpu": "cpudata/glass_window_bulletproof01_rgdp",
-      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "shaderset": "0xc79bdc034a6a677e",
-      "width": 1024,
-      "height": 1024,
-      "textureSlotCount": 4,
-      "textures": {
-        "0": "texture/world/windows/glass_window_bulletproof01_RGDP/glass_window_bulletproof01_albedoTexture",
-        "1": "texture/world/windows/glass_window_bulletproof01_RGDP/glass_window_bulletproof01_normalTexture",
-        "2": "texture/world/windows/glass_window_bulletproof01_RGDP/glass_window_bulletproof01_glossTexture",
-        "3": "texture/world/windows/glass_window_bulletproof01_RGDP/glass_window_bulletproof01_specTexture",
-        "7": "texture/world/windows/glass_window_bulletproof01_RGDP/glass_window_bulletproof01_opacityMultiplyTexture"
-      }
-    },
-    {
-      "$type": "matl",
       "path": "world/windows/glass_window_bulletproof01",
       "type": "rgdp",
       "cpu": "cpudata/glass_window_bulletproof01_rgdp",
@@ -12652,6 +12469,29 @@
         "2": "texture/world/windows/glass_window_bulletproof01_RGDP/glass_window_bulletproof01_glossTexture",
         "3": "texture/world/windows/glass_window_bulletproof01_RGDP/glass_window_bulletproof01_specTexture",
         "7": "texture/world/windows/glass_window_bulletproof01_RGDP/glass_window_bulletproof01_opacityMultiplyTexture"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "world/windows/glass_window_bulletproof01_less_transparent",
+      "type": "rgdc",
+      "cpu": "cpudata/glass_window_bulletproof01_less_transparent_RGDC",
+      "blendStates": "F0138286 F0138286 F0008286 F0000000 F0138286 00000000 80500002 00000000",
+      "samplers": "001D0300",
+      "flags2": "56000022",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 6,
+      "unkFlags": 5,
+      "shaderset": "0x52be692c7c2e683",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 8,
+      "textures": {
+        "0": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_albedoTexture",
+        "1": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_normalTexture",
+        "2": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_glossTexture",
+        "3": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_specTexture",
+        "7": "texture/world/windows/glass_window_bulletproof01_less_transparent_RGDC/glass_window_bulletproof01_less_transparent_opacityMultiplyTexture"
       }
     },
     {
@@ -13998,29 +13838,7 @@
     {
       "$type": "rmdl",
       "path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_exterior.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/research_station/research_station_trim_01_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/walls/construction_metal_form_walls_rgdc",
-        "world/ola/sewer_lab_trim_01_rgdp",
-        "world/concrete/concrete_wall_base_02_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/metal/railgun_trim_02_rgdc",
-        "world/stasis/stasis_trim_01/stasis_trim_01_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/beacon/stamped_metal_large_painted_03_vert_color_rgdc",
-        "world/s2s/s2s_metal_trims_02_vc_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/concrete/dam_concrete_02_gray_rgdc",
-        "world/decal/hammond_robotics_decal_vc_01_rgdc",
-        "world/decal/kodai_caution_stripe_decals_rgdp",
-        "world/windows/glass_window_bulletproof01_rgdc",
-        "world/decal/rise_stain_decal_01_vert_color_rgdp"
-      ]
+      "static": true
     },
     {
       "$type": "rmdl",
@@ -14913,6 +14731,12 @@
     {
       "$type": "rmdl",
       "path": "mdl/desertlands/bloodhound_tt_props.rmdl",
+      "usePhysics": true,
+      "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/industrial/gun_rack_arm_down_new_off.rmdl",
       "usePhysics": true,
       "static": true
     },
