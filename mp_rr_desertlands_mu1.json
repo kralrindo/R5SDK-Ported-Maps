@@ -22,6 +22,42 @@
     },
     {
       "_type": "shdr",
+      "_path": "shaderset/0x45458a290e14e4ed/0x91331CBED05BB181",
+      "numVertexShaderTextures": 0,
+      "inputFlags": [
+        "0x2000201",
+        "0x4030002000D01",
+        "0x2000241",
+        "0x4030002000D41"
+      ]
+    },
+    {
+      "_type": "shdr",
+      "_path": "shaderset/0x45458a290e14e4ed/0x28D68656EFD04B15",
+      "numPixelShaderTextures": 7,
+      "inputFlags": [
+        "0x4030002000D01",
+        "0x4030002000D01",
+        "0x4030002000D41",
+        "0x4030002000D41",
+        "0x4030002000D01",
+        "0x4030002000D01",
+        "0x4030002000D41",
+        "0x4030002000D41"
+      ]
+    },
+    {
+      "_type": "shds",
+      "_path": "0x45458a290e14e4ed",
+      "$guid": "0x45458a290e14e4ed",
+      "numSamplers": 3,
+      "firstResource": 0,
+      "numResources": 0,
+      "vertexShader": "shaderset/0x45458a290e14e4ed/0x91331CBED05BB181",
+      "pixelShader": "shaderset/0x45458a290e14e4ed/0x28D68656EFD04B15"
+    },
+    {
+      "_type": "shdr",
       "_path": "shaderset/0x88b829c6640aa10d/0x119527D74F210987",
       "numVertexShaderTextures": 0,
       "inputFlags": [
@@ -14254,6 +14290,76 @@
     {
       "_type": "matl",
       "_path": "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01",
+      "shaderType": "wldc",
+      "cpu": "cpudata/mendoko_pipes_01_RGDP",
+      "surfaceProp": "default",
+      "surfaceProp2": "",
+      "$textureAnimation": "0x0",
+      "blendStates": [
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000"
+      ],
+      "samplers": "0x001D0300",
+      "glueFlags": "0x72000000",
+      "glueFlags2": "0x00000000",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "blendStateMask": 4,
+      "shaderSet": "0x94ab808cfb7edf5c",
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 6,
+      "textures": {
+        "0": "texture/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_RGDP/mendoko_pipes_01_albedoTexture.rpak",
+        "1": "texture/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_RGDP/mendoko_pipes_01_normalTexture.rpak",
+        "2": "texture/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_RGDP/mendoko_pipes_01_glossTexture.rpak",
+        "3": "texture/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_RGDP/mendoko_pipes_01_specTexture.rpak",
+        "5": "texture/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_RGDP/mendoko_pipes_01_aoTexture.rpak"
+      }
+    },
+    {
+      "_type": "matl",
+      "_path": "world/dev/dev_red_512",
+      "shaderType": "wldc",
+      "cpu": "cpudata/dev_red_512_WLDC",
+      "blendStates": [
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000"
+      ],
+      "shaderSet": "0x4b0f3b4cbd009096",
+      "samplers": "0x001D0300",
+      "glueFlags": "0x72000000",
+      "glueFlags2": "0x00000000",
+      "surfaceProp": "default",
+      "surfaceProp2": "",
+      "depthStencilFlags": 23,
+      "rasterizerFlags" : 6,
+      "blendStateMask" : 4,
+      "width": 512,
+      "height": 512,
+      "textureSlotCount": 4,
+      "textures": {
+        "0": "texture/world/dev/dev_red_512_WLDC/dev_red_512_albedoTexture.rpak",
+        "1": "texture/world/dev/dev_red_512_WLDC/dev_red_512_normalTexture.rpak",
+        "2": "texture/world/dev/dev_red_512_WLDC/dev_red_512_glossTexture.rpak",
+        "3": "texture/world/dev/dev_red_512_WLDC/dev_red_512_specTexture.rpak"
+       }
+    },
+    {
+      "_type": "matl",
+      "_path": "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01",
       "shaderType": "rgdp",
       "cpu": "cpudata/mendoko_pipes_01_RGDP",
       "surfaceProp": "default",
@@ -18308,6 +18414,43 @@
     },
     {
       "_type": "matl",
+      "_path": "world/utility/solar_panel",
+      "shaderType": "rgdc",
+      "cpu": "cpudata/solar_panel_rgdp",
+      "surfaceProp": "default",
+      "surfaceProp2": "",
+      "$textureAnimation": "0x0",
+      "blendStates": [
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000",
+        "0xF0000000"
+      ],
+      "samplers": "0x001D0300",
+      "glueFlags": "0x56000020",
+      "glueFlags2": "0x00000000",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "blendStateMask": 4,
+      "shaderSet": "0x45458a290e14e4ed",
+      "width": 256,
+      "height": 512,
+      "textureSlotCount": 7,
+      "textures": {
+        "0": "texture/world/utility/solar_panel_RGDP/solar_panel_albedoTexture.rpak",
+        "1": "texture/world/utility/solar_panel_RGDP/solar_panel_normalTexture.rpak",
+        "2": "texture/world/utility/solar_panel_RGDP/solar_panel_glossTexture.rpak",
+        "3": "texture/world/utility/solar_panel_RGDP/solar_panel_specTexture.rpak",
+        "5": "texture/world/utility/solar_panel_RGDP/solar_panel_aoTexture.rpak",
+        "6": "texture/world/utility/solar_panel_RGDP/solar_panel_cavityTexture.rpak"
+      }
+    },
+    {
+      "_type": "matl",
       "_path": "world/walls/building_metalpanel_01",
       "shaderType": "wldc",
       "cpu": "cpudata/building_metalpanel_01_wldc",
@@ -18666,6 +18809,7 @@
         "3": "texture/world/wood/raw_damaged_wood_RGDP/raw_damaged_wood_specTexture.rpak"
       }
     },
+
     {
       "_type": "rmdl",
       "_path": "mdl/canyonlands/concrete_broken_chunk_8_01.rmdl",
