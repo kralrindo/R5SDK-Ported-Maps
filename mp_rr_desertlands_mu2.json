@@ -20699,10 +20699,7 @@
     {
       "_type": "rmdl",
       "_path": "mdl/domestic/farmland_bedding_blanket_01.rmdl",
-      "static": true,
-      "materials": [
-        "models/furniture/farmland_blanket_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
@@ -20722,889 +20719,367 @@
     {
       "_type": "rmdl",
       "_path": "mdl/gibs/Glass_shard_group01.rmdl",
-      "static": true,
-      "materials": [
-        "models/gibs/glass_shards01_rgdp",
-        "world/glass/train_station_glass_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/IMC_base/chair_IMC_01.rmdl",
-      "static": true,
-      "materials": [
-        "models/imc_base/imc_chair_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/IMC_base/console_door_small_IMC_01.rmdl",
-      "static": true,
-      "materials": [
-        "models/imc_base/console_door_small_imc_01_rgdp",
-        "models/imc_base/console_door_small_imc_01_locked_rgdp",
-        "models/imc_base/console_door_small_imc_01_open_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/imc_base/imc_portable_int_wall_pipe_64_02.rmdl",
-      "static": true,
-      "materials": [
-        "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/industrial/modular_railing_trim_B.rmdl",
-      "static": true,
-      "materials": [
-        "models/industrial/modular_railing_trim_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/industrial/modular_railing_trim_short.rmdl",
-      "static": true,
-      "materials": [
-        "models/industrial/modular_railing_trim_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/lamps/search_light_on_godray_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/lamps/search_light_on_godray_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/lamps/search_light_on_light_only_02.rmdl",
-      "static": true,
-      "materials": [
-        "models/lamps/search_light_on_rgdp",
-        "models/lamps/search_light_glass_on_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_canyonlands/crypto_window_godray_cool_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_500_fade_thick_depth_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_canyonlands/crypto_window_godray_red_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_500_fade_thick_depth_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_canyonlands/crypto_window_godray_warm_03.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_500_fade_thick_depth_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_scraperbridge_03_art.rmdl",
-      "static": true,
-      "materials": [
-        "models/mendoko/exterior/side_frame_tile/side_frame_tile_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_scraperbridge_04_art.rmdl",
-      "static": true,
-      "materials": [
-        "models/mendoko/exterior/side_frame_tile/side_frame_tile_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_scraperbridge_05_art.rmdl",
-      "static": true,
-      "materials": [
-        "models/mendoko/exterior/side_frame_tile/side_frame_tile_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_sniperbuilding_decals.rmdl",
-      "static": true,
-      "materials": [
-        "world/decal/decals_cracks_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_apex_sign_mu2_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_10_mu2_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_10_mu2_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_11_mu2_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1000_fade_thick_depth_scroll_rgdc",
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_13_mu1_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_16_mu2_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1000_fade_thick_depth_scroll_rgdc",
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_1_mu1_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1000_fade_thick_depth_scroll_rgdp",
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_1_mu2_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_2_mu2_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_3_mu2_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_5_mu2_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1000_fade_thick_depth_scroll_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_7_mu2_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_7_mu2_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_8_mu2_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_8_mu2_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_9_mu2_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_1000_fade_thick_depth_scroll_rgdc",
-        "world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_halogen_light_godray_yellow_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/atmosphere/atmosphere_500_fade_thick_depth_rgdp",
-        "world/atmosphere/godray_500_fade_scroll_depth_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_column.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_cover.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdc",
-        "world/s2s/s2s_metal_trims_02_vc_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/s2s/s2s_wall_trim_01_vc_rgdc",
-        "world/decal/signage_building_02_rgdc",
-        "world/s2s/s2s_bolt_decals_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_cover_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/walls/construction_metal_form_walls_rgdc",
-        "world/metal/trim_metal_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/metal/painted_metal_tank_welded_01_vert_color_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/ola/ola_sewer_grate_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_03.rmdl",
-      "static": true,
-      "materials": [
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/metal/painted_metal_tank_welded_01_vert_color_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_04.rmdl",
-      "static": true,
-      "materials": [
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/metal/painted_metal_tank_welded_01_vert_color_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_tower.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/research_station/research_station_trim_01_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "world/walls/construction_metal_form_walls_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/floors/hospital_rubber_flooring_01_rgdc",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/metal/research_station/research_station_painted_metal_01_rgdc",
-        "world/decal/hammond_robotics_decal_vc_01_rgdc",
-        "world/decal/grunge_decal_drips_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_tower_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "world/walls/construction_metal_form_walls_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/s2s/s2s_wall_trim_02_vc_rgdc",
-        "world/metal/research_station/research_station_painted_metal_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hanging_panel.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/decal/hammond_robotics_decal_vc_01_rgdc",
-        "world/decal/grunge_decal_drips_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hanging_panel_int.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/walls/construction_metal_form_walls_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/beacon/padded_panel_construction_01_vc_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/s2s/s2s_bolt_decals_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hinge_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdp",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdp",
-        "world/metal/carrier_metal_trim_03_rgdp",
-        "world/s2s/s2s_roof_panel_01_vc_rgdp",
-        "world/metal/research_station/research_station_painted_metal_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hinge_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdp",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdp",
-        "world/metal/carrier_metal_trim_03_rgdp",
-        "world/s2s/s2s_roof_panel_01_vc_rgdp",
-        "world/metal/research_station/research_station_painted_metal_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hydraulics_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/metal/research_station/research_station_trim_01_rgdp",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/metal/slum_trim_girdering_01_rgdp",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdp",
-        "world/s2s/s2s_roof_panel_01_vc_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hydraulics_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdp",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdp",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdp",
-        "world/metal/research_station/research_station_trim_01_rgdp",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdp",
-        "world/metal/slum_trim_girdering_01_rgdp",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdp",
-        "world/metal/carrier_metal_trim_03_rgdp",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdp",
-        "world/s2s/s2s_roof_panel_01_vc_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/metal/research_station/research_station_trim_01_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "world/mendoko/white_floor_tile_mendoko_rgdc",
-        "models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03_rgdc",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/beacon/beacon_metal_panel_grey_01/beacon_metal_panel_grey_01_rgdc",
-        "world/floors/plastic_panels_large_rgdc",
-        "world/metal/research_station/research_station_trim_02_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/ola/sewer_lab_trim_01_rgdc",
-        "world/asphalt/sidewalk_curb_trim_03_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/floors/imc_int_ground_panels_01_rgdc",
-        "world/metal/gondola_wires_01_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdc",
-        "world/beacon/padded_panel_construction_01_vc_rgdc",
-        "world/metal/painted_metal_tank_welded_01_dirty_vert_color_rgdc",
-        "world/s2s/s2s_metal_trims_02_vc_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/s2s/s2s_wall_trim_01_vc_rgdc",
-        "world/s2s/s2s_wall_trim_02_vc_rgdc",
-        "world/metal/research_station/research_station_painted_metal_01_rgdc",
-        "world/ola/ola_sewer_grate_01_rgdc",
-        "world/decal/hammond_robotics_decal_vc_01_rgdc",
-        "world/glass/slumcity_glass_dirty/slumcity_glass_dirty_01_transparent_rgdc",
-        "world/decal/grunge_decal_drips_rgdc",
-        "world/decal/signage_building_02_rgdc",
-        "world/s2s/s2s_bolt_decals_01_rgdc",
-        "world/s2s/s2s_decals_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/metal/research_station/research_station_trim_01_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "world/mendoko/white_floor_tile_mendoko_rgdc",
-        "models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03_rgdc",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/beacon/beacon_metal_panel_grey_01/beacon_metal_panel_grey_01_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/floors/imc_int_ground_panels_01_rgdc",
-        "world/metal/gondola_wires_01_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdc",
-        "world/metal/painted_metal_tank_welded_01_vert_color_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/metal/research_station/research_station_painted_metal_01_rgdc",
-        "world/decal/hammond_robotics_decal_vc_01_rgdc",
-        "world/decal/grunge_decal_drips_rgdc",
-        "world/decal/signage_building_02_rgdc",
-        "world/s2s/s2s_decals_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_03.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/mendoko/white_floor_tile_mendoko_rgdc",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/walls/construction_metal_form_walls_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdc",
-        "world/beacon/padded_panel_construction_01_vc_rgdc",
-        "world/metal/painted_metal_tank_welded_01_vert_color_rgdc",
-        "world/ola/sewer_padded_ceiling_panels_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/metal/research_station/research_station_painted_metal_01_rgdc",
-        "world/walls/building_walls_metal_03_rgdc",
-        "world/decal/grunge_decal_drips_rgdc",
-        "world/decal/signage_building_02_rgdc",
-        "world/s2s/s2s_bolt_decals_01_rgdc",
-        "world/s2s/s2s_decals_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_gack_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/utility/solar_panel_rgdp",
-        "world/metal/carrier_metal_trim_03_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_gack_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdp",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdp",
-        "world/metal/research_station/research_station_trim_01_rgdp",
-        "world/metal/carrier_metal_trim_03_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_ring_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdp",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdp",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdp",
-        "world/asphalt/sidewalk_curb_trim_03_rgdp",
-        "world/floors/imc_int_ground_panels_01_rgdp",
-        "world/s2s/s2s_roof_panel_01_vc_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_support_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/carrier_metal_trim_03_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_support_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/research_station/research_station_trim_01_rgdc",
-        "world/metal/slum_trim_girdering_01_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_support_03.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/research_station/research_station_trim_01_rgdc",
-        "world/metal/slum_trim_girdering_01_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_building_platform_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/asphalt/asphalt08_wet_bm_rgdp",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdp",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdp",
-        "world/asphalt/sidewalk_curb_trim_01_rgdp",
-        "world/floors/hospital_rubber_flooring_01_rgdp",
-        "world/metal/bldg_wall_metal_imc_01_rgdp",
-        "world/metal/trim_metal_01_rgdp",
-        "world/metal/painted_metal_tank_welded_01_vert_color_rgdp",
-        "world/s2s/s2s_wall_trim_01_vc_rgdp",
-        "world/ola/ola_sewer_grate_01_lighter_rgdp",
-        "world/street_utilities/street_utility_meter_box_a_rgdp",
-        "world/beacon/beacon_building_overlay_decal_rgdp",
-        "world/decal/cement_stripes_decals_rgdp",
-        "world/decal/grunge_decal_drips_rgdp",
-        "world/s2s/s2s_bolt_decals_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_catwalks_zone16_corner_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdp",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdp",
-        "world/metal/trim_metal_01_rgdp",
-        "world/s2s/s2s_wall_trim_01_vc_rgdp",
-        "world/ola/ola_sewer_grate_01_lighter_rgdp",
-        "world/decal/slum_grime_decal_01_bt_vt_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_exterior.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/walls/construction_metal_form_walls_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdp",
-        "world/s2s/s2s_wall_trim_01_vc_rgdc",
-        "world/concrete/dam_concrete_01_dirty_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_exterior_decals.rmdl",
-      "static": true,
-      "materials": [
-        "world/decal/hammond_robotics_decal_vc_01_rgdc",
-        "world/beacon/beacon_building_overlay_decal_rgdc",
-        "world/decal/rise_stain_decal_01_vert_color_rgdc",
-        "world/s2s/s2s_decals_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_hallway_decals.rmdl",
-      "static": true,
-      "materials": [
-        "world/decal/signage_building_02_rgdc",
-        "world/s2s/s2s_bolt_decals_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_interior_decals.rmdl",
-      "static": true,
-      "materials": [
-        "world/decal/hammond_robotics_decal_vc_01_rgdp",
-        "world/s2s/s2s_bolt_decals_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_platform_exterior.rmdl",
-      "static": true,
-      "materials": [
-        "world/ola/concrete_01_wet_bm_rgdc",
-        "world/asphalt/asphalt08_wet_bm_rgdp",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/mendoko/white_floor_tile_mendoko_rgdc",
-        "world/imc_interior/imc_int_floor_trim_01_rgdp",
-        "world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdp",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/asphalt/sidewalk_curb_trim_01_rgdp",
-        "world/metal/trim_metal_01_rgdc",
-        "world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_rgdc",
-        "world/s2s/s2s_metal_trims_02_vc_rgdc",
-        "world/floors/rubber_floor_2_rgdp",
-        "world/concrete/dam_concrete_02_gray_rgdc",
-        "world/ola/ola_sewer_grate_01_rgdp",
-        "world/decal/metal_scratches_decal_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_platform_exterior_decals.rmdl",
-      "static": true,
-      "materials": [
-        "world/decal/hammond_robotics_decal_vc_01_rgdc",
-        "world/street_utilities/street_utility_meter_box_a_rgdp",
-        "world/beacon/beacon_building_overlay_decal_rgdp",
-        "world/decal/cement_stripes_decals_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/concrete/dam_concrete_02_stained_bm_rgdc",
-        "world/metal/research_station/research_station_trim_01_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko_rgdp",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/walls/construction_metal_form_walls_rgdc",
-        "world/walls/construction_metal_form_walls_02_rgdc",
-        "world/concrete/concrete_wall_base_02_rgdp",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/metal/railgun_trim_02_rgdc",
-        "world/stasis/stasis_trim_01/stasis_trim_01_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/beacon/stamped_metal_large_painted_03_vert_color_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/s2s/s2s_wall_trim_01_vc_rgdc",
-        "world/concrete/dam_concrete_02_gray_rgdc",
-        "world/decal/hammond_robotics_decal_vc_01_rgdc",
-        "world/decal/kodai_caution_stripe_decals_rgdc",
-        "world/windows/glass_window_bulletproof01_rgdp",
-        "world/decal/rise_stain_decal_01_vert_color_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_cap.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/research_station/research_station_trim_01_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/walls/construction_metal_form_walls_02_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/stasis/stasis_trim_01/stasis_trim_01_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdc",
-        "world/beacon/stamped_metal_large_painted_03_vert_color_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/concrete/dam_concrete_02_gray_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_decals_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/decal/kodai_caution_stripe_decals_rgdc",
-        "world/beacon/beacon_building_overlay_decal_rgdc",
-        "world/decal/cement_stripes_decals_rgdc",
-        "world/decal/rise_stain_decal_01_vert_color_rgdc",
-        "world/s2s/s2s_decals_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_platform.rmdl",
-      "static": true,
-      "materials": [
-        "world/concrete/concrete_floor_01_bm_rgdc",
-        "world/asphalt/asphalt08_wet_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/concrete/dam_concrete_02_stained_bm_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko_rgdc",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/mcor/mcor_floor_panel_02_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/walls/construction_metal_form_walls_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/floors/imc_int_ground_panels_01_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/metal/painted_metal_tank_welded_01_vert_color_rgdc",
-        "world/s2s/s2s_metal_trims_02_vc_rgdc",
-        "world/s2s/s2s_wall_trim_01_vc_rgdc",
-        "world/concrete/dam_concrete_02_gray_rgdc",
-        "world/ola/ola_sewer_grate_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_ramp.rmdl",
-      "static": true,
-      "materials": [
-        "world/concrete/concrete_floor_01_bm_rgdc",
-        "world/asphalt/asphalt08_wet_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/mendoko/white_floor_tile_mendoko_rgdc",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/mcor/mcor_floor_panel_02_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/asphalt/sidewalk_curb_trim_01_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/s2s/s2s_metal_trims_02_vc_rgdc",
-        "world/s2s/s2s_wall_trim_01_vc_rgdc",
-        "world/concrete/dam_concrete_02_gray_rgdc",
-        "world/ola/ola_sewer_grate_01_rgdc",
-        "world/beacon/beacon_building_overlay_decal_rgdc",
-        "world/decal/cement_stripes_decals_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_interior2_decals.rmdl",
-      "static": true,
-      "materials": [
-        "world/imc_interior/imc_int_decals_rgdc",
-        "world/decal/signage_building_02_rgdc",
-        "world/s2s/s2s_bolt_decals_01_rgdc",
-        "world/s2s/s2s_decals_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_interior_decals.rmdl",
-      "static": true,
-      "materials": [
-        "world/decal/kodai_caution_stripe_decals_rgdc",
-        "world/decal/signage_building_02_rgdc",
-        "world/s2s/s2s_bolt_decals_01_rgdc",
-        "world/s2s/s2s_decals_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_rock_net.rmdl",
-      "static": true,
-      "materials": [
-        "world/ola/stamped_metal_large_rusty_bm_rgdp",
-        "world/homestead/parachute_end_seam_01_rgdp",
-        "world/utility/cargo_net_white_01_vert_color_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
@@ -21614,585 +21089,207 @@
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_exterior_decals_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/decal/kodai_caution_stripe_decals_rgdp",
-        "world/street_utilities/street_utility_meter_box_a_rgdp",
-        "world/beacon/beacon_building_overlay_decal_rgdc",
-        "world/decal/cement_stripes_decals_rgdc",
-        "world/decal/rise_stain_decal_01_vert_color_rgdc",
-        "world/s2s/s2s_decals_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_exterior_top.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_interior_decals.rmdl",
-      "static": true,
-      "materials": [
-        "world/decal/hammond_robotics_decal_vc_01_rgdp",
-        "world/imc_interior/imc_int_decals_rgdp",
-        "world/decal/signage_building_02_rgdp",
-        "world/s2s/s2s_bolt_decals_01_rgdp",
-        "world/s2s/s2s_decals_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_platform.rmdl",
-      "static": true,
-      "materials": [
-        "world/concrete/concrete_floor_01_bm_rgdp",
-        "world/ola/concrete_01_wet_bm_rgdc",
-        "world/asphalt/asphalt08_wet_bm_rgdc",
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdp",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "world/mendoko/white_floor_tile_mendoko_rgdc",
-        "models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03_rgdc",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/floors/plastic_panels_large_rgdc",
-        "world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/walls/construction_metal_form_walls_02_rgdp",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/metal/railgun_trim_02_rgdc",
-        "world/floors/imc_int_ground_panels_01_rgdp",
-        "world/metal/trim_metal_01_rgdc",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdc",
-        "world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_rgdc",
-        "world/metal/painted_metal_tank_welded_01_vert_color_rgdc",
-        "world/s2s/s2s_metal_trims_02_vc_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/s2s/s2s_wall_trim_01_vc_rgdc",
-        "world/concrete/dam_concrete_02_gray_rgdc",
-        "world/ola/ola_sewer_grate_01_rgdp",
-        "world/decal/metal_scratches_decal_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_platform_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/ola/concrete_01_wet_bm_rgdc",
-        "world/asphalt/asphalt08_wet_bm_rgdc",
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "world/mendoko/white_floor_tile_mendoko_rgdc",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/metal/railgun_trim_02_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_rgdc",
-        "world/metal/painted_metal_tank_welded_01_vert_color_rgdc",
-        "world/s2s/s2s_metal_trims_02_vc_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/concrete/dam_concrete_02_gray_rgdc",
-        "world/decal/cement_stripes_decals_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_platform_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/metal/railgun_trim_02_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/concrete/dam_concrete_02_gray_rgdc",
-        "world/beacon/beacon_building_overlay_decal_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress_dirt_decal_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/dirt/icelandic_dirt_01_wld_b2t_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_leg_support_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/metal/research_station/research_station_trim_01_rgdc",
-        "models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/s2s/s2s_metal_trims_02_vc_rgdc",
-        "world/concrete/dam_concrete_01_dirty_rgdc",
-        "world/decal/hammond_robotics_decal_vc_01_rgdc",
-        "world/decal/kodai_caution_stripe_decals_rgdc",
-        "world/decal/rise_stain_decal_01_vert_color_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_leg_support_beam_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/carrier_metal_trim_03_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_rocket_support_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/research_station/research_station_trim_01_rgdp",
-        "models/desertlands/rocket_supports_sections_01_rgdp",
-        "models/desertlands/rocket_supports_baked_misc01_rgdp",
-        "models/desertlands/rocket_supports_wall_tile_x512_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_rocket_support_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/research_station/research_station_trim_01_rgdp",
-        "models/desertlands/rocket_supports_sections_01_rgdp",
-        "models/desertlands/rocket_supports_baked_misc01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_rocket_support_03.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/research_station/research_station_trim_01_rgdc",
-        "models/desertlands/rocket_supports_sections_01_rgdc",
-        "models/desertlands/rocket_supports_baked_misc01_rgdc",
-        "models/desertlands/rocket_supports_wall_tile_x512_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_section_09_bridge_wide_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/military_bridge/military_bridge_02_grime_bm_rgdp",
-        "world/asphalt/asphalt08_wet_bm_rgdp",
-        "world/metal/military_bridge/military_bridge_01_grime_bm_rgdp",
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdp",
-        "world/utility/cable_large_steel_02_rgdp",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdp",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdp",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdp",
-        "world/walls/construction_metal_form_walls_02_rgdp",
-        "world/asphalt/sidewalk_curb_trim_03_rgdp",
-        "world/metal/carrier_metal_trim_03_rgdp",
-        "world/asphalt/sidewalk_curb_trim_01_rgdp",
-        "world/floors/hospital_rubber_flooring_01_rgdp",
-        "world/metal/trim_metal_01_rgdp",
-        "world/ola/ola_sewer_grate_01_rgdp",
-        "world/decal/cement_stripes_decals_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_terrain_section_06_mu1_rubble.rmdl",
-      "static": true,
-      "materials": [
-        "world/rubble/rubble_standard02_wld_icelandic_dirt_02_wld_bm_rgdc",
-        "world/rubble/rubble_standard02_wld_b2t_wld_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_terrain_section_08_water_mu2.rmdl",
-      "static": true,
-      "materials": [
-        "world/water/desertlands_sulfur_water_02_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_terrain_section_16_sideramp_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/concrete/concrete_floor_01_bm_rgdc",
-        "world/ola/concrete_01_wet_bm_rgdc",
-        "world/asphalt/asphalt08_wet_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/concrete/dam_concrete_02_stained_bm_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "world/mendoko/white_floor_tile_mendoko_rgdc",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/imc_interior/imc_int_floor_trim_01_rgdc",
-        "world/mcor/mcor_floor_panel_02_rgdc",
-        "world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/walls/construction_metal_form_walls_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/metal/railgun_trim_02_rgdc",
-        "world/asphalt/sidewalk_curb_trim_01_rgdc",
-        "world/floors/hospital_rubber_flooring_01_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_rgdc",
-        "world/metal/painted_metal_tank_welded_01_dirty_vert_color_rgdc",
-        "world/metal/painted_metal_tank_welded_01_vert_color_rgdc",
-        "world/s2s/s2s_metal_trims_02_vc_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/s2s/s2s_wall_trim_01_vc_rgdc",
-        "world/concrete/dam_concrete_02_gray_rgdc",
-        "world/ola/ola_sewer_grate_01_rgdc",
-        "decals/decals_asphalt_road_dirty/decals_asphalt_road_dirty_01_rgdc",
-        "world/street_utilities/street_utility_meter_box_a_rgdc",
-        "world/beacon/beacon_building_overlay_decal_rgdc",
-        "world/decal/cement_stripes_decals_rgdc",
-        "world/dirt/icelandic_dirt_01_wld_b2t_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_z12_mid_pillar_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/concrete/concrete_floor_01_stained_bm_rgdp",
-        "world/metal/bldg_wall_metal_imc_01_rgdp",
-        "world/metal/trim_metal_01_rgdp",
-        "world/firstgen/firstgen_ceiling_plastic_dirty_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_ext_ramp_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/concrete/concrete_floor_01_bm_rgdc",
-        "world/ola/concrete_01_wet_bm_rgdc",
-        "world/asphalt/asphalt08_wet_bm_rgdc",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/metal/carrier_metal_trim_03_rgdc",
-        "world/metal/railgun_trim_02_rgdc",
-        "world/asphalt/sidewalk_curb_trim_01_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_rgdc",
-        "world/metal/painted_metal_tank_welded_01_dirty_vert_color_rgdc",
-        "world/metal/painted_metal_tank_welded_01_vert_color_rgdc",
-        "world/s2s/s2s_metal_trims_02_vc_rgdc",
-        "world/s2s/s2s_roof_panel_01_vc_rgdc",
-        "world/s2s/s2s_wall_trim_01_vc_rgdc",
-        "world/concrete/dam_concrete_02_gray_rgdc",
-        "world/ola/ola_sewer_grate_01_rgdc",
-        "world/beacon/beacon_building_overlay_decal_rgdc",
-        "world/decal/cement_stripes_decals_rgdc",
-        "world/dirt/icelandic_dirt_01_wld_b2t_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_hammond_door_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdp",
-        "world/metal/research_station/research_station_trim_01_rgdp",
-        "world/metal/trim_metal_01_rgdp",
-        "world/s2s/s2s_metal_trims_02_vc_rgdp",
-        "world/s2s/s2s_wall_trim_01_vc_rgdp",
-        "world/decal/hammond_robotics_decal_vc_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_hammond_door_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdp",
-        "world/metal/research_station/research_station_trim_01_rgdp",
-        "world/metal/trim_metal_01_rgdp",
-        "world/s2s/s2s_metal_trims_02_vc_rgdp",
-        "world/s2s/s2s_wall_trim_01_vc_rgdp",
-        "world/decal/hammond_robotics_decal_vc_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_rising_pipes_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/railgun_trim_02_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/metal/painted_metal_tank_welded_01_dirty_vert_color_rgdc",
-        "world/s2s/s2s_bolt_decals_01_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_side_platform_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
-        "world/mendoko/white_floor_tile_mendoko_rgdc",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc",
-        "world/floors/plastic_panels_large_rgdc",
-        "world/mcor/mcor_floor_panel_02_rgdc",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdc",
-        "world/metal/railgun_trim_02_rgdc",
-        "world/metal/trim_metal_01_rgdc",
-        "world/s2s/s2s_metal_trims_02_vc_rgdc",
-        "world/floors/rubber_floor_2_rgdc",
-        "world/concrete/dam_concrete_02_gray_rgdc",
-        "world/decal/cement_stripes_decals_rgdc"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_indust_column_01.rmdl",
-      "static": true,
-      "materials": [
-        "models/s2s/elevator_trim_01/s2s_elevator_trim_01_rgdp",
-        "world/stasis/stasis_trim_01/stasis_trim_01_rgdp",
-        "world/s2s/s2s_painted_metal_01_rgdp",
-        "world/s2s/s2s_boltdecals_02/s2s_boltdecals_02_rgdp",
-        "world/s2s/s2s_bolt_decals_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_vents_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdp",
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdp",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdp",
-        "world/floors/hospital_rubber_flooring_01_rgdp",
-        "world/metal/trim_metal_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_vents_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdp",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdp",
-        "world/metal/carrier_metal_trim_03_rgdp",
-        "world/metal/trim_metal_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_window_frame_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/s2s/s2s_metal_trims_02_vc_rgdp",
-        "models/imc_interior/imc_int_glass_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_floor_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/research_station/research_station_trim_01_rgdp",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdp",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdp",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdp",
-        "world/metal/railgun_trim_02_rgdp",
-        "world/metal/trim_metal_01_rgdp",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdp",
-        "world/s2s/s2s_metal_trims_02_vc_rgdp",
-        "world/s2s/s2s_wall_trim_01_vc_rgdp",
-        "world/street_utilities/street_utility_meter_box_a_rgdp",
-        "world/decal/cement_stripes_decals_rgdp",
-        "world/decal/grunge_decal_drips_rgdp",
-        "world/s2s/s2s_bolt_decals_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_small_walls_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdp",
-        "world/metal/research_station/research_station_trim_01_rgdp",
-        "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdp",
-        "models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03_rgdp",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdp",
-        "models/test/pt_test/pt_gray_test_01_rgdp",
-        "world/metal/trim_metal_01_rgdp",
-        "world/s2s/s2s_metal_trims_02_vc_rgdp",
-        "world/s2s/s2s_roof_panel_01_vc_rgdp",
-        "world/s2s/s2s_wall_trim_01_vc_rgdp",
-        "world/decal/cement_stripes_decals_rgdp",
-        "world/decal/grunge_decal_drips_rgdp",
-        "world/s2s/s2s_bolt_decals_01_rgdp",
-        "world/s2s/s2s_decals_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_top_platform_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdp",
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdp",
-        "world/metal/research_station/research_station_trim_01_rgdp",
-        "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdp",
-        "world/floors/imc_portable_interior_floor_01_var_rgdp",
-        "world/floors/plastic_panels_large_rgdp",
-        "world/imc_interior/imc_int_floor_trim_01_rgdp",
-        "world/s2s/s2s_floor_03_rgdp",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdp",
-        "world/metal/trim_metal_01_rgdp",
-        "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdp",
-        "world/s2s/s2s_metal_trims_02_vc_rgdp",
-        "world/s2s/s2s_wall_trim_01_vc_rgdp",
-        "world/floors/rubber_floor_2_rgdp",
-        "world/metal/research_station/research_station_painted_metal_01_vc_rgdp",
-        "world/decal/hammond_robotics_decal_vc_01_rgdp",
-        "world/windows/glass_window_bulletproof01_less_transparent_rgdp",
-        "world/decal/cement_stripes_decals_rgdp",
-        "world/decal/grunge_decal_drips_rgdp",
-        "world/s2s/s2s_bolt_decals_01_rgdp",
-        "world/s2s/s2s_decals_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_wall_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdp",
-        "world/metal/research_station/research_station_trim_01_rgdp",
-        "models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03_rgdp",
-        "world/metal/metal_worn_tileable_01_rgdp",
-        "world/mcor/mcor_floor_panel_02_rgdp",
-        "world/stasis/stasis_trim_02/stasis_trim_02_rgdp",
-        "world/walls/construction_metal_form_walls_02_rgdp",
-        "world/metal/carrier_metal_trim_03_rgdp",
-        "models/test/pt_test/pt_gray_test_01_rgdp",
-        "world/floors/hospital_rubber_flooring_01_rgdp",
-        "world/metal/bldg_wall_metal_imc_01_rgdp",
-        "world/metal/trim_metal_01_rgdp",
-        "world/s2s/s2s_metal_trims_02_vc_rgdp",
-        "world/s2s/s2s_roof_panel_01_vc_rgdp",
-        "world/s2s/s2s_wall_trim_01_vc_rgdp",
-        "world/decal/cement_stripes_decals_rgdp",
-        "world/decal/grunge_decal_drips_rgdp",
-        "world/s2s/s2s_bolt_decals_01_rgdp",
-        "world/s2s/s2s_decals_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/mendoko/pipe_modular_mendoko_128.rmdl",
-      "static": true,
-      "materials": [
-        "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/mendoko/pipe_modular_mendoko_16.rmdl",
-      "static": true,
-      "materials": [
-        "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/mendoko/pipe_modular_mendoko_32.rmdl",
-      "static": true,
-      "materials": [
-        "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/mendoko/pipe_modular_mendoko_32_valve.rmdl",
-      "static": true,
-      "materials": [
-        "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/mendoko/pipe_modular_mendoko_64.rmdl",
-      "static": true,
-      "materials": [
-        "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/mendoko/pipe_modular_mendoko_corner.rmdl",
-      "static": true,
-      "materials": [
-        "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/mendoko/pipe_modular_mendoko_metal_64.rmdl",
-      "static": true,
-      "materials": [
-        "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/ola/sewer_staircase_48_double.rmdl",
-      "static": true,
-      "materials": [
-        "world/boomtown/boomtown_int_trims_01_rgdp",
-        "world/ola/ola_sewer_grate_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/ola/sewer_staircase_48_end_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/boomtown/boomtown_int_trims_01_rgdp",
-        "world/ola/ola_sewer_grate_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/ola/sewer_staircase_48_end_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/boomtown/boomtown_int_trims_01_rgdp",
-        "world/ola/ola_sewer_grate_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/ola/sewer_staircase_end_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/boomtown/boomtown_int_trims_01_rgdp",
-        "world/ola/ola_sewer_grate_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
@@ -22227,186 +21324,112 @@
     {
       "_type": "rmdl",
       "_path": "mdl/rocks/thunderdome_quarry_block_03.rmdl",
-      "static": true,
-      "materials": [
-        "models/rocks/thunderdome/thunderdome_quarry_blocks_03_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rocks/thunderdome_quarry_block_stairs_01.rmdl",
-      "static": true,
-      "materials": [
-        "models/rocks/thunderdome/thunderdome_quarry_block_stairs_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/concrete_piece_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/concrete/concrete_plates_bunker_02_brkn_bm_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/concrete_piece_01_rebar.rmdl",
-      "static": true,
-      "materials": [
-        "world/concrete/concrete_plates_bunker_02_brkn_bm_01_rgdp",
-        "world/metal/rebar_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/concrete_piece_02.rmdl",
-      "static": true,
-      "materials": [
-        "world/concrete/concrete_plates_bunker_02_brkn_bm_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/concrete_piece_02_rebar.rmdl",
-      "static": true,
-      "materials": [
-        "world/concrete/concrete_plates_bunker_02_brkn_bm_01_rgdp",
-        "world/metal/rebar_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/concrete_piece_06.rmdl",
-      "static": true,
-      "materials": [
-        "world/concrete/concrete_plates_bunker_02_brkn_bm_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/concrete_piece_06_rebar.rmdl",
-      "static": true,
-      "materials": [
-        "world/concrete/concrete_plates_bunker_02_brkn_bm_01_rgdp",
-        "world/metal/rebar_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/concrete_piece_07_rebar.rmdl",
-      "static": true,
-      "materials": [
-        "debug/debugempty_rgdp",
-        "world/concrete/concrete_plates_bunker_02_brkn_bm_01_rgdp",
-        "world/metal/rebar_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/rebar_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/rebar_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/rebar_02b.rmdl",
-      "static": true,
-      "materials": [
-        "world/metal/rebar_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/rebar_cluster_01.rmdl",
-      "static": true,
-      "materials": [
-        "models/world/metal/rebar_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/rebar_cluster_02.rmdl",
-      "static": true,
-      "materials": [
-        "models/world/metal/rebar_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/rebar_cluster_03.rmdl",
-      "static": true,
-      "materials": [
-        "models/world/metal/rebar_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/rebar_cluster_04.rmdl",
-      "static": true,
-      "materials": [
-        "models/world/metal/rebar_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/rebar_pile01.rmdl",
-      "static": true,
-      "materials": [
-        "models/world/metal/rebar_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/rubble/rubble_pile_flat_sparse.rmdl",
-      "static": true,
-      "materials": [
-        "models/rubble/concrete_piece_med_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/s2s/s2s_railing_small_01_64.rmdl",
-      "static": true,
-      "materials": [
-        "world/ola/sewers_railing_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/thaw/roof_generator_ac.rmdl",
-      "static": true,
-      "materials": [
-        "models/beacon/charge_generator_01/charge_generator_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/thunderdome/thunderdome_cage_ceiling_128x128_03.rmdl",
-      "static": true,
-      "materials": [
-        "world/thunderdome/thunderdome_metal_paneling_01_rgdp",
-        "world/thunderdome/thunderdome_metal_trim_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/thunderdome/thunderdome_spike_traps_large_64_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/thunderdome/thunderdome_metal_paneling_01_rgdp",
-        "world/thunderdome/thunderdome_metal_trim_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
       "_path": "mdl/thunderdome/thunderdome_stands_girder_32x128_01.rmdl",
-      "static": true,
-      "materials": [
-        "world/thunderdome/thunderdome_metal_paneling_01_rgdp",
-        "world/thunderdome/thunderdome_metal_trim_01_rgdp"
-      ]
+      "static": true
     },
     {
       "_type": "rmdl",
