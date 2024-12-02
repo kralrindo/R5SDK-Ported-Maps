@@ -10,7 +10,7 @@
 
   "compressLevel": 0,
   "compressWorkers": 16,
-  
+
   "files": [
     {
       "_type": "dtbl",
@@ -3735,7 +3735,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/debug/debugempty.rpak",
+      "_path": "material/debug/debugempty_rgdp.rpak",
       "name": "debug/debugempty",
       "shaderType": "rgdp",
       "$cpu": "cpudata/debugempty_rgdp",
@@ -3767,7 +3767,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/fx/harvest_beam_mu1.rpak",
+      "_path": "material/fx/harvest_beam_mu1_rgdc.rpak",
       "name": "fx/harvest_beam_mu1",
       "shaderType": "rgdc",
       "$cpu": "cpudata/harvest_beam_mu1_rgdc",
@@ -3803,7 +3803,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/fx/harvest_beam_center_mu1.rpak",
+      "_path": "material/fx/harvest_beam_center_mu1_rgdc.rpak",
       "name": "fx/harvest_beam_center_mu1",
       "shaderType": "rgdc",
       "$cpu": "cpudata/harvest_beam_center_mu1_rgdc",
@@ -3839,7 +3839,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/burn_decal.rpak",
+      "_path": "material/world/decal/burn_decal_wldc.rpak",
       "name": "world/decal/burn_decal",
       "shaderType": "wldc",
       "$cpu": "cpudata/burn_decal_WLDC",
@@ -3877,7 +3877,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/decals/decals_asphalt_road_dirty/decals_asphalt_road_dirty_01.rpak",
+      "_path": "material/decals/decals_asphalt_road_dirty/decals_asphalt_road_dirty_01_rgdc.rpak",
       "name": "decals/decals_asphalt_road_dirty/decals_asphalt_road_dirty_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/decals_asphalt_road_dirty_01_rgdc",
@@ -3912,7 +3912,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/menu/menu_cubemap_01_char_select.rpak",
+      "_path": "material/models/menu/menu_cubemap_01_char_select_rgdp.rpak",
       "name": "models/menu/menu_cubemap_01_char_select",
       "shaderType": "rgdp",
       "$cpu": "cpudata/menu_cubemap_01_char_select_rgdp",
@@ -3944,7 +3944,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/beacon/charge_generator_01/charge_generator_01.rpak",
+      "_path": "material/models/beacon/charge_generator_01/charge_generator_01_rgdp.rpak",
       "name": "models/beacon/charge_generator_01/charge_generator_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/charge_generator_01_rgdp",
@@ -3982,7 +3982,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/raven_eye_01.rpak",
+      "_path": "material/models/desertlands/raven_eye_01_rgdp.rpak",
       "name": "models/desertlands/raven_eye_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/raven_eye_01_rgdp",
@@ -4017,7 +4017,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/raven_eye_01_small.rpak",
+      "_path": "material/models/desertlands/raven_eye_01_small_rgdp.rpak",
       "name": "models/desertlands/raven_eye_01_small",
       "shaderType": "rgdp",
       "$cpu": "cpudata/raven_eye_01_small_rgdp",
@@ -4052,7 +4052,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/raven_statue_01_base.rpak",
+      "_path": "material/models/desertlands/raven_statue_01_base_rgdc.rpak",
       "name": "models/desertlands/raven_statue_01_base",
       "shaderType": "rgdc",
       "$cpu": "cpudata/raven_statue_01_base_rgdc",
@@ -4088,7 +4088,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/raven_statue_01_base.rpak",
+      "_path": "material/models/desertlands/raven_statue_01_base_rgdp.rpak",
       "name": "models/desertlands/raven_statue_01_base",
       "shaderType": "rgdp",
       "$cpu": "cpudata/raven_statue_01_base_rgdp",
@@ -4124,7 +4124,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/raven_statue_01.rpak",
+      "_path": "material/models/desertlands/raven_statue_01_rgdc.rpak",
       "name": "models/desertlands/raven_statue_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/raven_statue_01_rgdc",
@@ -4160,7 +4160,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/raven_statue_01.rpak",
+      "_path": "material/models/desertlands/raven_statue_01_rgdp.rpak",
       "name": "models/desertlands/raven_statue_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/raven_statue_01_rgdp",
@@ -4196,7 +4196,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/rocket_supports_baked_misc01.rpak",
+      "_path": "material/models/desertlands/rocket_supports_baked_misc01_rgdc.rpak",
       "name": "models/desertlands/rocket_supports_baked_misc01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/rocket_supports_baked_misc01_rgdc",
@@ -4231,7 +4231,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/rocket_supports_baked_misc01.rpak",
+      "_path": "material/models/desertlands/rocket_supports_baked_misc01_rgdp.rpak",
       "name": "models/desertlands/rocket_supports_baked_misc01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/rocket_supports_baked_misc01_rgdp",
@@ -4266,7 +4266,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/rocket_supports_sections_01.rpak",
+      "_path": "material/models/desertlands/rocket_supports_sections_01_rgdc.rpak",
       "name": "models/desertlands/rocket_supports_sections_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/rocket_supports_sections_01_rgdc",
@@ -4300,7 +4300,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/rocket_supports_sections_01.rpak",
+      "_path": "material/models/desertlands/rocket_supports_sections_01_rgdp.rpak",
       "name": "models/desertlands/rocket_supports_sections_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/rocket_supports_sections_01_rgdp",
@@ -4334,7 +4334,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/rocket_supports_sections_01.rpak",
+      "_path": "material/models/desertlands/rocket_supports_sections_01_wldc.rpak",
       "name": "models/desertlands/rocket_supports_sections_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/rocket_supports_sections_01_wldc",
@@ -4368,7 +4368,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/rocket_supports_wall_tile_x512_01.rpak",
+      "_path": "material/models/desertlands/rocket_supports_wall_tile_x512_01_rgdc.rpak",
       "name": "models/desertlands/rocket_supports_wall_tile_x512_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/rocket_supports_wall_tile_x512_01_rgdc",
@@ -4403,7 +4403,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/desertlands/rocket_supports_wall_tile_x512_01.rpak",
+      "_path": "material/models/desertlands/rocket_supports_wall_tile_x512_01_rgdp.rpak",
       "name": "models/desertlands/rocket_supports_wall_tile_x512_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/rocket_supports_wall_tile_x512_01_rgdp",
@@ -4438,7 +4438,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/door/desertlands_door_frame_01.rpak",
+      "_path": "material/models/door/desertlands_door_frame_01_wldc.rpak",
       "name": "models/door/desertlands_door_frame_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/desertlands_door_frame_01_wldc",
@@ -4473,7 +4473,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/fixtures/stasis_light_01/stasis_light_01.rpak",
+      "_path": "material/models/fixtures/stasis_light_01/stasis_light_01_rgdp.rpak",
       "name": "models/fixtures/stasis_light_01/stasis_light_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/stasis_light_01_rgdp",
@@ -4509,7 +4509,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/foliage/grass_canyonland_burnt_long_02.rpak",
+      "_path": "material/models/foliage/grass_canyonland_burnt_long_02_rgdp.rpak",
       "name": "models/foliage/grass_canyonland_burnt_long_02",
       "shaderType": "rgdp",
       "$cpu": "cpudata/grass_canyonland_burnt_long_02_rgdp",
@@ -4552,7 +4552,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/foliage/grass_canyonland_burnt_long_02_colpass.rpak",
+      "_path": "material/models/foliage/grass_canyonland_burnt_long_02_colpass_rgdp.rpak",
       "name": "models/foliage/grass_canyonland_burnt_long_02_colpass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/grass_canyonland_burnt_long_02_rgdp",
@@ -4590,7 +4590,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/grass_canyonland_burnt_long_02_vsm.rpak",
+      "_path": "material/depth/models/foliage/grass_canyonland_burnt_long_02_vsm_rgdp.rpak",
       "name": "depth/models/foliage/grass_canyonland_burnt_long_02_vsm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/grass_canyonland_burnt_long_02_rgdp",
@@ -4628,7 +4628,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/grass_canyonland_burnt_long_02_tightshadow.rpak",
+      "_path": "material/depth/models/foliage/grass_canyonland_burnt_long_02_tightshadow_rgdp.rpak",
       "name": "depth/models/foliage/grass_canyonland_burnt_long_02_tightshadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/grass_canyonland_burnt_long_02_rgdp",
@@ -4666,7 +4666,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/grass_canyonland_burnt_long_02_shadow.rpak",
+      "_path": "material/depth/models/foliage/grass_canyonland_burnt_long_02_shadow_rgdp.rpak",
       "name": "depth/models/foliage/grass_canyonland_burnt_long_02_shadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/grass_canyonland_burnt_long_02_rgdp",
@@ -4704,7 +4704,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/grass_canyonland_burnt_long_02_prepass.rpak",
+      "_path": "material/depth/models/foliage/grass_canyonland_burnt_long_02_prepass_rgdp.rpak",
       "name": "depth/models/foliage/grass_canyonland_burnt_long_02_prepass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/grass_canyonland_burnt_long_02_rgdp",
@@ -4742,7 +4742,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/furniture/farmland_blanket_01.rpak",
+      "_path": "material/models/furniture/farmland_blanket_01_rgdp.rpak",
       "name": "models/furniture/farmland_blanket_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/farmland_blanket_01_rgdp",
@@ -4778,7 +4778,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/gibs/glass_shards01.rpak",
+      "_path": "material/models/gibs/glass_shards01_rgdp.rpak",
       "name": "models/gibs/glass_shards01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/glass_shards01_rgdp",
@@ -4813,7 +4813,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/imc_base/console_door_small_imc_01_locked.rpak",
+      "_path": "material/models/imc_base/console_door_small_imc_01_locked_rgdp.rpak",
       "name": "models/imc_base/console_door_small_imc_01_locked",
       "shaderType": "rgdp",
       "$cpu": "cpudata/console_door_small_imc_01_locked_rgdp",
@@ -4848,7 +4848,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/imc_base/console_door_small_imc_01_open.rpak",
+      "_path": "material/models/imc_base/console_door_small_imc_01_open_rgdp.rpak",
       "name": "models/imc_base/console_door_small_imc_01_open",
       "shaderType": "rgdp",
       "$cpu": "cpudata/console_door_small_imc_01_open_rgdp",
@@ -4883,7 +4883,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/imc_base/console_door_small_imc_01.rpak",
+      "_path": "material/models/imc_base/console_door_small_imc_01_rgdp.rpak",
       "name": "models/imc_base/console_door_small_imc_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/console_door_small_imc_01_rgdp",
@@ -4918,7 +4918,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/imc_base/imc_chair_01.rpak",
+      "_path": "material/models/imc_base/imc_chair_01_rgdp.rpak",
       "name": "models/imc_base/imc_chair_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/imc_chair_01_rgdp",
@@ -4953,7 +4953,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/imc_base/monitor_large_imc_01.rpak",
+      "_path": "material/models/imc_base/monitor_large_imc_01_rgdp.rpak",
       "name": "models/imc_base/monitor_large_imc_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/monitor_large_imc_01_rgdp",
@@ -4990,7 +4990,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/imc_interior/imc_int_glass.rpak",
+      "_path": "material/models/imc_interior/imc_int_glass_wldc.rpak",
       "name": "models/imc_interior/imc_int_glass",
       "shaderType": "wldc",
       "$cpu": "cpudata/imc_int_glass_wldc",
@@ -5025,7 +5025,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/imc_interior/imc_int_glass.rpak",
+      "_path": "material/models/imc_interior/imc_int_glass_rgdp.rpak",
       "name": "models/imc_interior/imc_int_glass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/imc_int_glass_rgdp",
@@ -5060,7 +5060,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/lamps/search_light_glass_on.rpak",
+      "_path": "material/models/lamps/search_light_glass_on_rgdp.rpak",
       "name": "models/lamps/search_light_glass_on",
       "shaderType": "rgdp",
       "$cpu": "cpudata/search_light_glass_on_rgdp",
@@ -5099,7 +5099,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/lamps/search_light_on.rpak",
+      "_path": "material/models/lamps/search_light_on_rgdp.rpak",
       "name": "models/lamps/search_light_on",
       "shaderType": "rgdp",
       "$cpu": "cpudata/search_light_on_rgdp",
@@ -5137,7 +5137,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/lamps/search_light_on_bright.rpak",
+      "_path": "material/models/lamps/search_light_on_bright_rgdp.rpak",
       "name": "models/lamps/search_light_on_bright",
       "shaderType": "rgdp",
       "$cpu": "cpudata/search_light_on_bright_rgdp",
@@ -5174,7 +5174,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/lamps/search_light_off.rpak",
+      "_path": "material/models/lamps/search_light_off_rgdp.rpak",
       "name": "models/lamps/search_light_off",
       "shaderType": "rgdp",
       "$cpu": "cpudata/search_light_off_rgdp",
@@ -5210,7 +5210,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/signs/desertlands_train_track_arrows_01_red.rpak",
+      "_path": "material/world/signs/desertlands_train_track_arrows_01_red_rgdp.rpak",
       "name": "world/signs/desertlands_train_track_arrows_01_red",
       "shaderType": "rgdp",
       "$cpu": "cpudata/desertlands_train_track_arrows_01_red_rgdp",
@@ -5246,7 +5246,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/mendoko/exterior/side_frame_tile/side_frame_tile.rpak",
+      "_path": "material/models/mendoko/exterior/side_frame_tile/side_frame_tile_rgdc.rpak",
       "name": "models/mendoko/exterior/side_frame_tile/side_frame_tile",
       "shaderType": "rgdc",
       "$cpu": "cpudata/side_frame_tile_rgdc",
@@ -5282,7 +5282,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/mendoko/exterior/side_frame_tile/side_frame_tile.rpak",
+      "_path": "material/models/mendoko/exterior/side_frame_tile/side_frame_tile_rgdp.rpak",
       "name": "models/mendoko/exterior/side_frame_tile/side_frame_tile",
       "shaderType": "rgdp",
       "$cpu": "cpudata/side_frame_tile_rgdp",
@@ -5318,7 +5318,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko.rpak",
+      "_path": "material/models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko_rgdc.rpak",
       "name": "models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko",
       "shaderType": "rgdc",
       "$cpu": "cpudata/ceiling_padded_mendoko_rgdc",
@@ -5354,7 +5354,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko.rpak",
+      "_path": "material/models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko_rgdp.rpak",
       "name": "models/mendoko/interior/ceiling_padded_mendoko/ceiling_padded_mendoko",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ceiling_padded_mendoko_rgdc",
@@ -5390,7 +5390,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03.rpak",
+      "_path": "material/models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03_rgdc.rpak",
       "name": "models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03",
       "shaderType": "rgdc",
       "$cpu": "cpudata/floor_panel_mendoko_03_rgdc",
@@ -5426,7 +5426,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03.rpak",
+      "_path": "material/models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03_rgdp.rpak",
       "name": "models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03",
       "shaderType": "rgdp",
       "$cpu": "cpudata/floor_panel_mendoko_03_rgdp",
@@ -5462,7 +5462,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03.rpak",
+      "_path": "material/models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03_wldc.rpak",
       "name": "models/mendoko/interior/floor_panel_mendoko_03/floor_panel_mendoko_03",
       "shaderType": "wldc",
       "$cpu": "cpudata/floor_panel_mendoko_03_wldc",
@@ -5498,7 +5498,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/walls/construction_metal_form_walls_02.rpak",
+      "_path": "material/world/walls/construction_metal_form_walls_02_rgdc.rpak",
       "name": "world/walls/construction_metal_form_walls_02",
       "shaderType": "rgdc",
       "$cpu": "cpudata/construction_metal_form_walls_02_RGDC",
@@ -5534,7 +5534,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/signs/beacon_crane_screens.rpak",
+      "_path": "material/world/signs/beacon_crane_screens_rgdp.rpak",
       "name": "world/signs/beacon_crane_screens",
       "shaderType": "rgdp",
       "$cpu": "cpudata/beacon_crane_screens_RGDP",
@@ -5570,7 +5570,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/concrete_wall_base_02.rpak",
+      "_path": "material/world/concrete/concrete_wall_base_02_rgdp.rpak",
       "name": "world/concrete/concrete_wall_base_02",
       "shaderType": "rgdp",
       "$cpu": "cpudata/concrete_wall_base_02_RGDP",
@@ -5605,7 +5605,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/concrete_wall_base_02.rpak",
+      "_path": "material/world/concrete/concrete_wall_base_02_rgdc.rpak",
       "name": "world/concrete/concrete_wall_base_02",
       "shaderType": "rgdc",
       "$cpu": "cpudata/concrete_wall_base_02_RGDC",
@@ -5640,7 +5640,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_floor_holes_02.rpak",
+      "_path": "material/world/metal/metal_floor_holes_02_rgdp.rpak",
       "name": "world/metal/metal_floor_holes_02",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metal_floor_holes_02_RGDP",
@@ -5680,7 +5680,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/metal/metal_floor_holes_02_prepass.rpak",
+      "_path": "material/depth/world/metal/metal_floor_holes_02_prepass_rgdp.rpak",
       "name": "depth/world/metal/metal_floor_holes_02_prepass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metal_floor_holes_02_RGDP",
@@ -5715,7 +5715,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/metal/metal_floor_holes_02_shadow.rpak",
+      "_path": "material/depth/world/metal/metal_floor_holes_02_shadow_rgdp.rpak",
       "name": "depth/world/metal/metal_floor_holes_02_shadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metal_floor_holes_02_RGDP",
@@ -5750,7 +5750,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/metal/metal_floor_holes_02_tightshadow.rpak",
+      "_path": "material/depth/world/metal/metal_floor_holes_02_tightshadow_rgdp.rpak",
       "name": "depth/world/metal/metal_floor_holes_02_tightshadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metal_floor_holes_02_RGDP",
@@ -5785,7 +5785,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/metal/metal_floor_holes_02_vsm.rpak",
+      "_path": "material/depth/world/metal/metal_floor_holes_02_vsm_rgdp.rpak",
       "name": "depth/world/metal/metal_floor_holes_02_vsm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metal_floor_holes_02_RGDP",
@@ -5820,7 +5820,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_floor_holes_02_colpass.rpak",
+      "_path": "material/world/metal/metal_floor_holes_02_colpass_rgdp.rpak",
       "name": "world/metal/metal_floor_holes_02_colpass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metal_floor_holes_02_RGDP",
@@ -5855,7 +5855,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/rocks/rock_lava_desertland_03.rpak",
+      "_path": "material/models/rocks/rock_lava_desertland_03_rgdp.rpak",
       "name": "models/rocks/rock_lava_desertland_03",
       "shaderType": "rgdp",
       "$cpu": "cpudata/rock_lava_desertland_03_rgdp",
@@ -5891,7 +5891,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/rocks/thunderdome/rock_sand_dark_large_03.rpak",
+      "_path": "material/models/rocks/thunderdome/rock_sand_dark_large_03_rgdp.rpak",
       "name": "models/rocks/thunderdome/rock_sand_dark_large_03",
       "shaderType": "rgdp",
       "$cpu": "cpudata/rock_sand_dark_large_03_rgdp",
@@ -5926,7 +5926,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/rocks/thunderdome/rock_sand_large_01.rpak",
+      "_path": "material/models/rocks/thunderdome/rock_sand_large_01_rgdp.rpak",
       "name": "models/rocks/thunderdome/rock_sand_large_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/rock_sand_large_01_rgdp",
@@ -5961,7 +5961,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/rocks/thunderdome/rock_sand_large_01.rpak",
+      "_path": "material/models/rocks/thunderdome/rock_sand_large_01_wldc.rpak",
       "name": "models/rocks/thunderdome/rock_sand_large_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/rock_sand_large_01_wldc",
@@ -5996,7 +5996,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/rocks/thunderdome/rock_sand_large_02.rpak",
+      "_path": "material/models/rocks/thunderdome/rock_sand_large_02_rgdp.rpak",
       "name": "models/rocks/thunderdome/rock_sand_large_02",
       "shaderType": "rgdp",
       "$cpu": "cpudata/rock_sand_large_02_RGDP",
@@ -6031,7 +6031,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/military_bridge/military_bridge_02_grime_bm.rpak",
+      "_path": "material/world/metal/military_bridge/military_bridge_02_grime_bm_rgdp.rpak",
       "name": "world/metal/military_bridge/military_bridge_02_grime_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/military_bridge_02_grime_bm_RGDP",
@@ -6072,7 +6072,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/rocks/thunderdome/thunderdome_quarry_block_stairs_01.rpak",
+      "_path": "material/models/rocks/thunderdome/thunderdome_quarry_block_stairs_01_rgdp.rpak",
       "name": "models/rocks/thunderdome/thunderdome_quarry_block_stairs_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/thunderdome_quarry_block_stairs_01_rgdp",
@@ -6109,7 +6109,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/rocks/thunderdome/thunderdome_quarry_blocks_01.rpak",
+      "_path": "material/models/rocks/thunderdome/thunderdome_quarry_blocks_01_wldc.rpak",
       "name": "models/rocks/thunderdome/thunderdome_quarry_blocks_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/thunderdome_quarry_blocks_01_wldc",
@@ -6144,7 +6144,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/rocks/thunderdome/thunderdome_quarry_blocks_01.rpak",
+      "_path": "material/models/rocks/thunderdome/thunderdome_quarry_blocks_01_rgdp.rpak",
       "name": "models/rocks/thunderdome/thunderdome_quarry_blocks_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/thunderdome_quarry_blocks_01_rgdp",
@@ -6179,7 +6179,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/rocks/thunderdome/thunderdome_quarry_blocks_02.rpak",
+      "_path": "material/models/rocks/thunderdome/thunderdome_quarry_blocks_02_rgdp.rpak",
       "name": "models/rocks/thunderdome/thunderdome_quarry_blocks_02",
       "shaderType": "rgdp",
       "$cpu": "cpudata/thunderdome_quarry_blocks_02_rgdp",
@@ -6214,7 +6214,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/rocks/thunderdome/thunderdome_quarry_blocks_03.rpak",
+      "_path": "material/models/rocks/thunderdome/thunderdome_quarry_blocks_03_rgdp.rpak",
       "name": "models/rocks/thunderdome/thunderdome_quarry_blocks_03",
       "shaderType": "rgdp",
       "$cpu": "cpudata/thunderdome_quarry_blocks_03_rgdp",
@@ -6249,7 +6249,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/s2s/elevator_trim_01/s2s_elevator_trim_01.rpak",
+      "_path": "material/models/s2s/elevator_trim_01/s2s_elevator_trim_01_wldc.rpak",
       "name": "models/s2s/elevator_trim_01/s2s_elevator_trim_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/s2s_elevator_trim_01_wldc",
@@ -6285,7 +6285,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/test/pt_test/pt_gray_test_01.rpak",
+      "_path": "material/models/test/pt_test/pt_gray_test_01_rgdp.rpak",
       "name": "models/test/pt_test/pt_gray_test_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/pt_gray_test_01_rgdp",
@@ -6320,7 +6320,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/d_lava_river_skyboxmu1_bm_transparent.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/d_lava_river_skyboxmu1_bm_transparent_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/d_lava_river_skyboxmu1_bm_transparent",
       "shaderType": "rgdp",
       "$cpu": "cpudata/d_lava_river_skyboxmu1_bm_transparent_rgdp",
@@ -6359,7 +6359,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/desertlands_mountains2_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/desertlands_mountains2_mu1_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/desertlands_mountains2_mu1",
       "shaderType": "rgdp",
       "$cpu": "cpudata/desertlands_mountains2_mu1_rgdp",
@@ -6391,7 +6391,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/desertlands_mountains_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/desertlands_mountains_mu1_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/desertlands_mountains_mu1",
       "shaderType": "rgdp",
       "$cpu": "cpudata/desertlands_mountains_mu1_rgdp",
@@ -6424,7 +6424,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/desertlands_sky_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/desertlands_sky_mu1_rgdc.rpak",
       "name": "models/vistas/desertlands_mu1/desertlands_sky_mu1",
       "shaderType": "rgdc",
       "$cpu": "cpudata/desertlands_sky_mu1_rgdc",
@@ -6456,7 +6456,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/i_desertlands_fire_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/i_desertlands_fire_mu1_rgdc.rpak",
       "name": "models/vistas/desertlands_mu1/i_desertlands_fire_mu1",
       "shaderType": "rgdc",
       "$cpu": "cpudata/i_desertlands_fire_mu1_rgdc",
@@ -6489,7 +6489,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/iceland_slopeb_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/iceland_slopeb_mu1_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/iceland_slopeb_mu1",
       "shaderType": "rgdp",
       "$cpu": "cpudata/iceland_slopeb_mu1_rgdp",
@@ -6521,7 +6521,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/iceland_sloped_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/iceland_sloped_mu1_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/iceland_sloped_mu1",
       "shaderType": "rgdp",
       "$cpu": "cpudata/iceland_sloped_mu1_rgdp",
@@ -6553,7 +6553,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/lava_river_skyboxmu1_v3_bm.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/lava_river_skyboxmu1_v3_bm_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/lava_river_skyboxmu1_v3_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/lava_river_skyboxmu1_v3_bm_rgdp",
@@ -6601,7 +6601,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/m_desertlands_smoke_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/m_desertlands_smoke_mu1_rgdc.rpak",
       "name": "models/vistas/desertlands_mu1/m_desertlands_smoke_mu1",
       "shaderType": "rgdc",
       "$cpu": "cpudata/m_desertlands_smoke_mu1_rgdc",
@@ -6634,7 +6634,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/n_desertlands_smoke_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/n_desertlands_smoke_mu1_rgdc.rpak",
       "name": "models/vistas/desertlands_mu1/n_desertlands_smoke_mu1",
       "shaderType": "rgdc",
       "$cpu": "cpudata/n_desertlands_smoke_mu1_rgdc",
@@ -6667,7 +6667,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/o_desertlands_smoke_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/o_desertlands_smoke_mu1_rgdc.rpak",
       "name": "models/vistas/desertlands_mu1/o_desertlands_smoke_mu1",
       "shaderType": "rgdc",
       "$cpu": "cpudata/o_desertlands_smoke_mu1_rgdc",
@@ -6700,7 +6700,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/p_desertlands_smoke_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/p_desertlands_smoke_mu1_rgdc.rpak",
       "name": "models/vistas/desertlands_mu1/p_desertlands_smoke_mu1",
       "shaderType": "rgdc",
       "$cpu": "cpudata/p_desertlands_smoke_mu1_rgdc",
@@ -6733,7 +6733,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/q_desertlands_smoke_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/q_desertlands_smoke_mu1_rgdc.rpak",
       "name": "models/vistas/desertlands_mu1/q_desertlands_smoke_mu1",
       "shaderType": "rgdc",
       "$cpu": "cpudata/q_desertlands_smoke_mu1_rgdc",
@@ -6766,7 +6766,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/r_desertlands_smoke_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/r_desertlands_smoke_mu1_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/r_desertlands_smoke_mu1",
       "shaderType": "rgdp",
       "$cpu": "cpudata/r_desertlands_smoke_mu1_rgdp",
@@ -6799,7 +6799,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/s_desertlands_smoke_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/s_desertlands_smoke_mu1_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/s_desertlands_smoke_mu1",
       "shaderType": "rgdp",
       "$cpu": "cpudata/s_desertlands_smoke_mu1_rgdp",
@@ -6832,7 +6832,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/t_desertlands_fog_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/t_desertlands_fog_mu1_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/t_desertlands_fog_mu1",
       "shaderType": "rgdp",
       "$cpu": "cpudata/t_desertlands_fog_mu1_rgdp",
@@ -6865,7 +6865,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/u_desertlands_fog_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/u_desertlands_fog_mu1_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/u_desertlands_fog_mu1",
       "shaderType": "rgdp",
       "$cpu": "cpudata/u_desertlands_fog_mu1_rgdp",
@@ -6898,7 +6898,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/v_desertlands_fog_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/v_desertlands_fog_mu1_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/v_desertlands_fog_mu1",
       "shaderType": "rgdp",
       "$cpu": "cpudata/v_desertlands_fog_mu1_rgdp",
@@ -6931,7 +6931,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/w_desertlands_fog_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/w_desertlands_fog_mu1_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/w_desertlands_fog_mu1",
       "shaderType": "rgdp",
       "$cpu": "cpudata/w_desertlands_fog_mu1_rgdp",
@@ -6964,7 +6964,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/x_desertlands_fog_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/x_desertlands_fog_mu1_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/x_desertlands_fog_mu1",
       "shaderType": "rgdp",
       "$cpu": "cpudata/x_desertlands_fog_mu1_rgdp",
@@ -6997,7 +6997,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vistas/desertlands_mu1/y_desertlands_fog_mu1.rpak",
+      "_path": "material/models/vistas/desertlands_mu1/y_desertlands_fog_mu1_rgdp.rpak",
       "name": "models/vistas/desertlands_mu1/y_desertlands_fog_mu1",
       "shaderType": "rgdp",
       "$cpu": "cpudata/y_desertlands_fog_mu1_rgdp",
@@ -7030,7 +7030,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/dirt/eroded_dirt_01.rpak",
+      "_path": "material/models/world/dirt/eroded_dirt_01_rgdp.rpak",
       "name": "models/world/dirt/eroded_dirt_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/eroded_dirt_01_rgdp",
@@ -7068,7 +7068,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/metal/rebar.rpak",
+      "_path": "material/models/world/metal/rebar_rgdp.rpak",
       "name": "models/world/metal/rebar",
       "shaderType": "rgdp",
       "$cpu": "cpudata/rebar_rgdp",
@@ -7103,7 +7103,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/plastic/cabinet_trim_01.rpak",
+      "_path": "material/models/world/plastic/cabinet_trim_01_rgdp.rpak",
       "name": "models/world/plastic/cabinet_trim_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/cabinet_trim_01_rgdp",
@@ -7138,7 +7138,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_eroded_dirt_01_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_eroded_dirt_01_bm_rgdc.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_eroded_dirt_01_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_eroded_dirt_01_bm_rgdc",
@@ -7183,7 +7183,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_eroded_dirt_01_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_eroded_dirt_01_bm_rgdp.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_eroded_dirt_01_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_eroded_dirt_01_bm_rgdp",
@@ -7228,7 +7228,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_eroded_dirt_01_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_eroded_dirt_01_bm_wldc.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_eroded_dirt_01_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_eroded_dirt_01_bm_wldc",
@@ -7273,7 +7273,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_dirt_02_zup_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_dirt_02_zup_bm_rgdc.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_icelandic_dirt_02_zup_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_icelandic_dirt_02_zup_bm_rgdc",
@@ -7319,7 +7319,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_dirt_02_zup_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_dirt_02_zup_bm_rgdp.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_icelandic_dirt_02_zup_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_icelandic_dirt_02_zup_bm_rgdp",
@@ -7365,7 +7365,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_rgdc.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_rgdc",
@@ -7411,7 +7411,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_rgdp.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_icelandic_moss_01_fall_zup_bm_rgdp",
@@ -7457,7 +7457,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_rgdc.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_rgdc",
@@ -7503,7 +7503,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_rgdp.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_icelandic_moss_01_zup_bm_rgdp",
@@ -7549,7 +7549,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_rgdc.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_rgdc",
@@ -7593,7 +7593,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_rgdp.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_standard_rubble_02_wld_bm_rgdp",
@@ -7637,7 +7637,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm_rgdc.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm_rgdc",
@@ -7682,7 +7682,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm.rpak",
+      "_path": "material/models/world/stone/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm_rgdp.rpak",
       "name": "models/world/stone/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/sedimentary_rock_cliff_01_to_volcanic_ground_03_bm_rgdp",
@@ -7727,7 +7727,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/test/blinn_maya_test.rpak",
+      "_path": "material/test/blinn_maya_test_wldc.rpak",
       "name": "test/blinn_maya_test",
       "shaderType": "wldc",
       "$cpu": "cpudata/blinn_maya_test_wldc",
@@ -7763,7 +7763,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/asphalt/sidewalk_curb_trim_01.rpak",
+      "_path": "material/world/asphalt/sidewalk_curb_trim_01_rgdc.rpak",
       "name": "world/asphalt/sidewalk_curb_trim_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/sidewalk_curb_trim_01_RGDC",
@@ -7798,7 +7798,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/stamped_metal_large_rusty_bm.rpak",
+      "_path": "material/world/ola/stamped_metal_large_rusty_bm_rgdp.rpak",
       "name": "world/ola/stamped_metal_large_rusty_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/stamped_metal_large_rusty_bm_RGDP",
@@ -7838,7 +7838,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/concrete_floor_01_cracked_bm.rpak",
+      "_path": "material/world/concrete/concrete_floor_01_cracked_bm_wldc.rpak",
       "name": "world/concrete/concrete_floor_01_cracked_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/concrete_floor_01_cracked_bm_WLDC",
@@ -7879,7 +7879,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/mendoko/interior/panel_trim_mendoko/panel_trim_mendoko.rpak",
+      "_path": "material/models/mendoko/interior/panel_trim_mendoko/panel_trim_mendoko_wldc.rpak",
       "name": "models/mendoko/interior/panel_trim_mendoko/panel_trim_mendoko",
       "shaderType": "wldc",
       "$cpu": "cpudata/panel_trim_mendoko_WLDC",
@@ -7915,7 +7915,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/military_bridge/military_bridge_01_grime_bm.rpak",
+      "_path": "material/world/metal/military_bridge/military_bridge_01_grime_bm_rgdp.rpak",
       "name": "world/metal/military_bridge/military_bridge_01_grime_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/military_bridge_01_grime_bm_RGDP",
@@ -7955,7 +7955,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/asphalt/asphalt08_wet_bm.rpak",
+      "_path": "material/world/asphalt/asphalt08_wet_bm_rgdp.rpak",
       "name": "world/asphalt/asphalt08_wet_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/asphalt08_wet_bm_rgdp",
@@ -7995,7 +7995,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/asphalt/asphalt08_wet_bm.rpak",
+      "_path": "material/world/asphalt/asphalt08_wet_bm_rgdc.rpak",
       "name": "world/asphalt/asphalt08_wet_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/asphalt08_wet_bm_rgdp",
@@ -8035,7 +8035,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/asphalt/asphalt08_wet_bm.rpak",
+      "_path": "material/world/asphalt/asphalt08_wet_bm_wldc.rpak",
       "name": "world/asphalt/asphalt08_wet_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/asphalt08_wet_bm_wldc",
@@ -8075,7 +8075,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/atmosphere/atmosphere_1000_fade_thick_depth_scroll.rpak",
+      "_path": "material/world/atmosphere/atmosphere_1000_fade_thick_depth_scroll_rgdc.rpak",
       "name": "world/atmosphere/atmosphere_1000_fade_thick_depth_scroll",
       "shaderType": "rgdc",
       "$cpu": "cpudata/atmosphere_1000_fade_thick_depth_scroll_rgdc",
@@ -8107,7 +8107,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/atmosphere/atmosphere_1000_fade_thick_depth_scroll.rpak",
+      "_path": "material/world/atmosphere/atmosphere_1000_fade_thick_depth_scroll_rgdp.rpak",
       "name": "world/atmosphere/atmosphere_1000_fade_thick_depth_scroll",
       "shaderType": "rgdp",
       "$cpu": "cpudata/atmosphere_1000_fade_thick_depth_scroll_rgdp",
@@ -8139,7 +8139,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/atmosphere/atmosphere_1500_fade_thick_depth.rpak",
+      "_path": "material/world/atmosphere/atmosphere_1500_fade_thick_depth_rgdp.rpak",
       "name": "world/atmosphere/atmosphere_1500_fade_thick_depth",
       "shaderType": "rgdp",
       "$cpu": "cpudata/atmosphere_1500_fade_thick_depth_rgdp",
@@ -8171,7 +8171,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_building_overlay_decal.rpak",
+      "_path": "material/world/beacon/beacon_building_overlay_decal_wldc.rpak",
       "name": "world/beacon/beacon_building_overlay_decal",
       "shaderType": "wldc",
       "$cpu": "cpudata/beacon_building_overlay_decal_wldc",
@@ -8206,7 +8206,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_building_overlay_decal.rpak",
+      "_path": "material/world/beacon/beacon_building_overlay_decal_rgdc.rpak",
       "name": "world/beacon/beacon_building_overlay_decal",
       "shaderType": "rgdc",
       "$cpu": "cpudata/beacon_building_overlay_decal_rgdc",
@@ -8241,7 +8241,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_building_overlay_decal.rpak",
+      "_path": "material/world/beacon/beacon_building_overlay_decal_rgdp.rpak",
       "name": "world/beacon/beacon_building_overlay_decal",
       "shaderType": "rgdp",
       "$cpu": "cpudata/beacon_building_overlay_decal_rgdp",
@@ -8276,7 +8276,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/containers/loot_bin_01/loot_bin_02.rpak",
+      "_path": "material/models/containers/loot_bin_01/loot_bin_02_sknp.rpak",
       "name": "models/containers/loot_bin_01/loot_bin_02",
       "shaderType": "sknp",
       "$cpu": "cpudata/loot_bin_02_sknp",
@@ -8314,7 +8314,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/containers/loot_bin_01/loot_bin_01_shimmer_02.rpak",
+      "_path": "material/models/containers/loot_bin_01/loot_bin_01_shimmer_02_sknp.rpak",
       "name": "models/containers/loot_bin_01/loot_bin_01_shimmer_02",
       "shaderType": "sknp",
       "$cpu": "cpudata/loot_bin_01_shimmer_02_sknp",
@@ -8347,7 +8347,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01.rpak",
+      "_path": "material/world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_sknp.rpak",
       "name": "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01",
       "shaderType": "sknp",
       "$cpu": "cpudata/beacon_industrial_floor_01_sknp",
@@ -8383,7 +8383,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01.rpak",
+      "_path": "material/world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdc.rpak",
       "name": "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/beacon_industrial_floor_01_rgdc",
@@ -8419,7 +8419,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01.rpak",
+      "_path": "material/world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01_rgdp.rpak",
       "name": "world/beacon/beacon_industrial_floor_01/beacon_industrial_floor_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/beacon_industrial_floor_01_rgdp",
@@ -8455,7 +8455,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_metal_panel_grey_01/beacon_metal_panel_grey_01.rpak",
+      "_path": "material/world/beacon/beacon_metal_panel_grey_01/beacon_metal_panel_grey_01_rgdc.rpak",
       "name": "world/beacon/beacon_metal_panel_grey_01/beacon_metal_panel_grey_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/beacon_metal_panel_grey_01_rgdc",
@@ -8491,7 +8491,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_metal_panel_grey_01/beacon_metal_panel_grey_01.rpak",
+      "_path": "material/world/beacon/beacon_metal_panel_grey_01/beacon_metal_panel_grey_01_wldc.rpak",
       "name": "world/beacon/beacon_metal_panel_grey_01/beacon_metal_panel_grey_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/beacon_metal_panel_grey_01_wldc",
@@ -8527,7 +8527,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc.rpak",
+      "_path": "material/world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_rgdc.rpak",
       "name": "world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc",
       "shaderType": "rgdc",
       "$cpu": "cpudata/beacon_metal_panel_grey_02_vc_rgdc",
@@ -8563,7 +8563,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc.rpak",
+      "_path": "material/world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_wldc.rpak",
       "name": "world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc",
       "shaderType": "wldc",
       "$cpu": "cpudata/beacon_metal_panel_grey_02_vc_wldc",
@@ -8599,7 +8599,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc.rpak",
+      "_path": "material/world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc_rgdp.rpak",
       "name": "world/beacon/beacon_metal_panel_grey_02/beacon_metal_panel_grey_02_vc",
       "shaderType": "rgdp",
       "$cpu": "cpudata/beacon_metal_panel_grey_02_vc_rgdp",
@@ -8635,7 +8635,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/padded_panel_construction_01_vc.rpak",
+      "_path": "material/world/beacon/padded_panel_construction_01_vc_rgdc.rpak",
       "name": "world/beacon/padded_panel_construction_01_vc",
       "shaderType": "rgdc",
       "$cpu": "cpudata/padded_panel_construction_01_vc_rgdc",
@@ -8671,7 +8671,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/padded_panel_construction_01_vc.rpak",
+      "_path": "material/world/beacon/padded_panel_construction_01_vc_rgdp.rpak",
       "name": "world/beacon/padded_panel_construction_01_vc",
       "shaderType": "rgdp",
       "$cpu": "cpudata/padded_panel_construction_01_vc_rgdp",
@@ -8707,7 +8707,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/padded_panel_construction_01_vc.rpak",
+      "_path": "material/world/beacon/padded_panel_construction_01_vc_wldc.rpak",
       "name": "world/beacon/padded_panel_construction_01_vc",
       "shaderType": "wldc",
       "$cpu": "cpudata/padded_panel_construction_01_vc_wldc",
@@ -8743,7 +8743,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/boomtown/wf_painted_metal_01_yellow.rpak",
+      "_path": "material/world/boomtown/wf_painted_metal_01_yellow_wldc.rpak",
       "name": "world/boomtown/wf_painted_metal_01_yellow",
       "shaderType": "wldc",
       "$cpu": "cpudata/wf_painted_metal_01_yellow_wldc",
@@ -8778,7 +8778,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/cloth/research_station_cloth_trim_01_vc.rpak",
+      "_path": "material/world/cloth/research_station_cloth_trim_01_vc_rgdp.rpak",
       "name": "world/cloth/research_station_cloth_trim_01_vc",
       "shaderType": "rgdp",
       "$cpu": "cpudata/research_station_cloth_trim_01_vc_rgdp",
@@ -8813,7 +8813,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/asphalt_dark_dirty_cracked_01.rpak",
+      "_path": "material/world/concrete/asphalt_dark_dirty_cracked_01_rgdp.rpak",
       "name": "world/concrete/asphalt_dark_dirty_cracked_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/asphalt_dark_dirty_cracked_01_rgdp",
@@ -8849,7 +8849,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/concrete_broken_surface.rpak",
+      "_path": "material/world/concrete/concrete_broken_surface_rgdc.rpak",
       "name": "world/concrete/concrete_broken_surface",
       "shaderType": "rgdc",
       "$cpu": "cpudata/concrete_broken_surface_rgdc",
@@ -8885,7 +8885,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/concrete_broken_surface.rpak",
+      "_path": "material/world/concrete/concrete_broken_surface_rgdp.rpak",
       "name": "world/concrete/concrete_broken_surface",
       "shaderType": "rgdp",
       "$cpu": "cpudata/concrete_broken_surface_rgdc",
@@ -8921,7 +8921,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/concrete_broken_surface.rpak",
+      "_path": "material/world/concrete/concrete_broken_surface_wldc.rpak",
       "name": "world/concrete/concrete_broken_surface",
       "shaderType": "wldc",
       "$cpu": "cpudata/concrete_broken_surface_wldc",
@@ -8957,7 +8957,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/concrete_floor_01_stained_bm.rpak",
+      "_path": "material/world/concrete/concrete_floor_01_stained_bm_rgdp.rpak",
       "name": "world/concrete/concrete_floor_01_stained_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/concrete_floor_01_stained_bm_rgdp",
@@ -8997,7 +8997,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/concrete_plates_bunker_02_brkn_bm_01.rpak",
+      "_path": "material/world/concrete/concrete_plates_bunker_02_brkn_bm_01_rgdp.rpak",
       "name": "world/concrete/concrete_plates_bunker_02_brkn_bm_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/concrete_plates_bunker_02_brkn_bm_01_rgdp",
@@ -9038,7 +9038,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/concrete_sidewalk01_cracks03.rpak",
+      "_path": "material/world/concrete/concrete_sidewalk01_cracks03_wldc.rpak",
       "name": "world/concrete/concrete_sidewalk01_cracks03",
       "shaderType": "wldc",
       "$cpu": "cpudata/concrete_sidewalk01_cracks03_wldc",
@@ -9073,7 +9073,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm.rpak",
+      "_path": "material/world/concrete/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_wldc.rpak",
       "name": "world/concrete/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/concrete_trim_slums_01_to_cracked_concrete_slab_01_bm_wldc",
@@ -9115,7 +9115,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/dam_concrete_01_dirty.rpak",
+      "_path": "material/world/concrete/dam_concrete_01_dirty_rgdc.rpak",
       "name": "world/concrete/dam_concrete_01_dirty",
       "shaderType": "rgdc",
       "$cpu": "cpudata/dam_concrete_01_dirty_rgdc",
@@ -9150,7 +9150,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/dam_concrete_02_gray.rpak",
+      "_path": "material/world/concrete/dam_concrete_02_gray_rgdc.rpak",
       "name": "world/concrete/dam_concrete_02_gray",
       "shaderType": "rgdc",
       "$cpu": "cpudata/dam_concrete_02_gray_rgdc",
@@ -9185,7 +9185,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/dam_concrete_02_stained_bm.rpak",
+      "_path": "material/world/concrete/dam_concrete_02_stained_bm_rgdc.rpak",
       "name": "world/concrete/dam_concrete_02_stained_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/dam_concrete_02_stained_bm_rgdc",
@@ -9225,7 +9225,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/cockpit/ship_console_control_tower.rpak",
+      "_path": "material/models/cockpit/ship_console_control_tower_rgdp.rpak",
       "name": "models/cockpit/ship_console_control_tower",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ship_console_control_tower_RGDP",
@@ -9261,7 +9261,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/cockpit/ship_console_control_small.rpak",
+      "_path": "material/models/cockpit/ship_console_control_small_rgdp.rpak",
       "name": "models/cockpit/ship_console_control_small",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ship_console_control_small_RGDP",
@@ -9297,7 +9297,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/domestic/fire_exstinguisher.rpak",
+      "_path": "material/models/domestic/fire_exstinguisher_rgdp.rpak",
       "name": "models/domestic/fire_exstinguisher",
       "shaderType": "rgdp",
       "$cpu": "cpudata/fire_exstinguisher_RGDP",
@@ -9332,7 +9332,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/domestic/fire_exstinguisher_case.rpak",
+      "_path": "material/models/domestic/fire_exstinguisher_case_rgdp.rpak",
       "name": "models/domestic/fire_exstinguisher_case",
       "shaderType": "rgdp",
       "$cpu": "cpudata/fire_exstinguisher_case_RGDP",
@@ -9367,7 +9367,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/floating_village/metalset_floating_village_01.rpak",
+      "_path": "material/models/floating_village/metalset_floating_village_01_rgdp.rpak",
       "name": "models/floating_village/metalset_floating_village_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metalset_floating_village_01_RGDP",
@@ -9402,7 +9402,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/doors/canyonlands_door_large_01/canyonlands_door_large_01.rpak",
+      "_path": "material/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_rgdp.rpak",
       "name": "world/doors/canyonlands_door_large_01/canyonlands_door_large_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/canyonlands_door_large_01_RGDP",
@@ -9439,7 +9439,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/doors/canyonlands_door_large_01/canyonlands_door_large_01.rpak",
+      "_path": "material/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_sknp.rpak",
       "name": "world/doors/canyonlands_door_large_01/canyonlands_door_large_01",
       "shaderType": "sknp",
       "$cpu": "cpudata/canyonlands_door_large_01_sknp",
@@ -9476,7 +9476,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_transparent.rpak",
+      "_path": "material/world/doors/canyonlands_door_large_01/canyonlands_door_large_01_transparent_sknp.rpak",
       "name": "world/doors/canyonlands_door_large_01/canyonlands_door_large_01_transparent",
       "shaderType": "sknp",
       "$cpu": "cpudata/canyonlands_door_large_01_transparent_SKNP",
@@ -9513,7 +9513,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/lamps/hanging_relic_light_on.rpak",
+      "_path": "material/models/lamps/hanging_relic_light_on_rgdp.rpak",
       "name": "models/lamps/hanging_relic_light_on",
       "shaderType": "rgdp",
       "$cpu": "cpudata/hanging_relic_light_on_RGDP",
@@ -9549,7 +9549,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/harmony_mines/rock/harmony_mines_rockchunks_01_light.rpak",
+      "_path": "material/models/harmony_mines/rock/harmony_mines_rockchunks_01_light_rgdp.rpak",
       "name": "models/harmony_mines/rock/harmony_mines_rockchunks_01_light",
       "shaderType": "rgdp",
       "$cpu": "cpudata/harmony_mines_rockchunks_01_light_RGDP",
@@ -9584,7 +9584,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/harmony_mines/rock/harmony_mines_rockchunks_01_dark.rpak",
+      "_path": "material/models/harmony_mines/rock/harmony_mines_rockchunks_01_dark_rgdp.rpak",
       "name": "models/harmony_mines/rock/harmony_mines_rockchunks_01_dark",
       "shaderType": "rgdp",
       "$cpu": "cpudata/harmony_mines_rockchunks_01_dark_RGDP",
@@ -9619,7 +9619,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/foliage/moss_green_hanging_large_01.rpak",
+      "_path": "material/models/foliage/moss_green_hanging_large_01_rgdp.rpak",
       "name": "models/foliage/moss_green_hanging_large_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/moss_green_hanging_large_01_RGDP",
@@ -9655,7 +9655,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/domestic/nessy_doll.rpak",
+      "_path": "material/models/domestic/nessy_doll_rgdp.rpak",
       "name": "models/domestic/nessy_doll",
       "shaderType": "rgdp",
       "$cpu": "cpudata/nessy_doll_RGDP",
@@ -9694,7 +9694,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/cockpit/ship_interior_console_screens.rpak",
+      "_path": "material/models/cockpit/ship_interior_console_screens_rgdp.rpak",
       "name": "models/cockpit/ship_interior_console_screens",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ship_interior_console_screens_RGDP",
@@ -9730,7 +9730,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/decals_cracks_01.rpak",
+      "_path": "material/world/decal/decals_cracks_01_rgdc.rpak",
       "name": "world/decal/decals_cracks_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/decals_cracks_01_rgdc",
@@ -9764,7 +9764,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/decals_cracks_01.rpak",
+      "_path": "material/world/decal/decals_cracks_01_rgdp.rpak",
       "name": "world/decal/decals_cracks_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/decals_cracks_01_rgdp",
@@ -9798,7 +9798,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/decals_cracks_01.rpak",
+      "_path": "material/world/decal/decals_cracks_01_wldc.rpak",
       "name": "world/decal/decals_cracks_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/decals_cracks_01_wldc",
@@ -9832,7 +9832,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/hammond_robotics_decal_vc_01.rpak",
+      "_path": "material/world/decal/hammond_robotics_decal_vc_01_rgdc.rpak",
       "name": "world/decal/hammond_robotics_decal_vc_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/hammond_robotics_decal_vc_01_rgdc",
@@ -9867,7 +9867,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/hammond_robotics_decal_vc_01.rpak",
+      "_path": "material/world/decal/hammond_robotics_decal_vc_01_rgdp.rpak",
       "name": "world/decal/hammond_robotics_decal_vc_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/hammond_robotics_decal_vc_01_rgdp",
@@ -9902,7 +9902,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/hammond_robotics_decal_vc_01.rpak",
+      "_path": "material/world/decal/hammond_robotics_decal_vc_01_wldc.rpak",
       "name": "world/decal/hammond_robotics_decal_vc_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/hammond_robotics_decal_vc_01_wldc",
@@ -9937,7 +9937,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/kodai_caution_stripe_decals.rpak",
+      "_path": "material/world/decal/kodai_caution_stripe_decals_rgdc.rpak",
       "name": "world/decal/kodai_caution_stripe_decals",
       "shaderType": "rgdc",
       "$cpu": "cpudata/kodai_caution_stripe_decals_rgdc",
@@ -9972,7 +9972,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/signs/thaw_alphabet_white_grunge.rpak",
+      "_path": "material/world/signs/thaw_alphabet_white_grunge_rgdc.rpak",
       "name": "world/signs/thaw_alphabet_white_grunge",
       "shaderType": "rgdc",
       "$cpu": "cpudata/metal_scratches_decal_01_rgdc",
@@ -10007,7 +10007,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/signs/thaw_numbers_white_grunge.rpak",
+      "_path": "material/world/signs/thaw_numbers_white_grunge_rgdc.rpak",
       "name": "world/signs/thaw_numbers_white_grunge",
       "shaderType": "rgdc",
       "$cpu": "cpudata/metal_scratches_decal_01_rgdc",
@@ -10042,7 +10042,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_dirt_air_streams.rpak",
+      "_path": "material/world/s2s/s2s_dirt_air_streams_rgdc.rpak",
       "name": "world/s2s/s2s_dirt_air_streams",
       "shaderType": "rgdc",
       "$cpu": "cpudata/metal_scratches_decal_01_rgdc",
@@ -10078,7 +10078,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/metal_scratches_decal_01.rpak",
+      "_path": "material/world/decal/metal_scratches_decal_01_rgdc.rpak",
       "name": "world/decal/metal_scratches_decal_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/metal_scratches_decal_01_rgdc",
@@ -10112,7 +10112,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/metal_scratches_decal_01.rpak",
+      "_path": "material/world/decal/metal_scratches_decal_01_wldc.rpak",
       "name": "world/decal/metal_scratches_decal_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/metal_scratches_decal_01_wldc",
@@ -10146,7 +10146,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/signage_building_02.rpak",
+      "_path": "material/world/decal/signage_building_02_rgdc.rpak",
       "name": "world/decal/signage_building_02",
       "shaderType": "rgdc",
       "$cpu": "cpudata/signage_building_02_rgdc",
@@ -10181,7 +10181,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/signage_building_02.rpak",
+      "_path": "material/world/decal/signage_building_02_rgdp.rpak",
       "name": "world/decal/signage_building_02",
       "shaderType": "rgdp",
       "$cpu": "cpudata/signage_building_02_rgdp",
@@ -10216,7 +10216,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/signage_building_02.rpak",
+      "_path": "material/world/decal/signage_building_02_wldc.rpak",
       "name": "world/decal/signage_building_02",
       "shaderType": "wldc",
       "$cpu": "cpudata/signage_building_02_wldc",
@@ -10251,7 +10251,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/slum_grime_decal_01_bt_vt.rpak",
+      "_path": "material/world/decal/slum_grime_decal_01_bt_vt_rgdp.rpak",
       "name": "world/decal/slum_grime_decal_01_bt_vt",
       "shaderType": "rgdp",
       "$cpu": "cpudata/slum_grime_decal_01_bt_vt_rgdp",
@@ -10288,7 +10288,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/slum_grime_decal_01_bt_vt.rpak",
+      "_path": "material/world/decal/slum_grime_decal_01_bt_vt_wldc.rpak",
       "name": "world/decal/slum_grime_decal_01_bt_vt",
       "shaderType": "wldc",
       "$cpu": "cpudata/slum_grime_decal_01_bt_vt_wldc",
@@ -10325,7 +10325,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/dev/dev_gray_512_v_color.rpak",
+      "_path": "material/world/dev/dev_gray_512_v_color_rgdc.rpak",
       "name": "world/dev/dev_gray_512_v_color",
       "shaderType": "rgdc",
       "$cpu": "cpudata/dev_gray_512_v_color_rgdc",
@@ -10360,7 +10360,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/dev/dev_gray_512_v_color.rpak",
+      "_path": "material/world/dev/dev_gray_512_v_color_rgdp.rpak",
       "name": "world/dev/dev_gray_512_v_color",
       "shaderType": "rgdp",
       "$cpu": "cpudata/dev_gray_512_v_color_rgdp",
@@ -10395,7 +10395,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/dev/dev_orange_512.rpak",
+      "_path": "material/world/dev/dev_orange_512_wldc.rpak",
       "name": "world/dev/dev_orange_512",
       "shaderType": "wldc",
       "$cpu": "cpudata/dev_orange_512_wldc",
@@ -10430,7 +10430,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/dirt/icelandic_dirt_01_wld_b2t.rpak",
+      "_path": "material/world/dirt/icelandic_dirt_01_wld_b2t_rgdc.rpak",
       "name": "world/dirt/icelandic_dirt_01_wld_b2t",
       "shaderType": "rgdc",
       "$cpu": "cpudata/icelandic_dirt_01_wld_b2t_rgdc",
@@ -10467,7 +10467,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/firstgen/firstgen_floor_128x128_linoleum_red.rpak",
+      "_path": "material/world/firstgen/firstgen_floor_128x128_linoleum_red_rgdp.rpak",
       "name": "world/firstgen/firstgen_floor_128x128_linoleum_red",
       "shaderType": "rgdp",
       "$cpu": "cpudata/firstgen_floor_128x128_linoleum_red_rgdp",
@@ -10502,7 +10502,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/floors/hospital_rubber_flooring_01.rpak",
+      "_path": "material/world/floors/hospital_rubber_flooring_01_rgdc.rpak",
       "name": "world/floors/hospital_rubber_flooring_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/hospital_rubber_flooring_01_rgdc",
@@ -10537,7 +10537,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/floors/hospital_rubber_flooring_01.rpak",
+      "_path": "material/world/floors/hospital_rubber_flooring_01_rgdp.rpak",
       "name": "world/floors/hospital_rubber_flooring_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/hospital_rubber_flooring_01_rgdp",
@@ -10572,7 +10572,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/floors/hospital_rubber_flooring_01.rpak",
+      "_path": "material/world/floors/hospital_rubber_flooring_01_wldc.rpak",
       "name": "world/floors/hospital_rubber_flooring_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/hospital_rubber_flooring_01_wldc",
@@ -10607,7 +10607,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/floors/imc_int_ground_panels_01.rpak",
+      "_path": "material/world/floors/imc_int_ground_panels_01_rgdc.rpak",
       "name": "world/floors/imc_int_ground_panels_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/imc_int_ground_panels_01_rgdc",
@@ -10642,7 +10642,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/floors/imc_int_ground_panels_01.rpak",
+      "_path": "material/world/floors/imc_int_ground_panels_01_rgdp.rpak",
       "name": "world/floors/imc_int_ground_panels_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/imc_int_ground_panels_01_rgdp",
@@ -10677,7 +10677,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/floors/imc_portable_interior_floor_01_var.rpak",
+      "_path": "material/world/floors/imc_portable_interior_floor_01_var_rgdp.rpak",
       "name": "world/floors/imc_portable_interior_floor_01_var",
       "shaderType": "rgdp",
       "$cpu": "cpudata/imc_portable_interior_floor_01_var_rgdp",
@@ -10713,7 +10713,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/floors/imc_portable_interior_floor_01_var.rpak",
+      "_path": "material/world/floors/imc_portable_interior_floor_01_var_wldc.rpak",
       "name": "world/floors/imc_portable_interior_floor_01_var",
       "shaderType": "wldc",
       "$cpu": "cpudata/imc_portable_interior_floor_01_var_wldc",
@@ -10749,7 +10749,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/floors/rubber_floor_2.rpak",
+      "_path": "material/world/floors/rubber_floor_2_rgdc.rpak",
       "name": "world/floors/rubber_floor_2",
       "shaderType": "rgdc",
       "$cpu": "cpudata/rubber_floor_2_rgdc",
@@ -10785,7 +10785,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/floors/rubber_floor_2.rpak",
+      "_path": "material/world/floors/rubber_floor_2_rgdp.rpak",
       "name": "world/floors/rubber_floor_2",
       "shaderType": "rgdp",
       "$cpu": "cpudata/rubber_floor_2_rgdp",
@@ -10821,7 +10821,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/glass/slumcity_glass_dirty/slumcity_glass_dirty_01_transparent.rpak",
+      "_path": "material/world/glass/slumcity_glass_dirty/slumcity_glass_dirty_01_transparent_rgdc.rpak",
       "name": "world/glass/slumcity_glass_dirty/slumcity_glass_dirty_01_transparent",
       "shaderType": "rgdc",
       "$cpu": "cpudata/slumcity_glass_dirty_01_transparent_rgdc",
@@ -10858,7 +10858,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/glass/train_station_glass_01.rpak",
+      "_path": "material/world/glass/train_station_glass_01_rgdp.rpak",
       "name": "world/glass/train_station_glass_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/train_station_glass_01_rgdp",
@@ -10894,7 +10894,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/homestead/parachute_end_seam_01.rpak",
+      "_path": "material/world/homestead/parachute_end_seam_01_rgdp.rpak",
       "name": "world/homestead/parachute_end_seam_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/parachute_end_seam_01_rgdp",
@@ -10930,7 +10930,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/imc_interior/imc_int_decals.rpak",
+      "_path": "material/world/imc_interior/imc_int_decals_rgdc.rpak",
       "name": "world/imc_interior/imc_int_decals",
       "shaderType": "rgdc",
       "$cpu": "cpudata/imc_int_decals_rgdc",
@@ -10965,7 +10965,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/imc_interior/imc_int_decals.rpak",
+      "_path": "material/world/imc_interior/imc_int_decals_rgdp.rpak",
       "name": "world/imc_interior/imc_int_decals",
       "shaderType": "rgdp",
       "$cpu": "cpudata/imc_int_decals_rgdp",
@@ -11000,7 +11000,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/imc_interior/imc_server_floor_em.rpak",
+      "_path": "material/world/imc_interior/imc_server_floor_em_rgdp.rpak",
       "name": "world/imc_interior/imc_server_floor_em",
       "shaderType": "rgdp",
       "$cpu": "cpudata/imc_server_floor_em_rgdp",
@@ -11037,7 +11037,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/lava_land/volcanic_dry_flow_01_ilum.rpak",
+      "_path": "material/world/lava_land/volcanic_dry_flow_01_ilum_rgdp.rpak",
       "name": "world/lava_land/volcanic_dry_flow_01_ilum",
       "shaderType": "rgdp",
       "$cpu": "cpudata/volcanic_dry_flow_01_ilum_rgdp",
@@ -11074,7 +11074,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/lava_land/volcanic_dry_flow_02.rpak",
+      "_path": "material/world/lava_land/volcanic_dry_flow_02_wldc.rpak",
       "name": "world/lava_land/volcanic_dry_flow_02",
       "shaderType": "wldc",
       "$cpu": "cpudata/volcanic_dry_flow_02_wldc",
@@ -11110,7 +11110,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/lava_land/volcanic_ground_04_wld_ground_02_wld_bm.rpak",
+      "_path": "material/world/lava_land/volcanic_ground_04_wld_ground_02_wld_bm_wldc.rpak",
       "name": "world/lava_land/volcanic_ground_04_wld_ground_02_wld_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/volcanic_ground_04_wld_ground_02_wld_bm_wldc",
@@ -11156,7 +11156,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/concrete/concrete_base_01_concrete_base_01_cracked_bm.rpak",
+      "_path": "material/world/concrete/concrete_base_01_concrete_base_01_cracked_bm_rgdp.rpak",
       "name": "world/concrete/concrete_base_01_concrete_base_01_cracked_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/concrete_base_01_concrete_base_01_cracked_bm_RGDP",
@@ -11198,7 +11198,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/mcor/mcor_floor_panel_02.rpak",
+      "_path": "material/world/mcor/mcor_floor_panel_02_rgdc.rpak",
       "name": "world/mcor/mcor_floor_panel_02",
       "shaderType": "rgdc",
       "$cpu": "cpudata/mcor_floor_panel_02_rgdc",
@@ -11234,7 +11234,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/mcor/mcor_floor_panel_02.rpak",
+      "_path": "material/world/mcor/mcor_floor_panel_02_rgdp.rpak",
       "name": "world/mcor/mcor_floor_panel_02",
       "shaderType": "rgdp",
       "$cpu": "cpudata/mcor_floor_panel_02_rgdp",
@@ -11270,7 +11270,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/mcor/mcor_floor_panel_02.rpak",
+      "_path": "material/world/mcor/mcor_floor_panel_02_wldc.rpak",
       "name": "world/mcor/mcor_floor_panel_02",
       "shaderType": "wldc",
       "$cpu": "cpudata/mcor_floor_panel_02_wldc",
@@ -11306,7 +11306,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01.rpak",
+      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_rgdp.rpak",
       "name": "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/mendoko_interior_trim_01_rgdp",
@@ -11342,7 +11342,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc.rpak",
+      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdc.rpak",
       "name": "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc",
       "shaderType": "rgdc",
       "$cpu": "cpudata/mendoko_interior_trim_01_vc_rgdc",
@@ -11378,7 +11378,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc.rpak",
+      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdp.rpak",
       "name": "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc",
       "shaderType": "rgdp",
       "$cpu": "cpudata/mendoko_interior_trim_01_vc_rgdp",
@@ -11414,7 +11414,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc.rpak",
+      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_wldc.rpak",
       "name": "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc",
       "shaderType": "wldc",
       "$cpu": "cpudata/mendoko_interior_trim_01_vc_wldc",
@@ -11450,7 +11450,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc.rpak",
+      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_sknp.rpak",
       "name": "world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc",
       "shaderType": "sknp",
       "$cpu": "cpudata/mendoko_interior_trim_01_vc_sknp",
@@ -11486,7 +11486,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/mendoko/white_floor_tile_mendoko.rpak",
+      "_path": "material/world/mendoko/white_floor_tile_mendoko_rgdc.rpak",
       "name": "world/mendoko/white_floor_tile_mendoko",
       "shaderType": "rgdc",
       "$cpu": "cpudata/white_floor_tile_mendoko_rgdc",
@@ -11522,7 +11522,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/mendoko/white_floor_tile_mendoko.rpak",
+      "_path": "material/world/mendoko/white_floor_tile_mendoko_wldc.rpak",
       "name": "world/mendoko/white_floor_tile_mendoko",
       "shaderType": "wldc",
       "$cpu": "cpudata/white_floor_tile_mendoko_wldc",
@@ -11558,7 +11558,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/bldg_wall_metal_imc_01.rpak",
+      "_path": "material/world/metal/bldg_wall_metal_imc_01_rgdp.rpak",
       "name": "world/metal/bldg_wall_metal_imc_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/bldg_wall_metal_imc_01_rgdp",
@@ -11593,7 +11593,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/bldg_wall_metal_imc_01.rpak",
+      "_path": "material/world/metal/bldg_wall_metal_imc_01_wldc.rpak",
       "name": "world/metal/bldg_wall_metal_imc_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/bldg_wall_metal_imc_01_wldc",
@@ -11628,7 +11628,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/carrier_metal_trim_03.rpak",
+      "_path": "material/world/metal/carrier_metal_trim_03_sknp.rpak",
       "name": "world/metal/carrier_metal_trim_03",
       "shaderType": "sknp",
       "$cpu": "cpudata/carrier_metal_trim_03_sknp",
@@ -11663,7 +11663,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/carrier_metal_trim_03.rpak",
+      "_path": "material/world/metal/carrier_metal_trim_03_rgdc.rpak",
       "name": "world/metal/carrier_metal_trim_03",
       "shaderType": "rgdc",
       "$cpu": "cpudata/carrier_metal_trim_03_rgdc",
@@ -11698,7 +11698,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/carrier_metal_trim_03.rpak",
+      "_path": "material/world/metal/carrier_metal_trim_03_wldc.rpak",
       "name": "world/metal/carrier_metal_trim_03",
       "shaderType": "wldc",
       "$cpu": "cpudata/carrier_metal_trim_03_wldc",
@@ -11733,7 +11733,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_cargo_container_blue_01.rpak",
+      "_path": "material/world/metal/metal_cargo_container_blue_01_rgdc.rpak",
       "name": "world/metal/metal_cargo_container_blue_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/metal_cargo_container_blue_01_rgdc",
@@ -11767,7 +11767,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_cargo_container_blue_01.rpak",
+      "_path": "material/world/metal/metal_cargo_container_blue_01_rgdp.rpak",
       "name": "world/metal/metal_cargo_container_blue_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metal_cargo_container_blue_01_rgdp",
@@ -11801,7 +11801,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_cargo_container_blue_01.rpak",
+      "_path": "material/world/metal/metal_cargo_container_blue_01_wldc.rpak",
       "name": "world/metal/metal_cargo_container_blue_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/metal_cargo_container_blue_01_wldc",
@@ -11835,7 +11835,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_corrugated_wall_grey_01.rpak",
+      "_path": "material/world/metal/metal_corrugated_wall_grey_01_rgdc.rpak",
       "name": "world/metal/metal_corrugated_wall_grey_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/metal_corrugated_wall_grey_01_rgdc",
@@ -11869,7 +11869,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_corrugated_wall_grey_01.rpak",
+      "_path": "material/world/metal/metal_corrugated_wall_grey_01_rgdp.rpak",
       "name": "world/metal/metal_corrugated_wall_grey_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metal_corrugated_wall_grey_01_rgdp",
@@ -11903,7 +11903,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_corrugated_wall_grey_01.rpak",
+      "_path": "material/world/metal/metal_corrugated_wall_grey_01_wldc.rpak",
       "name": "world/metal/metal_corrugated_wall_grey_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/metal_corrugated_wall_grey_01_wldc",
@@ -11937,7 +11937,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_corrugated_wall_white_01.rpak",
+      "_path": "material/world/metal/metal_corrugated_wall_white_01_rgdp.rpak",
       "name": "world/metal/metal_corrugated_wall_white_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metal_corrugated_wall_white_01_rgdp",
@@ -11971,7 +11971,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_painted_blue_03_dirty_bm.rpak",
+      "_path": "material/world/metal/metal_painted_blue_03_dirty_bm_rgdc.rpak",
       "name": "world/metal/metal_painted_blue_03_dirty_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/metal_painted_blue_03_dirty_bm_rgdc",
@@ -12011,7 +12011,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_painted_blue_03_dirty_bm.rpak",
+      "_path": "material/world/metal/metal_painted_blue_03_dirty_bm_rgdp.rpak",
       "name": "world/metal/metal_painted_blue_03_dirty_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metal_painted_blue_03_dirty_bm_rgdp",
@@ -12051,7 +12051,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_painted_yellow_02_dirty_bm.rpak",
+      "_path": "material/world/metal/metal_painted_yellow_02_dirty_bm_rgdc.rpak",
       "name": "world/metal/metal_painted_yellow_02_dirty_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/metal_painted_yellow_02_dirty_bm_rgdc",
@@ -12089,7 +12089,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_painted_yellow_02_dirty_bm.rpak",
+      "_path": "material/world/metal/metal_painted_yellow_02_dirty_bm_rgdp.rpak",
       "name": "world/metal/metal_painted_yellow_02_dirty_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metal_painted_yellow_02_dirty_bm_rgdp",
@@ -12127,7 +12127,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/test/pt_test/pt_gray_test_01.rpak",
+      "_path": "material/models/test/pt_test/pt_gray_test_01_sknp.rpak",
       "name": "models/test/pt_test/pt_gray_test_01",
       "shaderType": "sknp",
       "$cpu": "cpudata/pt_gray_test_01_sknp",
@@ -12162,7 +12162,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_metal_trims_02_vc.rpak",
+      "_path": "material/world/s2s/s2s_metal_trims_02_vc_rgdc.rpak",
       "name": "world/s2s/s2s_metal_trims_02_vc",
       "shaderType": "rgdc",
       "$cpu": "cpudata/s2s_metal_trims_02_vc_rgdc",
@@ -12198,7 +12198,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_grate_stretched01.rpak",
+      "_path": "material/world/metal/metal_grate_stretched01_rgdc.rpak",
       "name": "world/metal/metal_grate_stretched01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/metal_grate_stretched01_RGDC",
@@ -12234,7 +12234,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/s2s_metal_trims_02_vc_dirty_bm.rpak",
+      "_path": "material/world/metal/s2s_metal_trims_02_vc_dirty_bm_sknp.rpak",
       "name": "world/metal/s2s_metal_trims_02_vc_dirty_bm",
       "shaderType": "sknp",
       "$cpu": "cpudata/s2s_metal_trims_02_vc_dirty_bm_sknp",
@@ -12275,7 +12275,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_painted_yellow_02_dirty_bm.rpak",
+      "_path": "material/world/metal/metal_painted_yellow_02_dirty_bm_wldc.rpak",
       "name": "world/metal/metal_painted_yellow_02_dirty_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/metal_painted_yellow_02_dirty_bm_wldc",
@@ -12313,7 +12313,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_worn_tileable_01.rpak",
+      "_path": "material/world/metal/metal_worn_tileable_01_rgdp.rpak",
       "name": "world/metal/metal_worn_tileable_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/metal_worn_tileable_01_rgdp",
@@ -12349,7 +12349,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/thunderdome/thunderdome_metal_paneling_02.rpak",
+      "_path": "material/world/thunderdome/thunderdome_metal_paneling_02_rgdp.rpak",
       "name": "world/thunderdome/thunderdome_metal_paneling_02",
       "shaderType": "rgdp",
       "$cpu": "cpudata/thunderdome_metal_paneling_02_rgdp",
@@ -12385,7 +12385,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/thunderdome/thunderdome_metal_trim_02.rpak",
+      "_path": "material/world/thunderdome/thunderdome_metal_trim_02_rgdp.rpak",
       "name": "world/thunderdome/thunderdome_metal_trim_02",
       "shaderType": "rgdp",
       "$cpu": "cpudata/thunderdome_metal_trim_02_rgdp",
@@ -12421,7 +12421,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/painted_metal_tank_welded_01_dirty_vert_color.rpak",
+      "_path": "material/world/metal/painted_metal_tank_welded_01_dirty_vert_color_rgdc.rpak",
       "name": "world/metal/painted_metal_tank_welded_01_dirty_vert_color",
       "shaderType": "rgdc",
       "$cpu": "cpudata/painted_metal_tank_welded_01_dirty_vert_color_rgdc",
@@ -12457,7 +12457,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/painted_metal_tank_welded_01_dirty_vert_color.rpak",
+      "_path": "material/world/metal/painted_metal_tank_welded_01_dirty_vert_color_wldc.rpak",
       "name": "world/metal/painted_metal_tank_welded_01_dirty_vert_color",
       "shaderType": "wldc",
       "$cpu": "cpudata/painted_metal_tank_welded_01_dirty_vert_color_wldc",
@@ -12493,7 +12493,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/painted_metal_tank_welded_01_vert_color.rpak",
+      "_path": "material/world/metal/painted_metal_tank_welded_01_vert_color_sknp.rpak",
       "name": "world/metal/painted_metal_tank_welded_01_vert_color",
       "shaderType": "sknp",
       "$cpu": "cpudata/painted_metal_tank_welded_01_vert_color_sknp",
@@ -12529,7 +12529,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/painted_metal_tank_welded_01_vert_color.rpak",
+      "_path": "material/world/metal/painted_metal_tank_welded_01_vert_color_rgdc.rpak",
       "name": "world/metal/painted_metal_tank_welded_01_vert_color",
       "shaderType": "rgdc",
       "$cpu": "cpudata/painted_metal_tank_welded_01_vert_color_rgdc",
@@ -12565,7 +12565,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/painted_metal_tank_welded_01_vert_color.rpak",
+      "_path": "material/world/metal/painted_metal_tank_welded_01_vert_color_rgdp.rpak",
       "name": "world/metal/painted_metal_tank_welded_01_vert_color",
       "shaderType": "rgdp",
       "$cpu": "cpudata/painted_metal_tank_welded_01_vert_color_rgdp",
@@ -12601,7 +12601,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/painted_metal_tank_welded_01_vert_color.rpak",
+      "_path": "material/world/metal/painted_metal_tank_welded_01_vert_color_wldc.rpak",
       "name": "world/metal/painted_metal_tank_welded_01_vert_color",
       "shaderType": "wldc",
       "$cpu": "cpudata/painted_metal_tank_welded_01_vert_color_wldc",
@@ -12637,7 +12637,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/playback_metal_frames.rpak",
+      "_path": "material/world/metal/playback_metal_frames_rgdc.rpak",
       "name": "world/metal/playback_metal_frames",
       "shaderType": "rgdc",
       "$cpu": "cpudata/playback_metal_frames_rgdc",
@@ -12672,7 +12672,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/playback_metal_frames.rpak",
+      "_path": "material/world/metal/playback_metal_frames_wldc.rpak",
       "name": "world/metal/playback_metal_frames",
       "shaderType": "wldc",
       "$cpu": "cpudata/playback_metal_frames_wldc",
@@ -12707,7 +12707,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/rebar.rpak",
+      "_path": "material/world/metal/rebar_rgdp.rpak",
       "name": "world/metal/rebar",
       "shaderType": "rgdp",
       "$cpu": "cpudata/rebar_rgdp",
@@ -12742,7 +12742,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/research_station/research_station_painted_metal_01.rpak",
+      "_path": "material/world/metal/research_station/research_station_painted_metal_01_rgdc.rpak",
       "name": "world/metal/research_station/research_station_painted_metal_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/research_station_painted_metal_01_rgdc",
@@ -12776,7 +12776,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/research_station/research_station_painted_metal_01.rpak",
+      "_path": "material/world/metal/research_station/research_station_painted_metal_01_rgdp.rpak",
       "name": "world/metal/research_station/research_station_painted_metal_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/research_station_painted_metal_01_rgdp",
@@ -12810,7 +12810,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/research_station/research_station_painted_metal_01.rpak",
+      "_path": "material/world/metal/research_station/research_station_painted_metal_01_wldc.rpak",
       "name": "world/metal/research_station/research_station_painted_metal_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/research_station_painted_metal_01_wldc",
@@ -12844,7 +12844,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/research_station/research_station_painted_metal_01_vc.rpak",
+      "_path": "material/world/metal/research_station/research_station_painted_metal_01_vc_rgdp.rpak",
       "name": "world/metal/research_station/research_station_painted_metal_01_vc",
       "shaderType": "rgdp",
       "$cpu": "cpudata/research_station_painted_metal_01_vc_rgdp",
@@ -12878,7 +12878,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/research_station/research_station_painted_metal_01_vc.rpak",
+      "_path": "material/world/metal/research_station/research_station_painted_metal_01_vc_rgdc.rpak",
       "name": "world/metal/research_station/research_station_painted_metal_01_vc",
       "shaderType": "rgdc",
       "$cpu": "cpudata/research_station_painted_metal_01_vc_rgdc",
@@ -12912,7 +12912,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/research_station/research_station_painted_metal_01_vc.rpak",
+      "_path": "material/world/metal/research_station/research_station_painted_metal_01_vc_wldc.rpak",
       "name": "world/metal/research_station/research_station_painted_metal_01_vc",
       "shaderType": "wldc",
       "$cpu": "cpudata/research_station_painted_metal_01_vc_wldc",
@@ -12946,7 +12946,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/utility/light_strip_off.rpak",
+      "_path": "material/world/utility/light_strip_off_sknp.rpak",
       "name": "world/utility/light_strip_off",
       "shaderType": "sknp",
       "$cpu": "cpudata/light_strip_off_sknp",
@@ -12979,7 +12979,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/thunderdome/thunderdome_prowler_hatch_01_light_on.rpak",
+      "_path": "material/models/thunderdome/thunderdome_prowler_hatch_01_light_on_sknp.rpak",
       "name": "models/thunderdome/thunderdome_prowler_hatch_01_light_on",
       "shaderType": "sknp",
       "$cpu": "cpudata/thunderdome_prowler_hatch_01_light_on_sknp",
@@ -13012,7 +13012,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/thunderdome/thunderdome_prowler_hatch_01.rpak",
+      "_path": "material/models/thunderdome/thunderdome_prowler_hatch_01_sknp.rpak",
       "name": "models/thunderdome/thunderdome_prowler_hatch_01",
       "shaderType": "sknp",
       "$cpu": "cpudata/thunderdome_prowler_hatch_01_sknp",
@@ -13048,7 +13048,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/stasis/stasis_trim_02/stasis_trim_02.rpak",
+      "_path": "material/world/stasis/stasis_trim_02/stasis_trim_02_sknp.rpak",
       "name": "world/stasis/stasis_trim_02/stasis_trim_02",
       "shaderType": "sknp",
       "$cpu": "cpudata/stasis_trim_02_sknp",
@@ -13084,7 +13084,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/floors/plastic_panels_large.rpak",
+      "_path": "material/world/floors/plastic_panels_large_rgdc.rpak",
       "name": "world/floors/plastic_panels_large",
       "shaderType": "rgdc",
       "$cpu": "cpudata/plastic_panels_large_RGDC",
@@ -13120,7 +13120,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/stasis/stasis_trim_02/stasis_trim_02.rpak",
+      "_path": "material/world/stasis/stasis_trim_02/stasis_trim_02_rgdc.rpak",
       "name": "world/stasis/stasis_trim_02/stasis_trim_02",
       "shaderType": "rgdc",
       "$cpu": "cpudata/stasis_trim_02_rgdc",
@@ -13156,7 +13156,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/glass/glass_scratched_01/glitch_glass_scratched_01.rpak",
+      "_path": "material/world/glass/glass_scratched_01/glitch_glass_scratched_01_sknp.rpak",
       "name": "world/glass/glass_scratched_01/glitch_glass_scratched_01",
       "shaderType": "sknp",
       "$cpu": "cpudata/glitch_glass_scratched_01_sknp",
@@ -13191,7 +13191,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/research_station/research_station_trim_01.rpak",
+      "_path": "material/world/metal/research_station/research_station_trim_01_sknp.rpak",
       "name": "world/metal/research_station/research_station_trim_01",
       "shaderType": "sknp",
       "$cpu": "cpudata/research_station_trim_01_sknp",
@@ -13228,7 +13228,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/research_station/research_station_trim_01.rpak",
+      "_path": "material/world/metal/research_station/research_station_trim_01_rgdc.rpak",
       "name": "world/metal/research_station/research_station_trim_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/research_station_trim_01_rgdc",
@@ -13265,7 +13265,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/research_station/research_station_trim_01.rpak",
+      "_path": "material/world/metal/research_station/research_station_trim_01_rgdp.rpak",
       "name": "world/metal/research_station/research_station_trim_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/research_station_trim_01_rgdp",
@@ -13302,7 +13302,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/research_station/research_station_trim_01.rpak",
+      "_path": "material/world/metal/research_station/research_station_trim_01_wldc.rpak",
       "name": "world/metal/research_station/research_station_trim_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/research_station_trim_01_wldc",
@@ -13339,7 +13339,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/research_station/research_station_trim_02.rpak",
+      "_path": "material/world/metal/research_station/research_station_trim_02_rgdc.rpak",
       "name": "world/metal/research_station/research_station_trim_02",
       "shaderType": "rgdc",
       "$cpu": "cpudata/research_station_trim_02_rgdc",
@@ -13375,7 +13375,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/research_station/research_station_trim_02.rpak",
+      "_path": "material/world/metal/research_station/research_station_trim_02_wldc.rpak",
       "name": "world/metal/research_station/research_station_trim_02",
       "shaderType": "wldc",
       "$cpu": "cpudata/research_station_trim_02_wldc",
@@ -13411,7 +13411,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/s2s_metal_trims_02_vc_dirty_bm.rpak",
+      "_path": "material/world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdc.rpak",
       "name": "world/metal/s2s_metal_trims_02_vc_dirty_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/s2s_metal_trims_02_vc_dirty_bm_rgdc",
@@ -13452,7 +13452,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/s2s_metal_trims_02_vc_dirty_bm.rpak",
+      "_path": "material/world/metal/s2s_metal_trims_02_vc_dirty_bm_rgdp.rpak",
       "name": "world/metal/s2s_metal_trims_02_vc_dirty_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/s2s_metal_trims_02_vc_dirty_bm_rgdp",
@@ -13493,7 +13493,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/s2s_metal_trims_02_vc_dirty_bm.rpak",
+      "_path": "material/world/metal/s2s_metal_trims_02_vc_dirty_bm_wldc.rpak",
       "name": "world/metal/s2s_metal_trims_02_vc_dirty_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/s2s_metal_trims_02_vc_dirty_bm_wldc",
@@ -13534,7 +13534,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_wall_trim_04.rpak",
+      "_path": "material/world/s2s/s2s_wall_trim_04_rgdc.rpak",
       "name": "world/s2s/s2s_wall_trim_04",
       "shaderType": "rgdc",
       "$cpu": "cpudata/s2s_wall_trim_04_rgdc",
@@ -13570,7 +13570,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/s2s_wall_trim_01_vc_dirty_bm.rpak",
+      "_path": "material/world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdc.rpak",
       "name": "world/metal/s2s_wall_trim_01_vc_dirty_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/s2s_wall_trim_01_vc_dirty_bm_rgdc",
@@ -13611,7 +13611,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/s2s_wall_trim_01_vc_dirty_bm.rpak",
+      "_path": "material/world/metal/s2s_wall_trim_01_vc_dirty_bm_rgdp.rpak",
       "name": "world/metal/s2s_wall_trim_01_vc_dirty_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/s2s_wall_trim_01_vc_dirty_bm_rgdp",
@@ -13652,7 +13652,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/s2s_wall_trim_01_vc_dirty_bm.rpak",
+      "_path": "material/world/metal/s2s_wall_trim_01_vc_dirty_bm_wldc.rpak",
       "name": "world/metal/s2s_wall_trim_01_vc_dirty_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/s2s_wall_trim_01_vc_dirty_bm_wldc",
@@ -13693,7 +13693,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/s2s_wall_trim_01_vc_dirty_bm.rpak",
+      "_path": "material/world/metal/s2s_wall_trim_01_vc_dirty_bm_sknp.rpak",
       "name": "world/metal/s2s_wall_trim_01_vc_dirty_bm",
       "shaderType": "sknp",
       "$cpu": "cpudata/s2s_wall_trim_01_vc_dirty_bm_sknp",
@@ -13734,7 +13734,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/slum_trim_girdering_01.rpak",
+      "_path": "material/world/metal/slum_trim_girdering_01_sknp.rpak",
       "name": "world/metal/slum_trim_girdering_01",
       "shaderType": "sknp",
       "$cpu": "cpudata/slum_trim_girdering_01_sknp",
@@ -13770,7 +13770,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/slum_trim_girdering_01.rpak",
+      "_path": "material/world/metal/slum_trim_girdering_01_rgdc.rpak",
       "name": "world/metal/slum_trim_girdering_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/slum_trim_girdering_01_rgdc",
@@ -13806,7 +13806,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/stamped_metal_large_painted_03_vc_dirty_bm.rpak",
+      "_path": "material/world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdc.rpak",
       "name": "world/metal/stamped_metal_large_painted_03_vc_dirty_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/stamped_metal_large_painted_03_vc_dirty_bm_rgdc",
@@ -13847,7 +13847,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/stamped_metal_large_painted_03_vc_dirty_bm.rpak",
+      "_path": "material/world/metal/stamped_metal_large_painted_03_vc_dirty_bm_rgdp.rpak",
       "name": "world/metal/stamped_metal_large_painted_03_vc_dirty_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/stamped_metal_large_painted_03_vc_dirty_bm_rgdp",
@@ -13888,7 +13888,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/stamped_metal_large_painted_03_vc_dirty_bm.rpak",
+      "_path": "material/world/metal/stamped_metal_large_painted_03_vc_dirty_bm_wldc.rpak",
       "name": "world/metal/stamped_metal_large_painted_03_vc_dirty_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/stamped_metal_large_painted_03_vc_dirty_bm_wldc",
@@ -13929,7 +13929,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/trim_metal_01_blue.rpak",
+      "_path": "material/world/metal/trim_metal_01_blue_rgdp.rpak",
       "name": "world/metal/trim_metal_01_blue",
       "shaderType": "rgdp",
       "$cpu": "cpudata/trim_metal_01_blue_rgdp",
@@ -13964,7 +13964,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/trim_metal_01_yellow.rpak",
+      "_path": "material/world/metal/trim_metal_01_yellow_rgdp.rpak",
       "name": "world/metal/trim_metal_01_yellow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/trim_metal_01_yellow_rgdp",
@@ -13999,7 +13999,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/moss/icelandic_moss_01_wld.rpak",
+      "_path": "material/world/moss/icelandic_moss_01_wld_wldc.rpak",
       "name": "world/moss/icelandic_moss_01_wld",
       "shaderType": "wldc",
       "$cpu": "cpudata/icelandic_moss_01_wld_wldc",
@@ -14037,7 +14037,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/moss/icelandic_moss_yellow_01_to_moss_green_01_wld_bm.rpak",
+      "_path": "material/world/moss/icelandic_moss_yellow_01_to_moss_green_01_wld_bm_wldc.rpak",
       "name": "world/moss/icelandic_moss_yellow_01_to_moss_green_01_wld_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/icelandic_moss_yellow_01_to_moss_green_01_wld_bm_wldc",
@@ -14083,7 +14083,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/moss/icelandic_moss_yellow_01_wld_volcanic_ground_03_wld_bm_skybox.rpak",
+      "_path": "material/world/moss/icelandic_moss_yellow_01_wld_volcanic_ground_03_wld_bm_skybox_rgdp.rpak",
       "name": "world/moss/icelandic_moss_yellow_01_wld_volcanic_ground_03_wld_bm_skybox",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_moss_yellow_01_wld_volcanic_ground_03_wld_bm_skybox_rgdp",
@@ -14129,7 +14129,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/concrete_01_wet_bm.rpak",
+      "_path": "material/world/ola/concrete_01_wet_bm_rgdc.rpak",
       "name": "world/ola/concrete_01_wet_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/concrete_01_wet_bm_rgdc",
@@ -14169,7 +14169,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/concrete_01_wet_bm.rpak",
+      "_path": "material/world/ola/concrete_01_wet_bm_rgdp.rpak",
       "name": "world/ola/concrete_01_wet_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/concrete_01_wet_bm_rgdp",
@@ -14209,7 +14209,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/concrete_02_wet_bm.rpak",
+      "_path": "material/world/ola/concrete_02_wet_bm_rgdc.rpak",
       "name": "world/ola/concrete_02_wet_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/concrete_02_wet_bm_rgdc",
@@ -14249,7 +14249,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/concrete_02_wet_bm.rpak",
+      "_path": "material/world/ola/concrete_02_wet_bm_rgdp.rpak",
       "name": "world/ola/concrete_02_wet_bm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/concrete_02_wet_bm_rgdp",
@@ -14289,7 +14289,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01.rpak",
+      "_path": "material/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_wldc.rpak",
       "name": "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/mendoko_pipes_01_RGDP",
@@ -14325,7 +14325,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/dev/dev_red_512.rpak",
+      "_path": "material/world/dev/dev_red_512_wldc.rpak",
       "name": "world/dev/dev_red_512",
       "shaderType": "wldc",
       "$cpu": "cpudata/dev_red_512_WLDC",
@@ -14360,7 +14360,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01.rpak",
+      "_path": "material/models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01_rgdp.rpak",
       "name": "models/mendoko/interior/mendoko_pipes_01/mendoko_pipes_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/mendoko_pipes_01_RGDP",
@@ -14396,7 +14396,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/ola_sewer_grate_01_lighter.rpak",
+      "_path": "material/world/ola/ola_sewer_grate_01_lighter_rgdp.rpak",
       "name": "world/ola/ola_sewer_grate_01_lighter",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ola_sewer_grate_01_lighter_rgdp",
@@ -14437,7 +14437,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/ola/ola_sewer_grate_01_lighter_prepass.rpak",
+      "_path": "material/depth/world/ola/ola_sewer_grate_01_lighter_prepass_rgdp.rpak",
       "name": "depth/world/ola/ola_sewer_grate_01_lighter_prepass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ola_sewer_grate_01_lighter_rgdp",
@@ -14473,7 +14473,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/ola/ola_sewer_grate_01_lighter_shadow.rpak",
+      "_path": "material/depth/world/ola/ola_sewer_grate_01_lighter_shadow_rgdp.rpak",
       "name": "depth/world/ola/ola_sewer_grate_01_lighter_shadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ola_sewer_grate_01_lighter_rgdp",
@@ -14509,7 +14509,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/ola/ola_sewer_grate_01_lighter_tightshadow.rpak",
+      "_path": "material/depth/world/ola/ola_sewer_grate_01_lighter_tightshadow_rgdp.rpak",
       "name": "depth/world/ola/ola_sewer_grate_01_lighter_tightshadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ola_sewer_grate_01_lighter_rgdp",
@@ -14545,7 +14545,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/ola/ola_sewer_grate_01_lighter_vsm.rpak",
+      "_path": "material/depth/world/ola/ola_sewer_grate_01_lighter_vsm_rgdp.rpak",
       "name": "depth/world/ola/ola_sewer_grate_01_lighter_vsm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ola_sewer_grate_01_lighter_rgdp",
@@ -14581,7 +14581,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/ola_sewer_grate_01_lighter_colpass.rpak",
+      "_path": "material/world/ola/ola_sewer_grate_01_lighter_colpass_rgdp.rpak",
       "name": "world/ola/ola_sewer_grate_01_lighter_colpass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ola_sewer_grate_01_lighter_rgdp",
@@ -14617,7 +14617,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/ola_sewer_grate_01_lighter.rpak",
+      "_path": "material/world/ola/ola_sewer_grate_01_lighter_wldc.rpak",
       "name": "world/ola/ola_sewer_grate_01_lighter",
       "shaderType": "wldc",
       "$cpu": "cpudata/ola_sewer_grate_01_lighter_wldc",
@@ -14653,7 +14653,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/foliage/icelandic_grass_01.rpak",
+      "_path": "material/models/foliage/icelandic_grass_01_rgdp.rpak",
       "name": "models/foliage/icelandic_grass_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_rgdp",
@@ -14697,7 +14697,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_prepass.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_prepass_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_prepass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_rgdp",
@@ -14736,7 +14736,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_shadow.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_shadow_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_shadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_rgdp",
@@ -14775,7 +14775,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_tightshadow.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_tightshadow_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_tightshadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_rgdp",
@@ -14814,7 +14814,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_vsm.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_vsm_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_vsm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_rgdp",
@@ -14853,7 +14853,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/foliage/icelandic_grass_01_colpass.rpak",
+      "_path": "material/models/foliage/icelandic_grass_01_colpass_rgdp.rpak",
       "name": "models/foliage/icelandic_grass_01_colpass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_rgdp",
@@ -14892,7 +14892,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/foliage/icelandic_grass_01_brown.rpak",
+      "_path": "material/models/foliage/icelandic_grass_01_brown_rgdp.rpak",
       "name": "models/foliage/icelandic_grass_01_brown",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_brown_rgdp",
@@ -14936,7 +14936,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_prepass.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_prepass_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_brown_prepass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_brown_rgdp",
@@ -14975,7 +14975,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_shadow.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_shadow_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_brown_shadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_brown_rgdp",
@@ -15014,7 +15014,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_tightshadow.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_tightshadow_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_brown_tightshadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_brown_rgdp",
@@ -15053,7 +15053,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_vsm.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_vsm_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_brown_vsm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_brown_rgdp",
@@ -15092,7 +15092,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/foliage/icelandic_grass_01_brown_colpass.rpak",
+      "_path": "material/models/foliage/icelandic_grass_01_brown_colpass_rgdp.rpak",
       "name": "models/foliage/icelandic_grass_01_brown_colpass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_brown_rgdp",
@@ -15131,7 +15131,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/foliage/icelandic_grass_01_brown_tint.rpak",
+      "_path": "material/models/foliage/icelandic_grass_01_brown_tint_rgdp.rpak",
       "name": "models/foliage/icelandic_grass_01_brown_tint",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_brown_tint_rgdp",
@@ -15175,7 +15175,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_tint_prepass.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_tint_prepass_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_brown_tint_prepass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_brown_tint_rgdp",
@@ -15214,7 +15214,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_tint_shadow.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_tint_shadow_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_brown_tint_shadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_brown_tint_rgdp",
@@ -15253,7 +15253,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_tint_tightshadow.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_tint_tightshadow_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_brown_tint_tightshadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_brown_tint_rgdp",
@@ -15292,7 +15292,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_tint_vsm.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_brown_tint_vsm_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_brown_tint_vsm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_brown_tint_rgdp",
@@ -15331,7 +15331,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/foliage/icelandic_grass_01_brown_tint_colpass.rpak",
+      "_path": "material/models/foliage/icelandic_grass_01_brown_tint_colpass_rgdp.rpak",
       "name": "models/foliage/icelandic_grass_01_brown_tint_colpass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_brown_tint_rgdp",
@@ -15370,7 +15370,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/foliage/icelandic_grass_01_fall.rpak",
+      "_path": "material/models/foliage/icelandic_grass_01_fall_rgdp.rpak",
       "name": "models/foliage/icelandic_grass_01_fall",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_fall_rgdp",
@@ -15414,7 +15414,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_fall_prepass.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_fall_prepass_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_fall_prepass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_fall_rgdp",
@@ -15453,7 +15453,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_fall_shadow.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_fall_shadow_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_fall_shadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_fall_rgdp",
@@ -15492,7 +15492,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_fall_tightshadow.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_fall_tightshadow_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_fall_tightshadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_fall_rgdp",
@@ -15531,7 +15531,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/foliage/icelandic_grass_01_fall_vsm.rpak",
+      "_path": "material/depth/models/foliage/icelandic_grass_01_fall_vsm_rgdp.rpak",
       "name": "depth/models/foliage/icelandic_grass_01_fall_vsm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_fall_rgdp",
@@ -15570,7 +15570,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/foliage/icelandic_grass_01_fall_colpass.rpak",
+      "_path": "material/models/foliage/icelandic_grass_01_fall_colpass_rgdp.rpak",
       "name": "models/foliage/icelandic_grass_01_fall_colpass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/icelandic_grass_01_fall_rgdp",
@@ -15609,7 +15609,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/ola_sewer_grate_01.rpak",
+      "_path": "material/world/ola/ola_sewer_grate_01_rgdp.rpak",
       "name": "world/ola/ola_sewer_grate_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ola_sewer_grate_01_rgdp",
@@ -15650,7 +15650,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/ola/ola_sewer_grate_01_prepass.rpak",
+      "_path": "material/depth/world/ola/ola_sewer_grate_01_prepass_rgdp.rpak",
       "name": "depth/world/ola/ola_sewer_grate_01_prepass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ola_sewer_grate_01_rgdp",
@@ -15686,7 +15686,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/ola/ola_sewer_grate_01_shadow.rpak",
+      "_path": "material/depth/world/ola/ola_sewer_grate_01_shadow_rgdp.rpak",
       "name": "depth/world/ola/ola_sewer_grate_01_shadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ola_sewer_grate_01_rgdp",
@@ -15722,7 +15722,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/ola/ola_sewer_grate_01_tightshadow.rpak",
+      "_path": "material/depth/world/ola/ola_sewer_grate_01_tightshadow_rgdp.rpak",
       "name": "depth/world/ola/ola_sewer_grate_01_tightshadow",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ola_sewer_grate_01_rgdp",
@@ -15758,7 +15758,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/ola/ola_sewer_grate_01_vsm.rpak",
+      "_path": "material/depth/world/ola/ola_sewer_grate_01_vsm_rgdp.rpak",
       "name": "depth/world/ola/ola_sewer_grate_01_vsm",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ola_sewer_grate_01_rgdp",
@@ -15794,7 +15794,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/ola_sewer_grate_01_colpass.rpak",
+      "_path": "material/world/ola/ola_sewer_grate_01_colpass_rgdp.rpak",
       "name": "world/ola/ola_sewer_grate_01_colpass",
       "shaderType": "rgdp",
       "$cpu": "cpudata/ola_sewer_grate_01_rgdp",
@@ -15830,7 +15830,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/industrial/gun_rack_arm_new_off.rpak",
+      "_path": "material/models/industrial/gun_rack_arm_new_off_rgdp.rpak",
       "name": "models/industrial/gun_rack_arm_new_off",
       "shaderType": "rgdp",
       "$cpu": "cpudata/gun_rack_arm_new_off_RGDP",
@@ -15865,7 +15865,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/sewer_padded_ceiling_panels.rpak",
+      "_path": "material/world/ola/sewer_padded_ceiling_panels_rgdc.rpak",
       "name": "world/ola/sewer_padded_ceiling_panels",
       "shaderType": "rgdc",
       "$cpu": "cpudata/sewer_padded_ceiling_panels_rgdc",
@@ -15901,7 +15901,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/sewer_padded_ceiling_panels.rpak",
+      "_path": "material/world/ola/sewer_padded_ceiling_panels_wldc.rpak",
       "name": "world/ola/sewer_padded_ceiling_panels",
       "shaderType": "wldc",
       "$cpu": "cpudata/sewer_padded_ceiling_panels_wldc",
@@ -15937,7 +15937,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/ola/sewers_wall_01_orange_wet_bm.rpak",
+      "_path": "material/world/ola/sewers_wall_01_orange_wet_bm_rgdc.rpak",
       "name": "world/ola/sewers_wall_01_orange_wet_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/sewers_wall_01_orange_wet_bm_rgdc",
@@ -15978,7 +15978,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/rubble/rubble_standard02_wld_b2t_wld_01.rpak",
+      "_path": "material/world/rubble/rubble_standard02_wld_b2t_wld_01_rgdc.rpak",
       "name": "world/rubble/rubble_standard02_wld_b2t_wld_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/rubble_standard02_wld_b2t_wld_01_rgdc",
@@ -16015,7 +16015,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/rubble/rubble_standard02_wld_b2t_wld_01.rpak",
+      "_path": "material/world/rubble/rubble_standard02_wld_b2t_wld_01_wldc.rpak",
       "name": "world/rubble/rubble_standard02_wld_b2t_wld_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/rubble_standard02_wld_b2t_wld_01_wldc",
@@ -16052,7 +16052,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/rubble/rubble_standard02_wld_dirt_dusty_01_wld_bm.rpak",
+      "_path": "material/world/rubble/rubble_standard02_wld_dirt_dusty_01_wld_bm_wldc.rpak",
       "name": "world/rubble/rubble_standard02_wld_dirt_dusty_01_wld_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/rubble_standard02_wld_dirt_dusty_01_wld_bm_wldc",
@@ -16093,7 +16093,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/rubble/rubble_standard02_wld_icelandic_dirt_02_wld_bm.rpak",
+      "_path": "material/world/rubble/rubble_standard02_wld_icelandic_dirt_02_wld_bm_rgdc.rpak",
       "name": "world/rubble/rubble_standard02_wld_icelandic_dirt_02_wld_bm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/rubble_standard02_wld_icelandic_dirt_02_wld_bm_rgdc",
@@ -16137,7 +16137,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/rubble/rubble_standard02_wld_icelandic_dirt_02_wld_bm.rpak",
+      "_path": "material/world/rubble/rubble_standard02_wld_icelandic_dirt_02_wld_bm_wldc.rpak",
       "name": "world/rubble/rubble_standard02_wld_icelandic_dirt_02_wld_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/rubble_standard02_wld_icelandic_dirt_02_wld_bm_wldc",
@@ -16181,7 +16181,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/rubble/rubble_standard03_wld_icelandic_dirt_02_wld_bm.rpak",
+      "_path": "material/world/rubble/rubble_standard03_wld_icelandic_dirt_02_wld_bm_wldc.rpak",
       "name": "world/rubble/rubble_standard03_wld_icelandic_dirt_02_wld_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/rubble_standard03_wld_icelandic_dirt_02_wld_bm_wldc",
@@ -16225,7 +16225,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_boltdecals_02/s2s_boltdecals_02.rpak",
+      "_path": "material/world/s2s/s2s_boltdecals_02/s2s_boltdecals_02_rgdp.rpak",
       "name": "world/s2s/s2s_boltdecals_02/s2s_boltdecals_02",
       "shaderType": "rgdp",
       "$cpu": "cpudata/s2s_boltdecals_02_rgdp",
@@ -16261,7 +16261,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/grunge_decal_drips.rpak",
+      "_path": "material/world/decal/grunge_decal_drips_wldc.rpak",
       "name": "world/decal/grunge_decal_drips",
       "shaderType": "wldc",
       "$cpu": "cpudata/grunge_decal_drips_WLDC",
@@ -16296,7 +16296,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_bridge_glass_cracked_01/s2s_bridge_glass_cracked_01_decal.rpak",
+      "_path": "material/world/s2s/s2s_bridge_glass_cracked_01/s2s_bridge_glass_cracked_01_decal_rgdc.rpak",
       "name": "world/s2s/s2s_bridge_glass_cracked_01/s2s_bridge_glass_cracked_01_decal",
       "shaderType": "rgdc",
       "$cpu": "cpudata/s2s_bridge_glass_cracked_01_decal_rgdc",
@@ -16332,7 +16332,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_bridge_glass_cracked_01/s2s_bridge_glass_cracked_01_decal.rpak",
+      "_path": "material/world/s2s/s2s_bridge_glass_cracked_01/s2s_bridge_glass_cracked_01_decal_rgdp.rpak",
       "name": "world/s2s/s2s_bridge_glass_cracked_01/s2s_bridge_glass_cracked_01_decal",
       "shaderType": "rgdp",
       "$cpu": "cpudata/s2s_bridge_glass_cracked_01_decal_rgdp",
@@ -16368,7 +16368,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_floor_01.rpak",
+      "_path": "material/world/s2s/s2s_floor_01_wldc.rpak",
       "name": "world/s2s/s2s_floor_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/s2s_floor_01_wldc",
@@ -16404,7 +16404,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_floor_03.rpak",
+      "_path": "material/world/s2s/s2s_floor_03_wldc.rpak",
       "name": "world/s2s/s2s_floor_03",
       "shaderType": "wldc",
       "$cpu": "cpudata/s2s_floor_03_wldc",
@@ -16440,7 +16440,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_painted_metal_01.rpak",
+      "_path": "material/world/s2s/s2s_painted_metal_01_rgdc.rpak",
       "name": "world/s2s/s2s_painted_metal_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/s2s_painted_metal_01_rgdc",
@@ -16475,7 +16475,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_painted_metal_01.rpak",
+      "_path": "material/world/s2s/s2s_painted_metal_01_wldc.rpak",
       "name": "world/s2s/s2s_painted_metal_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/s2s_painted_metal_01_wldc",
@@ -16510,7 +16510,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_metal_trims_01.rpak",
+      "_path": "material/world/s2s/s2s_metal_trims_01_rgdc.rpak",
       "name": "world/s2s/s2s_metal_trims_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/s2s_metal_trims_01_rgdc",
@@ -16546,7 +16546,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_roof_panel_01_vc.rpak",
+      "_path": "material/world/s2s/s2s_roof_panel_01_vc_rgdc.rpak",
       "name": "world/s2s/s2s_roof_panel_01_vc",
       "shaderType": "rgdc",
       "$cpu": "cpudata/s2s_roof_panel_01_vc_rgdc",
@@ -16582,7 +16582,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_roof_panel_01_vc.rpak",
+      "_path": "material/world/s2s/s2s_roof_panel_01_vc_rgdp.rpak",
       "name": "world/s2s/s2s_roof_panel_01_vc",
       "shaderType": "rgdp",
       "$cpu": "cpudata/s2s_roof_panel_01_vc_rgdc",
@@ -16618,7 +16618,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_roof_panel_01_vc.rpak",
+      "_path": "material/world/s2s/s2s_roof_panel_01_vc_wldc.rpak",
       "name": "world/s2s/s2s_roof_panel_01_vc",
       "shaderType": "wldc",
       "$cpu": "cpudata/s2s_roof_panel_01_vc_wldc",
@@ -16654,7 +16654,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_wall_trim_01_vc.rpak",
+      "_path": "material/world/s2s/s2s_wall_trim_01_vc_rgdc.rpak",
       "name": "world/s2s/s2s_wall_trim_01_vc",
       "shaderType": "rgdc",
       "$cpu": "cpudata/s2s_wall_trim_01_vc_rgdc",
@@ -16690,7 +16690,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_wall_trim_01_vc.rpak",
+      "_path": "material/world/s2s/s2s_wall_trim_01_vc_rgdp.rpak",
       "name": "world/s2s/s2s_wall_trim_01_vc",
       "shaderType": "rgdp",
       "$cpu": "cpudata/s2s_wall_trim_01_vc_rgdp",
@@ -16726,7 +16726,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_wall_trim_01_vc.rpak",
+      "_path": "material/world/s2s/s2s_wall_trim_01_vc_wldc.rpak",
       "name": "world/s2s/s2s_wall_trim_01_vc",
       "shaderType": "wldc",
       "$cpu": "cpudata/s2s_wall_trim_01_vc_wldc",
@@ -16762,7 +16762,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_wall_trim_02.rpak",
+      "_path": "material/world/s2s/s2s_wall_trim_02_rgdc.rpak",
       "name": "world/s2s/s2s_wall_trim_02",
       "shaderType": "rgdc",
       "$cpu": "cpudata/s2s_wall_trim_02_vc_rgdc",
@@ -16798,7 +16798,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_building_overlay_decal_02.rpak",
+      "_path": "material/world/beacon/beacon_building_overlay_decal_02_rgdc.rpak",
       "name": "world/beacon/beacon_building_overlay_decal_02",
       "shaderType": "rgdc",
       "$cpu": "cpudata/beacon_building_overlay_decal_02_rgdc",
@@ -16838,7 +16838,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/beacon/beacon_building_overlay_decal_02_prepass.rpak",
+      "_path": "material/depth/world/beacon/beacon_building_overlay_decal_02_prepass_rgdc.rpak",
       "name": "depth/world/beacon/beacon_building_overlay_decal_02_prepass",
       "shaderType": "rgdc",
       "$cpu": "cpudata/beacon_building_overlay_decal_02_rgdc",
@@ -16873,7 +16873,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/beacon/beacon_building_overlay_decal_02_shadow.rpak",
+      "_path": "material/depth/world/beacon/beacon_building_overlay_decal_02_shadow_rgdc.rpak",
       "name": "depth/world/beacon/beacon_building_overlay_decal_02_shadow",
       "shaderType": "rgdc",
       "$cpu": "cpudata/beacon_building_overlay_decal_02_rgdc",
@@ -16908,7 +16908,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/beacon/beacon_building_overlay_decal_02_tightshadow.rpak",
+      "_path": "material/depth/world/beacon/beacon_building_overlay_decal_02_tightshadow_rgdc.rpak",
       "name": "depth/world/beacon/beacon_building_overlay_decal_02_tightshadow",
       "shaderType": "rgdc",
       "$cpu": "cpudata/beacon_building_overlay_decal_02_rgdc",
@@ -16943,7 +16943,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/beacon/beacon_building_overlay_decal_02_vsm.rpak",
+      "_path": "material/depth/world/beacon/beacon_building_overlay_decal_02_vsm_rgdc.rpak",
       "name": "depth/world/beacon/beacon_building_overlay_decal_02_vsm",
       "shaderType": "rgdc",
       "$cpu": "cpudata/beacon_building_overlay_decal_02_rgdc",
@@ -16978,7 +16978,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/beacon_building_overlay_decal_02_colpass.rpak",
+      "_path": "material/world/beacon/beacon_building_overlay_decal_02_colpass_rgdc.rpak",
       "name": "world/beacon/beacon_building_overlay_decal_02_colpass",
       "shaderType": "rgdc",
       "$cpu": "cpudata/beacon_building_overlay_decal_02_rgdc",
@@ -17013,7 +17013,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_wall_trim_02_vc.rpak",
+      "_path": "material/world/s2s/s2s_wall_trim_02_vc_rgdc.rpak",
       "name": "world/s2s/s2s_wall_trim_02_vc",
       "shaderType": "rgdc",
       "$cpu": "cpudata/s2s_wall_trim_02_vc_rgdc",
@@ -17049,7 +17049,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_wall_trim_02_vc.rpak",
+      "_path": "material/world/s2s/s2s_wall_trim_02_vc_wldc.rpak",
       "name": "world/s2s/s2s_wall_trim_02_vc",
       "shaderType": "wldc",
       "$cpu": "cpudata/s2s_wall_trim_02_vc_wldc",
@@ -17085,7 +17085,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_wall_trim_03.rpak",
+      "_path": "material/world/s2s/s2s_wall_trim_03_rgdc.rpak",
       "name": "world/s2s/s2s_wall_trim_03",
       "shaderType": "rgdc",
       "$cpu": "cpudata/s2s_wall_trim_03_rgdc",
@@ -17121,7 +17121,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/s2s/s2s_wall_trim_03.rpak",
+      "_path": "material/world/s2s/s2s_wall_trim_03_rgdp.rpak",
       "name": "world/s2s/s2s_wall_trim_03",
       "shaderType": "rgdp",
       "$cpu": "cpudata/s2s_wall_trim_03_rgdp",
@@ -17157,7 +17157,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/signs/beacon_screens/beacon_big_screen_03.rpak",
+      "_path": "material/world/signs/beacon_screens/beacon_big_screen_03_rgdp.rpak",
       "name": "world/signs/beacon_screens/beacon_big_screen_03",
       "shaderType": "rgdp",
       "$cpu": "cpudata/beacon_big_screen_03_rgdp",
@@ -17193,7 +17193,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/signs/beacon_screens/beacon_big_screen_03_transparent.rpak",
+      "_path": "material/world/signs/beacon_screens/beacon_big_screen_03_transparent_rgdp.rpak",
       "name": "world/signs/beacon_screens/beacon_big_screen_03_transparent",
       "shaderType": "rgdp",
       "$cpu": "cpudata/beacon_big_screen_03_transparent_rgdp",
@@ -17227,7 +17227,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/stasis/stasis_trim_01/stasis_trim_damaged_01.rpak",
+      "_path": "material/world/stasis/stasis_trim_01/stasis_trim_damaged_01_wldc.rpak",
       "name": "world/stasis/stasis_trim_01/stasis_trim_damaged_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/stasis_trim_damaged_01_wldc",
@@ -17264,7 +17264,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/stone/desertlands_sulfur_03.rpak",
+      "_path": "material/world/stone/desertlands_sulfur_03_wldc.rpak",
       "name": "world/stone/desertlands_sulfur_03",
       "shaderType": "wldc",
       "$cpu": "cpudata/desertlands_sulfur_03_wldc",
@@ -17301,7 +17301,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/street_utilities/street_utility_meter_box_a.rpak",
+      "_path": "material/world/street_utilities/street_utility_meter_box_a_wldc.rpak",
       "name": "world/street_utilities/street_utility_meter_box_a",
       "shaderType": "wldc",
       "$cpu": "cpudata/street_utility_meter_box_a_wldc",
@@ -17336,7 +17336,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/street_utilities/street_utility_meter_box_a.rpak",
+      "_path": "material/world/street_utilities/street_utility_meter_box_a_rgdc.rpak",
       "name": "world/street_utilities/street_utility_meter_box_a",
       "shaderType": "rgdc",
       "$cpu": "cpudata/street_utility_meter_box_a_rgdc",
@@ -17371,7 +17371,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/street_utilities/street_utility_meter_box_a.rpak",
+      "_path": "material/world/street_utilities/street_utility_meter_box_a_rgdp.rpak",
       "name": "world/street_utilities/street_utility_meter_box_a",
       "shaderType": "rgdp",
       "$cpu": "cpudata/street_utility_meter_box_a_rgdp",
@@ -17406,7 +17406,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/utilities/power_cell_64.rpak",
+      "_path": "material/models/utilities/power_cell_64_rgdp.rpak",
       "name": "models/utilities/power_cell_64",
       "shaderType": "rgdp",
       "$cpu": "cpudata/power_cell_64_RGDP",
@@ -17441,7 +17441,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/commercial/rack_spectre_portable_01.rpak",
+      "_path": "material/models/commercial/rack_spectre_portable_01_rgdp.rpak",
       "name": "models/commercial/rack_spectre_portable_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/rack_spectre_portable_01_RGDP",
@@ -17476,7 +17476,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/rise_stain_decal_01_vert_color.rpak",
+      "_path": "material/world/decal/rise_stain_decal_01_vert_color_rgdc.rpak",
       "name": "world/decal/rise_stain_decal_01_vert_color",
       "shaderType": "rgdc",
       "$cpu": "cpudata/rise_stain_decal_01_vert_color_RGDC",
@@ -17511,7 +17511,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/rise_stain_decal_01_vert_color.rpak",
+      "_path": "material/world/decal/rise_stain_decal_01_vert_color_rgdp.rpak",
       "name": "world/decal/rise_stain_decal_01_vert_color",
       "shaderType": "rgdp",
       "$cpu": "cpudata/rise_stain_decal_01_vert_color_RGDC",
@@ -17546,7 +17546,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/test/mike_grey_01_vc.rpak",
+      "_path": "material/world/test/mike_grey_01_vc_wldc.rpak",
       "name": "world/test/mike_grey_01_vc",
       "shaderType": "wldc",
       "$cpu": "cpudata/mike_grey_01_vc_wldc",
@@ -17581,7 +17581,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/test/mike_test/test_corrugated_wall.rpak",
+      "_path": "material/world/test/mike_test/test_corrugated_wall_rgdc.rpak",
       "name": "world/test/mike_test/test_corrugated_wall",
       "shaderType": "rgdc",
       "$cpu": "cpudata/test_corrugated_wall_rgdc",
@@ -17615,7 +17615,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/test/mike_test/test_corrugated_wall.rpak",
+      "_path": "material/world/test/mike_test/test_corrugated_wall_wldc.rpak",
       "name": "world/test/mike_test/test_corrugated_wall",
       "shaderType": "wldc",
       "$cpu": "cpudata/test_corrugated_wall_wldc",
@@ -17649,7 +17649,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/thunderdome/red_rock_wall_smooth_03_to_red_rock_wall_damaged_bm.rpak",
+      "_path": "material/world/thunderdome/red_rock_wall_smooth_03_to_red_rock_wall_damaged_bm_wldc.rpak",
       "name": "world/thunderdome/red_rock_wall_smooth_03_to_red_rock_wall_damaged_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/red_rock_wall_smooth_03_to_red_rock_wall_damaged_bm_wldc",
@@ -17690,7 +17690,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/thunderdome/thunderdome_quarry_wall_01_orange.rpak",
+      "_path": "material/world/thunderdome/thunderdome_quarry_wall_01_orange_wldc.rpak",
       "name": "world/thunderdome/thunderdome_quarry_wall_01_orange",
       "shaderType": "wldc",
       "$cpu": "cpudata/thunderdome_quarry_wall_01_orange_wldc",
@@ -17725,7 +17725,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/thunderdome/thunderdome_quarry_wall_to_thunderdome_quarry_wall_ash_bm.rpak",
+      "_path": "material/world/thunderdome/thunderdome_quarry_wall_to_thunderdome_quarry_wall_ash_bm_wldc.rpak",
       "name": "world/thunderdome/thunderdome_quarry_wall_to_thunderdome_quarry_wall_ash_bm",
       "shaderType": "wldc",
       "$cpu": "cpudata/thunderdome_quarry_wall_to_thunderdome_quarry_wall_ash_bm_wldc",
@@ -17765,7 +17765,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01.rpak",
+      "_path": "material/world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdc.rpak",
       "name": "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/solid_grate_dirty_wet_01_rgdc",
@@ -17802,7 +17802,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01.rpak",
+      "_path": "material/world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01_rgdp.rpak",
       "name": "world/timeshift/solid_grate_dirty_wet_01/solid_grate_dirty_wet_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/solid_grate_dirty_wet_01_rgdp",
@@ -17839,7 +17839,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_destroyed/timeshift_metal_trim_01_destroyed.rpak",
+      "_path": "material/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_destroyed/timeshift_metal_trim_01_destroyed_rgdp.rpak",
       "name": "world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_destroyed/timeshift_metal_trim_01_destroyed",
       "shaderType": "rgdp",
       "$cpu": "cpudata/timeshift_metal_trim_01_destroyed_rgdp",
@@ -17876,7 +17876,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01.rpak",
+      "_path": "material/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_rgdp.rpak",
       "name": "world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/timeshift_metal_trim_01_RGDP",
@@ -17912,7 +17912,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01.rpak",
+      "_path": "material/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_rgdc.rpak",
       "name": "world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01",
       "shaderType": "rgdc",
       "$cpu": "cpudata/timeshift_metal_trim_01_RGDC",
@@ -17948,7 +17948,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01.rpak",
+      "_path": "material/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_wldc.rpak",
       "name": "world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/timeshift_metal_trim_01_RGDC",
@@ -17984,7 +17984,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/stasis/stasis_lab_trim_02/stasis_lab_trim_02.rpak",
+      "_path": "material/world/stasis/stasis_lab_trim_02/stasis_lab_trim_02_rgdc.rpak",
       "name": "world/stasis/stasis_lab_trim_02/stasis_lab_trim_02",
       "shaderType": "rgdc",
       "$cpu": "cpudata/stasis_lab_trim_02_RGDC",
@@ -18020,7 +18020,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/stamped_metal_large_painted_03_vert_color.rpak",
+      "_path": "material/world/beacon/stamped_metal_large_painted_03_vert_color_wldc.rpak",
       "name": "world/beacon/stamped_metal_large_painted_03_vert_color",
       "shaderType": "wldc",
       "$cpu": "cpudata/stamped_metal_large_painted_03_vert_color_WLDC",
@@ -18056,7 +18056,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/beacon/stamped_metal_large_painted_03_vert_color.rpak",
+      "_path": "material/world/beacon/stamped_metal_large_painted_03_vert_color_rgdc.rpak",
       "name": "world/beacon/stamped_metal_large_painted_03_vert_color",
       "shaderType": "rgdc",
       "$cpu": "cpudata/stamped_metal_large_painted_03_vert_color_RGDC",
@@ -18092,7 +18092,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/railgun_trim_02.rpak",
+      "_path": "material/world/metal/railgun_trim_02_rgdc.rpak",
       "name": "world/metal/railgun_trim_02",
       "shaderType": "rgdc",
       "$cpu": "cpudata/railgun_trim_02_RGDC",
@@ -18127,7 +18127,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/railgun_trim_02.rpak",
+      "_path": "material/world/metal/railgun_trim_02_rgdp.rpak",
       "name": "world/metal/railgun_trim_02",
       "shaderType": "rgdp",
       "$cpu": "cpudata/railgun_trim_02_RGDP",
@@ -18162,7 +18162,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/railgun_trim_02.rpak",
+      "_path": "material/world/metal/railgun_trim_02_wldc.rpak",
       "name": "world/metal/railgun_trim_02",
       "shaderType": "wldc",
       "$cpu": "cpudata/railgun_trim_02_WLDC",
@@ -18197,7 +18197,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/decal/scorch_decal_BIG.rpak",
+      "_path": "material/world/decal/scorch_decal_BIG_wldc.rpak",
       "name": "world/decal/scorch_decal_BIG",
       "shaderType": "wldc",
       "$cpu": "cpudata/scorch_decal_BIG_WLDC",
@@ -18232,7 +18232,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/industrial/modular_railing_trim.rpak",
+      "_path": "material/models/industrial/modular_railing_trim_rgdp.rpak",
       "name": "models/industrial/modular_railing_trim",
       "shaderType": "rgdp",
       "$cpu": "cpudata/modular_railing_trim_RGDP",
@@ -18267,7 +18267,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/metal/metal_grate_orangepanels.rpak",
+      "_path": "material/world/metal/metal_grate_orangepanels_wldc.rpak",
       "name": "world/metal/metal_grate_orangepanels",
       "shaderType": "wldc",
       "$cpu": "cpudata/metal_grate_orangepanels_WLDC",
@@ -18302,7 +18302,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/utility/cable_large_steel_02.rpak",
+      "_path": "material/world/utility/cable_large_steel_02_rgdp.rpak",
       "name": "world/utility/cable_large_steel_02",
       "shaderType": "rgdp",
       "$cpu": "cpudata/cable_large_steel_02_rgdp",
@@ -18340,7 +18340,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/utility/cable_large_steel_02.rpak",
+      "_path": "material/world/utility/cable_large_steel_02_wldc.rpak",
       "name": "world/utility/cable_large_steel_02",
       "shaderType": "wldc",
       "$cpu": "cpudata/cable_large_steel_02_wldc",
@@ -18378,7 +18378,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/utility/solar_panel.rpak",
+      "_path": "material/world/utility/solar_panel_rgdp.rpak",
       "name": "world/utility/solar_panel",
       "shaderType": "rgdp",
       "$cpu": "cpudata/solar_panel_rgdp",
@@ -18415,7 +18415,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/utility/solar_panel.rpak",
+      "_path": "material/world/utility/solar_panel_rgdc.rpak",
       "name": "world/utility/solar_panel",
       "shaderType": "rgdc",
       "$cpu": "cpudata/solar_panel_rgdp",
@@ -18452,7 +18452,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/walls/building_metalpanel_01.rpak",
+      "_path": "material/world/walls/building_metalpanel_01_wldc.rpak",
       "name": "world/walls/building_metalpanel_01",
       "shaderType": "wldc",
       "$cpu": "cpudata/building_metalpanel_01_wldc",
@@ -18487,7 +18487,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/walls/building_walls_metal_03.rpak",
+      "_path": "material/world/walls/building_walls_metal_03_rgdc.rpak",
       "name": "world/walls/building_walls_metal_03",
       "shaderType": "rgdc",
       "$cpu": "cpudata/building_walls_metal_03_rgdc",
@@ -18522,7 +18522,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/walls/construction_metal_form_walls.rpak",
+      "_path": "material/world/walls/construction_metal_form_walls_rgdc.rpak",
       "name": "world/walls/construction_metal_form_walls",
       "shaderType": "rgdc",
       "$cpu": "cpudata/construction_metal_form_walls_rgdc",
@@ -18558,7 +18558,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/walls/construction_metal_form_walls.rpak",
+      "_path": "material/world/walls/construction_metal_form_walls_wldc.rpak",
       "name": "world/walls/construction_metal_form_walls",
       "shaderType": "wldc",
       "$cpu": "cpudata/construction_metal_form_walls_wldc",
@@ -18594,7 +18594,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/water/desertlands_sulfur_water_02.rpak",
+      "_path": "material/world/water/desertlands_sulfur_water_02_rgdc.rpak",
       "name": "world/water/desertlands_sulfur_water_02",
       "shaderType": "rgdc",
       "$cpu": "cpudata/desertlands_sulfur_water_02_rgdc",
@@ -18633,7 +18633,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/windows/glass_window_bulletproof01.rpak",
+      "_path": "material/world/windows/glass_window_bulletproof01_rgdp.rpak",
       "name": "world/windows/glass_window_bulletproof01",
       "shaderType": "rgdp",
       "$cpu": "cpudata/glass_window_bulletproof01_rgdp",
@@ -18669,7 +18669,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/windows/glass_window_bulletproof01_less_transparent.rpak",
+      "_path": "material/world/windows/glass_window_bulletproof01_less_transparent_wldc.rpak",
       "name": "world/windows/glass_window_bulletproof01_less_transparent",
       "shaderType": "wldc",
       "$cpu": "cpudata/glass_window_bulletproof01_less_transparent_WLDC",
@@ -18705,7 +18705,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/windows/glass_window_bulletproof01_less_transparent.rpak",
+      "_path": "material/world/windows/glass_window_bulletproof01_less_transparent_rgdc.rpak",
       "name": "world/windows/glass_window_bulletproof01_less_transparent",
       "shaderType": "rgdc",
       "$cpu": "cpudata/glass_window_bulletproof01_less_transparent_RGDC",
@@ -18741,7 +18741,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/windows/glass_window_bulletproof01_less_transparent.rpak",
+      "_path": "material/world/windows/glass_window_bulletproof01_less_transparent_rgdp.rpak",
       "name": "world/windows/glass_window_bulletproof01_less_transparent",
       "shaderType": "rgdp",
       "$cpu": "cpudata/glass_window_bulletproof01_less_transparent_RGDC",
@@ -18777,7 +18777,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/wood/raw_damaged_wood.rpak",
+      "_path": "material/world/wood/raw_damaged_wood_rgdp.rpak",
       "name": "world/wood/raw_damaged_wood",
       "shaderType": "rgdp",
       "$cpu": "cpudata/raw_damaged_wood_rgdp",

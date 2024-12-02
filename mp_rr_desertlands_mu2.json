@@ -10,7 +10,7 @@
 
   "compressLevel": 0,
   "compressWorkers": 16,
-  
+
   "files": [
     {
       "_type": "dtbl",
