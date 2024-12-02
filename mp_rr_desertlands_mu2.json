@@ -14,23 +14,19 @@
   "files": [
     {
       "_type": "dtbl",
-      "_path": "datatable/dialogue/blood_tt_dialogue"
+      "_path": "datatable/dialogue/blood_tt_dialogue.rpak"
     },
     {
       "_type": "dtbl",
-      "_path": "datatable/dialogue/blood_tt_announcer_dialogue"
+      "_path": "datatable/dialogue/blood_tt_announcer_dialogue.rpak"
     },
     {
       "_type": "dtbl",
-      "_path": "datatable/map_zones/zones_mp_rr_desertlands_mu2"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/ui_atlas/overviews/mp_rr_desertlands_mu2"
+      "_path": "datatable/map_zones/zones_mp_rr_desertlands_mu2.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x88b829c6640aa10d/0x119527D74F210987",
+      "_path": "shaderset/0x88b829c6640aa10d/0x119527D74F210987.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005202",
@@ -41,7 +37,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x88b829c6640aa10d/0x936C13413823F663",
+      "_path": "shaderset/0x88b829c6640aa10d/0x936C13413823F663.rpak",
       "$numPixelShaderTextures": 7,
       "inputFlags": [
         "0x4030002000D01",
@@ -52,17 +48,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x88b829c6640aa10d",
+      "_path": "0x88b829c6640aa10d.rpak",
       "$guid": "0x88b829c6640aa10d",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x88b829c6640aa10d/0x119527D74F210987",
-      "pixelShader": "shaderset/0x88b829c6640aa10d/0x936C13413823F663"
+      "vertexShader": "shaderset/0x88b829c6640aa10d/0x119527D74F210987.rpak",
+      "pixelShader": "shaderset/0x88b829c6640aa10d/0x936C13413823F663.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4f98a3071773dbc5/0x8815107E59BA114B",
+      "_path": "shaderset/0x4f98a3071773dbc5/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -73,7 +69,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4f98a3071773dbc5/0x406DC09111C7B05A",
+      "_path": "shaderset/0x4f98a3071773dbc5/0x406DC09111C7B05A.rpak",
       "$numPixelShaderTextures": 16,
       "inputFlags": [
         "0x4030002000D01",
@@ -88,17 +84,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x4f98a3071773dbc5",
+      "_path": "0x4f98a3071773dbc5.rpak",
       "$guid": "0x4f98a3071773dbc5",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x4f98a3071773dbc5/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0x4f98a3071773dbc5/0x406DC09111C7B05A"
+      "vertexShader": "shaderset/0x4f98a3071773dbc5/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x4f98a3071773dbc5/0x406DC09111C7B05A.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x7701cea67d76ef45/0xBD79718F54D706F5",
+      "_path": "shaderset/0x7701cea67d76ef45/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -109,7 +105,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x7701cea67d76ef45/0xCB1F33713DDC7796",
+      "_path": "shaderset/0x7701cea67d76ef45/0xCB1F33713DDC7796.rpak",
       "$numPixelShaderTextures": 14,
       "inputFlags": [
         "0x4034002000D01",
@@ -124,17 +120,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x7701cea67d76ef45",
+      "_path": "0x7701cea67d76ef45.rpak",
       "$guid": "0x7701cea67d76ef45",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x7701cea67d76ef45/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x7701cea67d76ef45/0xCB1F33713DDC7796"
+      "vertexShader": "shaderset/0x7701cea67d76ef45/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x7701cea67d76ef45/0xCB1F33713DDC7796.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x61e4913da01ba4ee/0x68C175CD8879399",
+      "_path": "shaderset/0x61e4913da01ba4ee/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -143,7 +139,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x61e4913da01ba4ee/0x6D7A319D606C7F",
+      "_path": "shaderset/0x61e4913da01ba4ee/0x6D7A319D606C7F.rpak",
       "$numPixelShaderTextures": 12,
       "inputFlags": [
         "0x4434002100D01",
@@ -152,17 +148,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x61e4913da01ba4ee",
+      "_path": "0x61e4913da01ba4ee.rpak",
       "$guid": "0x61e4913da01ba4ee",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x61e4913da01ba4ee/0x68C175CD8879399",
-      "pixelShader": "shaderset/0x61e4913da01ba4ee/0x6D7A319D606C7F"
+      "vertexShader": "shaderset/0x61e4913da01ba4ee/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x61e4913da01ba4ee/0x6D7A319D606C7F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xcd31b06a779d3273/0x68C175CD8879399",
+      "_path": "shaderset/0xcd31b06a779d3273/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -171,7 +167,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xcd31b06a779d3273/0x279DAA31E0E91697",
+      "_path": "shaderset/0xcd31b06a779d3273/0x279DAA31E0E91697.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4434002100D01",
@@ -180,17 +176,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xcd31b06a779d3273",
+      "_path": "0xcd31b06a779d3273.rpak",
       "$guid": "0xcd31b06a779d3273",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xcd31b06a779d3273/0x68C175CD8879399",
-      "pixelShader": "shaderset/0xcd31b06a779d3273/0x279DAA31E0E91697"
+      "vertexShader": "shaderset/0xcd31b06a779d3273/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0xcd31b06a779d3273/0x279DAA31E0E91697.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x5fd1a021284ecdfe/0x68C175CD8879399",
+      "_path": "shaderset/0x5fd1a021284ecdfe/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -199,7 +195,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x5fd1a021284ecdfe/0xC5D779F0089718A0",
+      "_path": "shaderset/0x5fd1a021284ecdfe/0xC5D779F0089718A0.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4434002100D01",
@@ -210,17 +206,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x5fd1a021284ecdfe",
+      "_path": "0x5fd1a021284ecdfe.rpak",
       "$guid": "0x5fd1a021284ecdfe",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x5fd1a021284ecdfe/0x68C175CD8879399",
-      "pixelShader": "shaderset/0x5fd1a021284ecdfe/0xC5D779F0089718A0"
+      "vertexShader": "shaderset/0x5fd1a021284ecdfe/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x5fd1a021284ecdfe/0xC5D779F0089718A0.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc65f09bb5104240/0xBD79718F54D706F5",
+      "_path": "shaderset/0xc65f09bb5104240/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -231,7 +227,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc65f09bb5104240/0x604D52BAD6C73789",
+      "_path": "shaderset/0xc65f09bb5104240/0x604D52BAD6C73789.rpak",
       "$numPixelShaderTextures": 31,
       "inputFlags": [
         "0x4034002000D01",
@@ -246,17 +242,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xc65f09bb5104240",
+      "_path": "0xc65f09bb5104240.rpak",
       "$guid": "0xc65f09bb5104240",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xc65f09bb5104240/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0xc65f09bb5104240/0x604D52BAD6C73789"
+      "vertexShader": "shaderset/0xc65f09bb5104240/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xc65f09bb5104240/0x604D52BAD6C73789.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xdd54d69f937a066e/0x91331CBED05BB181",
+      "_path": "shaderset/0xdd54d69f937a066e/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -267,7 +263,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xdd54d69f937a066e/0xF00AECEAC89C2C49",
+      "_path": "shaderset/0xdd54d69f937a066e/0xF00AECEAC89C2C49.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4030002000D01",
@@ -282,17 +278,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xdd54d69f937a066e",
+      "_path": "0xdd54d69f937a066e.rpak",
       "$guid": "0xdd54d69f937a066e",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xdd54d69f937a066e/0x91331CBED05BB181",
-      "pixelShader": "shaderset/0xdd54d69f937a066e/0xF00AECEAC89C2C49"
+      "vertexShader": "shaderset/0xdd54d69f937a066e/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0xdd54d69f937a066e/0xF00AECEAC89C2C49.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa7097dda709bb243/0xBD79718F54D706F5",
+      "_path": "shaderset/0xa7097dda709bb243/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -303,7 +299,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa7097dda709bb243/0xB86A8F89A060E889",
+      "_path": "shaderset/0xa7097dda709bb243/0xB86A8F89A060E889.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4034002000D01",
@@ -314,17 +310,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xa7097dda709bb243",
+      "_path": "0xa7097dda709bb243.rpak",
       "$guid": "0xa7097dda709bb243",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa7097dda709bb243/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0xa7097dda709bb243/0xB86A8F89A060E889"
+      "vertexShader": "shaderset/0xa7097dda709bb243/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xa7097dda709bb243/0xB86A8F89A060E889.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd3483e99366ac6aa/0xBD79718F54D706F5",
+      "_path": "shaderset/0xd3483e99366ac6aa/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -335,7 +331,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd3483e99366ac6aa/0xEF14E0BCE8DFEB9C",
+      "_path": "shaderset/0xd3483e99366ac6aa/0xEF14E0BCE8DFEB9C.rpak",
       "$numPixelShaderTextures": 7,
       "inputFlags": [
         "0x4034002000D01",
@@ -350,17 +346,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xd3483e99366ac6aa",
+      "_path": "0xd3483e99366ac6aa.rpak",
       "$guid": "0xd3483e99366ac6aa",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xd3483e99366ac6aa/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0xd3483e99366ac6aa/0xEF14E0BCE8DFEB9C"
+      "vertexShader": "shaderset/0xd3483e99366ac6aa/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xd3483e99366ac6aa/0xEF14E0BCE8DFEB9C.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x52589eb1faf32296/0xBD79718F54D706F5",
+      "_path": "shaderset/0x52589eb1faf32296/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -371,7 +367,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x52589eb1faf32296/0xE1E391D91FD02DCA",
+      "_path": "shaderset/0x52589eb1faf32296/0xE1E391D91FD02DCA.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -386,17 +382,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x52589eb1faf32296",
+      "_path": "0x52589eb1faf32296.rpak",
       "$guid": "0x52589eb1faf32296",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x52589eb1faf32296/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x52589eb1faf32296/0xE1E391D91FD02DCA"
+      "vertexShader": "shaderset/0x52589eb1faf32296/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x52589eb1faf32296/0xE1E391D91FD02DCA.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa80c7b4f263155b9/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xa80c7b4f263155b9/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -407,7 +403,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa80c7b4f263155b9/0xF2FE3E2319087B21",
+      "_path": "shaderset/0xa80c7b4f263155b9/0xF2FE3E2319087B21.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4034002000D01",
@@ -422,17 +418,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xa80c7b4f263155b9",
+      "_path": "0xa80c7b4f263155b9.rpak",
       "$guid": "0xa80c7b4f263155b9",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa80c7b4f263155b9/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xa80c7b4f263155b9/0xF2FE3E2319087B21"
+      "vertexShader": "shaderset/0xa80c7b4f263155b9/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xa80c7b4f263155b9/0xF2FE3E2319087B21.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x52be692c7c2e683/0x91331CBED05BB181",
+      "_path": "shaderset/0x52be692c7c2e683/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -443,7 +439,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x52be692c7c2e683/0xCBCF98A5C17D9693",
+      "_path": "shaderset/0x52be692c7c2e683/0xCBCF98A5C17D9693.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4030002000D01",
@@ -454,17 +450,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x52be692c7c2e683",
+      "_path": "0x52be692c7c2e683.rpak",
       "$guid": "0x52be692c7c2e683",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x52be692c7c2e683/0x91331CBED05BB181",
-      "pixelShader": "shaderset/0x52be692c7c2e683/0xCBCF98A5C17D9693"
+      "vertexShader": "shaderset/0x52be692c7c2e683/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0x52be692c7c2e683/0xCBCF98A5C17D9693.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf8b38f6f323de640/0x91331CBED05BB181",
+      "_path": "shaderset/0xf8b38f6f323de640/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -475,7 +471,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf8b38f6f323de640/0x580BB0BD73B276F5",
+      "_path": "shaderset/0xf8b38f6f323de640/0x580BB0BD73B276F5.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4030002000D01",
@@ -490,17 +486,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xf8b38f6f323de640",
+      "_path": "0xf8b38f6f323de640.rpak",
       "$guid": "0xf8b38f6f323de640",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xf8b38f6f323de640/0x91331CBED05BB181",
-      "pixelShader": "shaderset/0xf8b38f6f323de640/0x580BB0BD73B276F5"
+      "vertexShader": "shaderset/0xf8b38f6f323de640/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0xf8b38f6f323de640/0x580BB0BD73B276F5.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xed288eb99982b860/0x119527D74F210987",
+      "_path": "shaderset/0xed288eb99982b860/0x119527D74F210987.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005202",
@@ -511,7 +507,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xed288eb99982b860/0x3407B2E2BC8358A6",
+      "_path": "shaderset/0xed288eb99982b860/0x3407B2E2BC8358A6.rpak",
       "$numPixelShaderTextures": 16,
       "inputFlags": [
         "0x4030002000D01",
@@ -526,17 +522,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xed288eb99982b860",
+      "_path": "0xed288eb99982b860.rpak",
       "$guid": "0xed288eb99982b860",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xed288eb99982b860/0x119527D74F210987",
-      "pixelShader": "shaderset/0xed288eb99982b860/0x3407B2E2BC8358A6"
+      "vertexShader": "shaderset/0xed288eb99982b860/0x119527D74F210987.rpak",
+      "pixelShader": "shaderset/0xed288eb99982b860/0x3407B2E2BC8358A6.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe522d75f1b4268af/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xe522d75f1b4268af/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -547,7 +543,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe522d75f1b4268af/0x285DFBF59A53D6F8",
+      "_path": "shaderset/0xe522d75f1b4268af/0x285DFBF59A53D6F8.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -558,17 +554,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xe522d75f1b4268af",
+      "_path": "0xe522d75f1b4268af.rpak",
       "$guid": "0xe522d75f1b4268af",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xe522d75f1b4268af/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xe522d75f1b4268af/0x285DFBF59A53D6F8"
+      "vertexShader": "shaderset/0xe522d75f1b4268af/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xe522d75f1b4268af/0x285DFBF59A53D6F8.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xde20a4616c67349b/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xde20a4616c67349b/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -579,7 +575,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xde20a4616c67349b/0xD019AF6CD13CEB51",
+      "_path": "shaderset/0xde20a4616c67349b/0xD019AF6CD13CEB51.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4034002000D01",
@@ -594,17 +590,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xde20a4616c67349b",
+      "_path": "0xde20a4616c67349b.rpak",
       "$guid": "0xde20a4616c67349b",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xde20a4616c67349b/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xde20a4616c67349b/0xD019AF6CD13CEB51"
+      "vertexShader": "shaderset/0xde20a4616c67349b/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xde20a4616c67349b/0xD019AF6CD13CEB51.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xb319782b6839a724/0xE50E3DADB0596507",
+      "_path": "shaderset/0xb319782b6839a724/0xE50E3DADB0596507.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -613,7 +609,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xb319782b6839a724/0x4ECC19F19DC897DB",
+      "_path": "shaderset/0xb319782b6839a724/0x4ECC19F19DC897DB.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4234000100D01",
@@ -624,17 +620,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xb319782b6839a724",
+      "_path": "0xb319782b6839a724.rpak",
       "$guid": "0xb319782b6839a724",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xb319782b6839a724/0xE50E3DADB0596507",
-      "pixelShader": "shaderset/0xb319782b6839a724/0x4ECC19F19DC897DB"
+      "vertexShader": "shaderset/0xb319782b6839a724/0xE50E3DADB0596507.rpak",
+      "pixelShader": "shaderset/0xb319782b6839a724/0x4ECC19F19DC897DB.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa807f8e155ec5c6/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xa807f8e155ec5c6/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -645,7 +641,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa807f8e155ec5c6/0x7EA17DD2302C30C6",
+      "_path": "shaderset/0xa807f8e155ec5c6/0x7EA17DD2302C30C6.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4034002000D01",
@@ -660,17 +656,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xa807f8e155ec5c6",
+      "_path": "0xa807f8e155ec5c6.rpak",
       "$guid": "0xa807f8e155ec5c6",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa807f8e155ec5c6/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xa807f8e155ec5c6/0x7EA17DD2302C30C6"
+      "vertexShader": "shaderset/0xa807f8e155ec5c6/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xa807f8e155ec5c6/0x7EA17DD2302C30C6.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x306605351f85574c/0xAABEA74FB08178EB",
+      "_path": "shaderset/0x306605351f85574c/0xAABEA74FB08178EB.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000201",
@@ -679,7 +675,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x306605351f85574c/0x72219EA3A4CB2E7E",
+      "_path": "shaderset/0x306605351f85574c/0x72219EA3A4CB2E7E.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4230000100D01",
@@ -690,17 +686,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x306605351f85574c",
+      "_path": "0x306605351f85574c.rpak",
       "$guid": "0x306605351f85574c",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x306605351f85574c/0xAABEA74FB08178EB",
-      "pixelShader": "shaderset/0x306605351f85574c/0x72219EA3A4CB2E7E"
+      "vertexShader": "shaderset/0x306605351f85574c/0xAABEA74FB08178EB.rpak",
+      "pixelShader": "shaderset/0x306605351f85574c/0x72219EA3A4CB2E7E.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x5483548ace13d0ad/0xBD79718F54D706F5",
+      "_path": "shaderset/0x5483548ace13d0ad/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -711,7 +707,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x5483548ace13d0ad/0x285DFBF59A53D6F8",
+      "_path": "shaderset/0x5483548ace13d0ad/0x285DFBF59A53D6F8.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -722,17 +718,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x5483548ace13d0ad",
+      "_path": "0x5483548ace13d0ad.rpak",
       "$guid": "0x5483548ace13d0ad",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x5483548ace13d0ad/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x5483548ace13d0ad/0x285DFBF59A53D6F8"
+      "vertexShader": "shaderset/0x5483548ace13d0ad/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x5483548ace13d0ad/0x285DFBF59A53D6F8.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x619403aadefd5db3/0x68C175CD8879399",
+      "_path": "shaderset/0x619403aadefd5db3/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -741,7 +737,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x619403aadefd5db3/0x17D8B474D7F54186",
+      "_path": "shaderset/0x619403aadefd5db3/0x17D8B474D7F54186.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4434002100D01",
@@ -752,17 +748,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x619403aadefd5db3",
+      "_path": "0x619403aadefd5db3.rpak",
       "$guid": "0x619403aadefd5db3",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x619403aadefd5db3/0x68C175CD8879399",
-      "pixelShader": "shaderset/0x619403aadefd5db3/0x17D8B474D7F54186"
+      "vertexShader": "shaderset/0x619403aadefd5db3/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x619403aadefd5db3/0x17D8B474D7F54186.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4360e6cf6f3fdbbe/0x91331CBED05BB181",
+      "_path": "shaderset/0x4360e6cf6f3fdbbe/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -773,7 +769,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4360e6cf6f3fdbbe/0x3407B2E2BC8358A6",
+      "_path": "shaderset/0x4360e6cf6f3fdbbe/0x3407B2E2BC8358A6.rpak",
       "$numPixelShaderTextures": 16,
       "inputFlags": [
         "0x4030002000D01",
@@ -788,17 +784,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x4360e6cf6f3fdbbe",
+      "_path": "0x4360e6cf6f3fdbbe.rpak",
       "$guid": "0x4360e6cf6f3fdbbe",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x4360e6cf6f3fdbbe/0x91331CBED05BB181",
-      "pixelShader": "shaderset/0x4360e6cf6f3fdbbe/0x3407B2E2BC8358A6"
+      "vertexShader": "shaderset/0x4360e6cf6f3fdbbe/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0x4360e6cf6f3fdbbe/0x3407B2E2BC8358A6.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x81b1357d694c34fb/0x68C175CD8879399",
+      "_path": "shaderset/0x81b1357d694c34fb/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -807,7 +803,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x81b1357d694c34fb/0x8E191660261EFB73",
+      "_path": "shaderset/0x81b1357d694c34fb/0x8E191660261EFB73.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4434002100D01",
@@ -818,17 +814,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x81b1357d694c34fb",
+      "_path": "0x81b1357d694c34fb.rpak",
       "$guid": "0x81b1357d694c34fb",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x81b1357d694c34fb/0x68C175CD8879399",
-      "pixelShader": "shaderset/0x81b1357d694c34fb/0x8E191660261EFB73"
+      "vertexShader": "shaderset/0x81b1357d694c34fb/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x81b1357d694c34fb/0x8E191660261EFB73.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x57f1043203fd45e1/0x8921AED67396752D",
+      "_path": "shaderset/0x57f1043203fd45e1/0x8921AED67396752D.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000002",
@@ -839,7 +835,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x57f1043203fd45e1/0x70129E9114F29C6E",
+      "_path": "shaderset/0x57f1043203fd45e1/0x70129E9114F29C6E.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4030002000001",
@@ -850,17 +846,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x57f1043203fd45e1",
+      "_path": "0x57f1043203fd45e1.rpak",
       "$guid": "0x57f1043203fd45e1",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x57f1043203fd45e1/0x8921AED67396752D",
-      "pixelShader": "shaderset/0x57f1043203fd45e1/0x70129E9114F29C6E"
+      "vertexShader": "shaderset/0x57f1043203fd45e1/0x8921AED67396752D.rpak",
+      "pixelShader": "shaderset/0x57f1043203fd45e1/0x70129E9114F29C6E.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x31f056c620e61127/0x8815107E59BA114B",
+      "_path": "shaderset/0x31f056c620e61127/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -871,7 +867,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x31f056c620e61127/0xD983D71FF6A3E0B",
+      "_path": "shaderset/0x31f056c620e61127/0xD983D71FF6A3E0B.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4030002000D01",
@@ -886,17 +882,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x31f056c620e61127",
+      "_path": "0x31f056c620e61127.rpak",
       "$guid": "0x31f056c620e61127",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x31f056c620e61127/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0x31f056c620e61127/0xD983D71FF6A3E0B"
+      "vertexShader": "shaderset/0x31f056c620e61127/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x31f056c620e61127/0xD983D71FF6A3E0B.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x10a156ac87cd432/0xCD68D7260A8CCD89",
+      "_path": "shaderset/0x10a156ac87cd432/0xCD68D7260A8CCD89.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000201",
@@ -905,7 +901,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x10a156ac87cd432/0x742FC75600C8AB8D",
+      "_path": "shaderset/0x10a156ac87cd432/0x742FC75600C8AB8D.rpak",
       "$numPixelShaderTextures": 7,
       "inputFlags": [
         "0x4430002100D01",
@@ -916,17 +912,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x10a156ac87cd432",
+      "_path": "0x10a156ac87cd432.rpak",
       "$guid": "0x10a156ac87cd432",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x10a156ac87cd432/0xCD68D7260A8CCD89",
-      "pixelShader": "shaderset/0x10a156ac87cd432/0x742FC75600C8AB8D"
+      "vertexShader": "shaderset/0x10a156ac87cd432/0xCD68D7260A8CCD89.rpak",
+      "pixelShader": "shaderset/0x10a156ac87cd432/0x742FC75600C8AB8D.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x6df499b9946f2f34/0xCD68D7260A8CCD89",
+      "_path": "shaderset/0x6df499b9946f2f34/0xCD68D7260A8CCD89.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000201",
@@ -935,7 +931,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x6df499b9946f2f34/0xCA9C6B046DBBE829",
+      "_path": "shaderset/0x6df499b9946f2f34/0xCA9C6B046DBBE829.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4430002100D01",
@@ -946,17 +942,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x6df499b9946f2f34",
+      "_path": "0x6df499b9946f2f34.rpak",
       "$guid": "0x6df499b9946f2f34",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x6df499b9946f2f34/0xCD68D7260A8CCD89",
-      "pixelShader": "shaderset/0x6df499b9946f2f34/0xCA9C6B046DBBE829"
+      "vertexShader": "shaderset/0x6df499b9946f2f34/0xCD68D7260A8CCD89.rpak",
+      "pixelShader": "shaderset/0x6df499b9946f2f34/0xCA9C6B046DBBE829.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4b19992983c87e11/0xBD79718F54D706F5",
+      "_path": "shaderset/0x4b19992983c87e11/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -967,7 +963,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4b19992983c87e11/0xD019AF6CD13CEB51",
+      "_path": "shaderset/0x4b19992983c87e11/0xD019AF6CD13CEB51.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4034002000D01",
@@ -982,17 +978,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x4b19992983c87e11",
+      "_path": "0x4b19992983c87e11.rpak",
       "$guid": "0x4b19992983c87e11",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x4b19992983c87e11/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x4b19992983c87e11/0xD019AF6CD13CEB51"
+      "vertexShader": "shaderset/0x4b19992983c87e11/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x4b19992983c87e11/0xD019AF6CD13CEB51.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3f9c021b04545deb/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0x3f9c021b04545deb/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1003,7 +999,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3f9c021b04545deb/0x991D5F18B4371E32",
+      "_path": "shaderset/0x3f9c021b04545deb/0x991D5F18B4371E32.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4034002000D01",
@@ -1018,17 +1014,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x3f9c021b04545deb",
+      "_path": "0x3f9c021b04545deb.rpak",
       "$guid": "0x3f9c021b04545deb",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x3f9c021b04545deb/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0x3f9c021b04545deb/0x991D5F18B4371E32"
+      "vertexShader": "shaderset/0x3f9c021b04545deb/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x3f9c021b04545deb/0x991D5F18B4371E32.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x25d8c6986cacc42b/0xBD79718F54D706F5",
+      "_path": "shaderset/0x25d8c6986cacc42b/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1039,7 +1035,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x25d8c6986cacc42b/0x56B8AD14DC545130",
+      "_path": "shaderset/0x25d8c6986cacc42b/0x56B8AD14DC545130.rpak",
       "$numPixelShaderTextures": 32,
       "inputFlags": [
         "0x4034002000D01",
@@ -1054,17 +1050,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x25d8c6986cacc42b",
+      "_path": "0x25d8c6986cacc42b.rpak",
       "$guid": "0x25d8c6986cacc42b",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x25d8c6986cacc42b/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x25d8c6986cacc42b/0x56B8AD14DC545130"
+      "vertexShader": "shaderset/0x25d8c6986cacc42b/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x25d8c6986cacc42b/0x56B8AD14DC545130.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x87e84c4baf796901/0x459F4C307153B294",
+      "_path": "shaderset/0x87e84c4baf796901/0x459F4C307153B294.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005212",
@@ -1075,7 +1071,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x87e84c4baf796901/0xD019AF6CD13CEB51",
+      "_path": "shaderset/0x87e84c4baf796901/0xD019AF6CD13CEB51.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4034002000D01",
@@ -1090,17 +1086,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x87e84c4baf796901",
+      "_path": "0x87e84c4baf796901.rpak",
       "$guid": "0x87e84c4baf796901",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x87e84c4baf796901/0x459F4C307153B294",
-      "pixelShader": "shaderset/0x87e84c4baf796901/0xD019AF6CD13CEB51"
+      "vertexShader": "shaderset/0x87e84c4baf796901/0x459F4C307153B294.rpak",
+      "pixelShader": "shaderset/0x87e84c4baf796901/0xD019AF6CD13CEB51.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x673ceb9fdba9452d/0xE50E3DADB0596507",
+      "_path": "shaderset/0x673ceb9fdba9452d/0xE50E3DADB0596507.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -1109,7 +1105,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x673ceb9fdba9452d/0x1916A18B8CFE0945",
+      "_path": "shaderset/0x673ceb9fdba9452d/0x1916A18B8CFE0945.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4234000100D01",
@@ -1120,17 +1116,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x673ceb9fdba9452d",
+      "_path": "0x673ceb9fdba9452d.rpak",
       "$guid": "0x673ceb9fdba9452d",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x673ceb9fdba9452d/0xE50E3DADB0596507",
-      "pixelShader": "shaderset/0x673ceb9fdba9452d/0x1916A18B8CFE0945"
+      "vertexShader": "shaderset/0x673ceb9fdba9452d/0xE50E3DADB0596507.rpak",
+      "pixelShader": "shaderset/0x673ceb9fdba9452d/0x1916A18B8CFE0945.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x505434c3816d44e5/0x91331CBED05BB181",
+      "_path": "shaderset/0x505434c3816d44e5/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -1141,7 +1137,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x505434c3816d44e5/0x31C06D745761EE40",
+      "_path": "shaderset/0x505434c3816d44e5/0x31C06D745761EE40.rpak",
       "$numPixelShaderTextures": 3,
       "inputFlags": [
         "0x4030002000D01",
@@ -1156,17 +1152,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x505434c3816d44e5",
+      "_path": "0x505434c3816d44e5.rpak",
       "$guid": "0x505434c3816d44e5",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x505434c3816d44e5/0x91331CBED05BB181",
-      "pixelShader": "shaderset/0x505434c3816d44e5/0x31C06D745761EE40"
+      "vertexShader": "shaderset/0x505434c3816d44e5/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0x505434c3816d44e5/0x31C06D745761EE40.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xdd544aa94943385a/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xdd544aa94943385a/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1177,7 +1173,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xdd544aa94943385a/0x1FD6F70AD9863E5",
+      "_path": "shaderset/0xdd544aa94943385a/0x1FD6F70AD9863E5.rpak",
       "$numPixelShaderTextures": 25,
       "inputFlags": [
         "0x4034002000D01",
@@ -1192,17 +1188,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xdd544aa94943385a",
+      "_path": "0xdd544aa94943385a.rpak",
       "$guid": "0xdd544aa94943385a",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xdd544aa94943385a/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xdd544aa94943385a/0x1FD6F70AD9863E5"
+      "vertexShader": "shaderset/0xdd544aa94943385a/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xdd544aa94943385a/0x1FD6F70AD9863E5.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfdc5ec12af6c548/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xfdc5ec12af6c548/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1213,7 +1209,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfdc5ec12af6c548/0x56B8AD14DC545130",
+      "_path": "shaderset/0xfdc5ec12af6c548/0x56B8AD14DC545130.rpak",
       "$numPixelShaderTextures": 32,
       "inputFlags": [
         "0x4034002000D01",
@@ -1228,17 +1224,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xfdc5ec12af6c548",
+      "_path": "0xfdc5ec12af6c548.rpak",
       "$guid": "0xfdc5ec12af6c548",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xfdc5ec12af6c548/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xfdc5ec12af6c548/0x56B8AD14DC545130"
+      "vertexShader": "shaderset/0xfdc5ec12af6c548/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xfdc5ec12af6c548/0x56B8AD14DC545130.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3efe329c2955bc31/0x68C175CD8879399",
+      "_path": "shaderset/0x3efe329c2955bc31/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -1247,7 +1243,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3efe329c2955bc31/0x75EE0DCC88084B9",
+      "_path": "shaderset/0x3efe329c2955bc31/0x75EE0DCC88084B9.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4434002100D01",
@@ -1256,17 +1252,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x3efe329c2955bc31",
+      "_path": "0x3efe329c2955bc31.rpak",
       "$guid": "0x3efe329c2955bc31",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x3efe329c2955bc31/0x68C175CD8879399",
-      "pixelShader": "shaderset/0x3efe329c2955bc31/0x75EE0DCC88084B9"
+      "vertexShader": "shaderset/0x3efe329c2955bc31/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x3efe329c2955bc31/0x75EE0DCC88084B9.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x6da66fad7081a1c6/0xBD79718F54D706F5",
+      "_path": "shaderset/0x6da66fad7081a1c6/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1277,7 +1273,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x6da66fad7081a1c6/0xFF83CBF2D2B59E6B",
+      "_path": "shaderset/0x6da66fad7081a1c6/0xFF83CBF2D2B59E6B.rpak",
       "$numPixelShaderTextures": 17,
       "inputFlags": [
         "0x4034002000D01",
@@ -1288,17 +1284,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x6da66fad7081a1c6",
+      "_path": "0x6da66fad7081a1c6.rpak",
       "$guid": "0x6da66fad7081a1c6",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x6da66fad7081a1c6/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x6da66fad7081a1c6/0xFF83CBF2D2B59E6B"
+      "vertexShader": "shaderset/0x6da66fad7081a1c6/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x6da66fad7081a1c6/0xFF83CBF2D2B59E6B.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x506e3d7e51bed744/0xCD68D7260A8CCD89",
+      "_path": "shaderset/0x506e3d7e51bed744/0xCD68D7260A8CCD89.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000201",
@@ -1307,7 +1303,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x506e3d7e51bed744/0xEF837C7C7D674BDF",
+      "_path": "shaderset/0x506e3d7e51bed744/0xEF837C7C7D674BDF.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4430002100D01",
@@ -1316,17 +1312,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x506e3d7e51bed744",
+      "_path": "0x506e3d7e51bed744.rpak",
       "$guid": "0x506e3d7e51bed744",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x506e3d7e51bed744/0xCD68D7260A8CCD89",
-      "pixelShader": "shaderset/0x506e3d7e51bed744/0xEF837C7C7D674BDF"
+      "vertexShader": "shaderset/0x506e3d7e51bed744/0xCD68D7260A8CCD89.rpak",
+      "pixelShader": "shaderset/0x506e3d7e51bed744/0xEF837C7C7D674BDF.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8048f672fea655e9/0xB8087791E688FB42",
+      "_path": "shaderset/0x8048f672fea655e9/0xB8087791E688FB42.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x211",
@@ -1337,7 +1333,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8048f672fea655e9/0x5B9B13651C689ECB",
+      "_path": "shaderset/0x8048f672fea655e9/0x5B9B13651C689ECB.rpak",
       "$numPixelShaderTextures": 17,
       "inputFlags": [
         "0x4034000000D01",
@@ -1348,17 +1344,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x8048f672fea655e9",
+      "_path": "0x8048f672fea655e9.rpak",
       "$guid": "0x8048f672fea655e9",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x8048f672fea655e9/0xB8087791E688FB42",
-      "pixelShader": "shaderset/0x8048f672fea655e9/0x5B9B13651C689ECB"
+      "vertexShader": "shaderset/0x8048f672fea655e9/0xB8087791E688FB42.rpak",
+      "pixelShader": "shaderset/0x8048f672fea655e9/0x5B9B13651C689ECB.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x169507f532f22d20/0x68C175CD8879399",
+      "_path": "shaderset/0x169507f532f22d20/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -1367,7 +1363,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x169507f532f22d20/0x36E96EBF2312E58B",
+      "_path": "shaderset/0x169507f532f22d20/0x36E96EBF2312E58B.rpak",
       "$numPixelShaderTextures": 17,
       "inputFlags": [
         "0x4434002100D01",
@@ -1376,17 +1372,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x169507f532f22d20",
+      "_path": "0x169507f532f22d20.rpak",
       "$guid": "0x169507f532f22d20",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x169507f532f22d20/0x68C175CD8879399",
-      "pixelShader": "shaderset/0x169507f532f22d20/0x36E96EBF2312E58B"
+      "vertexShader": "shaderset/0x169507f532f22d20/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x169507f532f22d20/0x36E96EBF2312E58B.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa8bd584ed811b360/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xa8bd584ed811b360/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1397,7 +1393,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa8bd584ed811b360/0x8739376B0B2063A",
+      "_path": "shaderset/0xa8bd584ed811b360/0x8739376B0B2063A.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -1408,17 +1404,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xa8bd584ed811b360",
+      "_path": "0xa8bd584ed811b360.rpak",
       "$guid": "0xa8bd584ed811b360",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa8bd584ed811b360/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xa8bd584ed811b360/0x8739376B0B2063A"
+      "vertexShader": "shaderset/0xa8bd584ed811b360/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xa8bd584ed811b360/0x8739376B0B2063A.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe9ad12091c9989ea/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xe9ad12091c9989ea/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1429,7 +1425,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe9ad12091c9989ea/0xC7C066DBE9C05F2C",
+      "_path": "shaderset/0xe9ad12091c9989ea/0xC7C066DBE9C05F2C.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -1440,17 +1436,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xe9ad12091c9989ea",
+      "_path": "0xe9ad12091c9989ea.rpak",
       "$guid": "0xe9ad12091c9989ea",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xe9ad12091c9989ea/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xe9ad12091c9989ea/0xC7C066DBE9C05F2C"
+      "vertexShader": "shaderset/0xe9ad12091c9989ea/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xe9ad12091c9989ea/0xC7C066DBE9C05F2C.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe9b205b776bfa1db/0xBD79718F54D706F5",
+      "_path": "shaderset/0xe9b205b776bfa1db/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1461,7 +1457,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe9b205b776bfa1db/0xC7C066DBE9C05F2C",
+      "_path": "shaderset/0xe9b205b776bfa1db/0xC7C066DBE9C05F2C.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -1472,17 +1468,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xe9b205b776bfa1db",
+      "_path": "0xe9b205b776bfa1db.rpak",
       "$guid": "0xe9b205b776bfa1db",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xe9b205b776bfa1db/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0xe9b205b776bfa1db/0xC7C066DBE9C05F2C"
+      "vertexShader": "shaderset/0xe9b205b776bfa1db/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xe9b205b776bfa1db/0xC7C066DBE9C05F2C.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfb1d1ceb3ececf0c/0x91331CBED05BB181",
+      "_path": "shaderset/0xfb1d1ceb3ececf0c/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -1493,7 +1489,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfb1d1ceb3ececf0c/0x4942680F9D10D664",
+      "_path": "shaderset/0xfb1d1ceb3ececf0c/0x4942680F9D10D664.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4030002000D01",
@@ -1504,17 +1500,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xfb1d1ceb3ececf0c",
+      "_path": "0xfb1d1ceb3ececf0c.rpak",
       "$guid": "0xfb1d1ceb3ececf0c",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xfb1d1ceb3ececf0c/0x91331CBED05BB181",
-      "pixelShader": "shaderset/0xfb1d1ceb3ececf0c/0x4942680F9D10D664"
+      "vertexShader": "shaderset/0xfb1d1ceb3ececf0c/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0xfb1d1ceb3ececf0c/0x4942680F9D10D664.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xeebb2568a4490d7a/0x91331CBED05BB181",
+      "_path": "shaderset/0xeebb2568a4490d7a/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -1525,7 +1521,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xeebb2568a4490d7a/0x11D7DF7F67E2BE6B",
+      "_path": "shaderset/0xeebb2568a4490d7a/0x11D7DF7F67E2BE6B.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4030002000D01",
@@ -1540,17 +1536,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xeebb2568a4490d7a",
+      "_path": "0xeebb2568a4490d7a.rpak",
       "$guid": "0xeebb2568a4490d7a",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xeebb2568a4490d7a/0x91331CBED05BB181",
-      "pixelShader": "shaderset/0xeebb2568a4490d7a/0x11D7DF7F67E2BE6B"
+      "vertexShader": "shaderset/0xeebb2568a4490d7a/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0xeebb2568a4490d7a/0x11D7DF7F67E2BE6B.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x849dadaaf83dd8cd/0x68C175CD8879399",
+      "_path": "shaderset/0x849dadaaf83dd8cd/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -1559,7 +1555,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x849dadaaf83dd8cd/0xA520F04B3D5A86AE",
+      "_path": "shaderset/0x849dadaaf83dd8cd/0xA520F04B3D5A86AE.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4434002100D01",
@@ -1570,17 +1566,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x849dadaaf83dd8cd",
+      "_path": "0x849dadaaf83dd8cd.rpak",
       "$guid": "0x849dadaaf83dd8cd",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x849dadaaf83dd8cd/0x68C175CD8879399",
-      "pixelShader": "shaderset/0x849dadaaf83dd8cd/0xA520F04B3D5A86AE"
+      "vertexShader": "shaderset/0x849dadaaf83dd8cd/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x849dadaaf83dd8cd/0xA520F04B3D5A86AE.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x708acb8d387917b3/0xBD79718F54D706F5",
+      "_path": "shaderset/0x708acb8d387917b3/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1591,7 +1587,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x708acb8d387917b3/0x5E95AF7510C1EB9F",
+      "_path": "shaderset/0x708acb8d387917b3/0x5E95AF7510C1EB9F.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -1606,17 +1602,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x708acb8d387917b3",
+      "_path": "0x708acb8d387917b3.rpak",
       "$guid": "0x708acb8d387917b3",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x708acb8d387917b3/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x708acb8d387917b3/0x5E95AF7510C1EB9F"
+      "vertexShader": "shaderset/0x708acb8d387917b3/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x708acb8d387917b3/0x5E95AF7510C1EB9F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x12a4e6185a7afb5/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0x12a4e6185a7afb5/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1627,7 +1623,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x12a4e6185a7afb5/0x5E95AF7510C1EB9F",
+      "_path": "shaderset/0x12a4e6185a7afb5/0x5E95AF7510C1EB9F.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -1642,17 +1638,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x12a4e6185a7afb5",
+      "_path": "0x12a4e6185a7afb5.rpak",
       "$guid": "0x12a4e6185a7afb5",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x12a4e6185a7afb5/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0x12a4e6185a7afb5/0x5E95AF7510C1EB9F"
+      "vertexShader": "shaderset/0x12a4e6185a7afb5/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x12a4e6185a7afb5/0x5E95AF7510C1EB9F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x20f4e9878e0ec262/0x68C175CD8879399",
+      "_path": "shaderset/0x20f4e9878e0ec262/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -1661,7 +1657,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x20f4e9878e0ec262/0xEEDD01EEC2DE0CD8",
+      "_path": "shaderset/0x20f4e9878e0ec262/0xEEDD01EEC2DE0CD8.rpak",
       "$numPixelShaderTextures": 3,
       "inputFlags": [
         "0x4434002100D01",
@@ -1670,17 +1666,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x20f4e9878e0ec262",
+      "_path": "0x20f4e9878e0ec262.rpak",
       "$guid": "0x20f4e9878e0ec262",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x20f4e9878e0ec262/0x68C175CD8879399",
-      "pixelShader": "shaderset/0x20f4e9878e0ec262/0xEEDD01EEC2DE0CD8"
+      "vertexShader": "shaderset/0x20f4e9878e0ec262/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x20f4e9878e0ec262/0xEEDD01EEC2DE0CD8.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3aa5f3cf71f3aa3e/0xBD79718F54D706F5",
+      "_path": "shaderset/0x3aa5f3cf71f3aa3e/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1691,7 +1687,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3aa5f3cf71f3aa3e/0xA1E2DBD3F92732BA",
+      "_path": "shaderset/0x3aa5f3cf71f3aa3e/0xA1E2DBD3F92732BA.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4034002000D01",
@@ -1706,17 +1702,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x3aa5f3cf71f3aa3e",
+      "_path": "0x3aa5f3cf71f3aa3e.rpak",
       "$guid": "0x3aa5f3cf71f3aa3e",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x3aa5f3cf71f3aa3e/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x3aa5f3cf71f3aa3e/0xA1E2DBD3F92732BA"
+      "vertexShader": "shaderset/0x3aa5f3cf71f3aa3e/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x3aa5f3cf71f3aa3e/0xA1E2DBD3F92732BA.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x84cc4d3db0e53d0d/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0x84cc4d3db0e53d0d/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1727,7 +1723,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x84cc4d3db0e53d0d/0xCF2642FD7C816EB5",
+      "_path": "shaderset/0x84cc4d3db0e53d0d/0xCF2642FD7C816EB5.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4034002000D01",
@@ -1742,17 +1738,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x84cc4d3db0e53d0d",
+      "_path": "0x84cc4d3db0e53d0d.rpak",
       "$guid": "0x84cc4d3db0e53d0d",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x84cc4d3db0e53d0d/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0x84cc4d3db0e53d0d/0xCF2642FD7C816EB5"
+      "vertexShader": "shaderset/0x84cc4d3db0e53d0d/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x84cc4d3db0e53d0d/0xCF2642FD7C816EB5.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfc497072329a393f/0x68C175CD8879399",
+      "_path": "shaderset/0xfc497072329a393f/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -1761,7 +1757,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfc497072329a393f/0xF0242EB2A199BB27",
+      "_path": "shaderset/0xfc497072329a393f/0xF0242EB2A199BB27.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4434002100D01",
@@ -1772,17 +1768,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xfc497072329a393f",
+      "_path": "0xfc497072329a393f.rpak",
       "$guid": "0xfc497072329a393f",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xfc497072329a393f/0x68C175CD8879399",
-      "pixelShader": "shaderset/0xfc497072329a393f/0xF0242EB2A199BB27"
+      "vertexShader": "shaderset/0xfc497072329a393f/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0xfc497072329a393f/0xF0242EB2A199BB27.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1310032f7fb762b0/0xBD79718F54D706F5",
+      "_path": "shaderset/0x1310032f7fb762b0/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1793,7 +1789,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1310032f7fb762b0/0x27EF4B487112DF88",
+      "_path": "shaderset/0x1310032f7fb762b0/0x27EF4B487112DF88.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4034002000D01",
@@ -1808,17 +1804,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x1310032f7fb762b0",
+      "_path": "0x1310032f7fb762b0.rpak",
       "$guid": "0x1310032f7fb762b0",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x1310032f7fb762b0/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x1310032f7fb762b0/0x27EF4B487112DF88"
+      "vertexShader": "shaderset/0x1310032f7fb762b0/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x1310032f7fb762b0/0x27EF4B487112DF88.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3c0821f74fade405/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0x3c0821f74fade405/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1829,7 +1825,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3c0821f74fade405/0xFC79C6661FEA3BEF",
+      "_path": "shaderset/0x3c0821f74fade405/0xFC79C6661FEA3BEF.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4034002000D01",
@@ -1840,17 +1836,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x3c0821f74fade405",
+      "_path": "0x3c0821f74fade405.rpak",
       "$guid": "0x3c0821f74fade405",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x3c0821f74fade405/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0x3c0821f74fade405/0xFC79C6661FEA3BEF"
+      "vertexShader": "shaderset/0x3c0821f74fade405/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x3c0821f74fade405/0xFC79C6661FEA3BEF.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1efe6d0bede9a74b/0x8573EE631D763748",
+      "_path": "shaderset/0x1efe6d0bede9a74b/0x8573EE631D763748.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1861,7 +1857,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1efe6d0bede9a74b/0xC8EE83CD6674B158",
+      "_path": "shaderset/0x1efe6d0bede9a74b/0xC8EE83CD6674B158.rpak",
       "$numPixelShaderTextures": 1,
       "inputFlags": [
         "0x34002000101",
@@ -1872,17 +1868,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x1efe6d0bede9a74b",
+      "_path": "0x1efe6d0bede9a74b.rpak",
       "$guid": "0x1efe6d0bede9a74b",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x1efe6d0bede9a74b/0x8573EE631D763748",
-      "pixelShader": "shaderset/0x1efe6d0bede9a74b/0xC8EE83CD6674B158"
+      "vertexShader": "shaderset/0x1efe6d0bede9a74b/0x8573EE631D763748.rpak",
+      "pixelShader": "shaderset/0x1efe6d0bede9a74b/0xC8EE83CD6674B158.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3bd7c1179ed36512/0xBD79718F54D706F5",
+      "_path": "shaderset/0x3bd7c1179ed36512/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1893,7 +1889,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3bd7c1179ed36512/0xAEC364004D8BB6B0",
+      "_path": "shaderset/0x3bd7c1179ed36512/0xAEC364004D8BB6B0.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -1908,17 +1904,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x3bd7c1179ed36512",
+      "_path": "0x3bd7c1179ed36512.rpak",
       "$guid": "0x3bd7c1179ed36512",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x3bd7c1179ed36512/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x3bd7c1179ed36512/0xAEC364004D8BB6B0"
+      "vertexShader": "shaderset/0x3bd7c1179ed36512/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x3bd7c1179ed36512/0xAEC364004D8BB6B0.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xcdf7f92a0e24e274/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xcdf7f92a0e24e274/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1929,7 +1925,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xcdf7f92a0e24e274/0xAEC364004D8BB6B0",
+      "_path": "shaderset/0xcdf7f92a0e24e274/0xAEC364004D8BB6B0.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -1944,17 +1940,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xcdf7f92a0e24e274",
+      "_path": "0xcdf7f92a0e24e274.rpak",
       "$guid": "0xcdf7f92a0e24e274",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xcdf7f92a0e24e274/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xcdf7f92a0e24e274/0xAEC364004D8BB6B0"
+      "vertexShader": "shaderset/0xcdf7f92a0e24e274/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xcdf7f92a0e24e274/0xAEC364004D8BB6B0.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe9d97b3b0d9cf9e3/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xe9d97b3b0d9cf9e3/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1965,7 +1961,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe9d97b3b0d9cf9e3/0x6F6A986762AD98A3",
+      "_path": "shaderset/0xe9d97b3b0d9cf9e3/0x6F6A986762AD98A3.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -1980,17 +1976,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xe9d97b3b0d9cf9e3",
+      "_path": "0xe9d97b3b0d9cf9e3.rpak",
       "$guid": "0xe9d97b3b0d9cf9e3",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xe9d97b3b0d9cf9e3/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xe9d97b3b0d9cf9e3/0x6F6A986762AD98A3"
+      "vertexShader": "shaderset/0xe9d97b3b0d9cf9e3/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xe9d97b3b0d9cf9e3/0x6F6A986762AD98A3.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x742bd0b022777101/0xBD79718F54D706F5",
+      "_path": "shaderset/0x742bd0b022777101/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -2001,7 +1997,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x742bd0b022777101/0x6C1BE984A4271803",
+      "_path": "shaderset/0x742bd0b022777101/0x6C1BE984A4271803.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -2016,17 +2012,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x742bd0b022777101",
+      "_path": "0x742bd0b022777101.rpak",
       "$guid": "0x742bd0b022777101",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x742bd0b022777101/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x742bd0b022777101/0x6C1BE984A4271803"
+      "vertexShader": "shaderset/0x742bd0b022777101/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x742bd0b022777101/0x6C1BE984A4271803.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x6f38226226050697/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0x6f38226226050697/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -2037,7 +2033,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x6f38226226050697/0x6C1BE984A4271803",
+      "_path": "shaderset/0x6f38226226050697/0x6C1BE984A4271803.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -2052,17 +2048,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x6f38226226050697",
+      "_path": "0x6f38226226050697.rpak",
       "$guid": "0x6f38226226050697",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x6f38226226050697/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0x6f38226226050697/0x6C1BE984A4271803"
+      "vertexShader": "shaderset/0x6f38226226050697/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x6f38226226050697/0x6C1BE984A4271803.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xeecd29893bae13d5/0xBD79718F54D706F5",
+      "_path": "shaderset/0xeecd29893bae13d5/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -2073,7 +2069,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xeecd29893bae13d5/0x6F6A986762AD98A3",
+      "_path": "shaderset/0xeecd29893bae13d5/0x6F6A986762AD98A3.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -2088,17 +2084,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xeecd29893bae13d5",
+      "_path": "0xeecd29893bae13d5.rpak",
       "$guid": "0xeecd29893bae13d5",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xeecd29893bae13d5/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0xeecd29893bae13d5/0x6F6A986762AD98A3"
+      "vertexShader": "shaderset/0xeecd29893bae13d5/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xeecd29893bae13d5/0x6F6A986762AD98A3.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8dc34c2f769e713f/0x68C175CD8879399",
+      "_path": "shaderset/0x8dc34c2f769e713f/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -2107,7 +2103,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8dc34c2f769e713f/0x463279A021F1CC18",
+      "_path": "shaderset/0x8dc34c2f769e713f/0x463279A021F1CC18.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4434002100D01",
@@ -2118,17 +2114,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x8dc34c2f769e713f",
+      "_path": "0x8dc34c2f769e713f.rpak",
       "$guid": "0x8dc34c2f769e713f",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x8dc34c2f769e713f/0x68C175CD8879399",
-      "pixelShader": "shaderset/0x8dc34c2f769e713f/0x463279A021F1CC18"
+      "vertexShader": "shaderset/0x8dc34c2f769e713f/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x8dc34c2f769e713f/0x463279A021F1CC18.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc644d738cecdeb6/0xBD79718F54D706F5",
+      "_path": "shaderset/0xc644d738cecdeb6/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -2139,7 +2135,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc644d738cecdeb6/0xE32F4BAD1E92592",
+      "_path": "shaderset/0xc644d738cecdeb6/0xE32F4BAD1E92592.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -2154,17 +2150,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xc644d738cecdeb6",
+      "_path": "0xc644d738cecdeb6.rpak",
       "$guid": "0xc644d738cecdeb6",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xc644d738cecdeb6/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0xc644d738cecdeb6/0xE32F4BAD1E92592"
+      "vertexShader": "shaderset/0xc644d738cecdeb6/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xc644d738cecdeb6/0xE32F4BAD1E92592.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf6b4d6a8b8710db3/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xf6b4d6a8b8710db3/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -2175,7 +2171,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf6b4d6a8b8710db3/0xE32F4BAD1E92592",
+      "_path": "shaderset/0xf6b4d6a8b8710db3/0xE32F4BAD1E92592.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -2190,17 +2186,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xf6b4d6a8b8710db3",
+      "_path": "0xf6b4d6a8b8710db3.rpak",
       "$guid": "0xf6b4d6a8b8710db3",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xf6b4d6a8b8710db3/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xf6b4d6a8b8710db3/0xE32F4BAD1E92592"
+      "vertexShader": "shaderset/0xf6b4d6a8b8710db3/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xf6b4d6a8b8710db3/0xE32F4BAD1E92592.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa6a4e372764f51b9/0x8815107E59BA114B",
+      "_path": "shaderset/0xa6a4e372764f51b9/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2211,7 +2207,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa6a4e372764f51b9/0x29FAC4F61753E0DD",
+      "_path": "shaderset/0xa6a4e372764f51b9/0x29FAC4F61753E0DD.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4030002000D01",
@@ -2226,17 +2222,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xa6a4e372764f51b9",
+      "_path": "0xa6a4e372764f51b9.rpak",
       "$guid": "0xa6a4e372764f51b9",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa6a4e372764f51b9/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0xa6a4e372764f51b9/0x29FAC4F61753E0DD"
+      "vertexShader": "shaderset/0xa6a4e372764f51b9/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0xa6a4e372764f51b9/0x29FAC4F61753E0DD.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4398e822617d40ca/0xCDAF0B7C0755A6DF",
+      "_path": "shaderset/0x4398e822617d40ca/0xCDAF0B7C0755A6DF.rpak",
       "$numVertexShaderTextures": 1,
       "inputFlags": [
         "0x79000211",
@@ -2245,7 +2241,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4398e822617d40ca/0x2F7421263A6A86BE",
+      "_path": "shaderset/0x4398e822617d40ca/0x2F7421263A6A86BE.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4430002100D01",
@@ -2256,17 +2252,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x4398e822617d40ca",
+      "_path": "0x4398e822617d40ca.rpak",
       "$guid": "0x4398e822617d40ca",
       "numSamplers": 4,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x4398e822617d40ca/0xCDAF0B7C0755A6DF",
-      "pixelShader": "shaderset/0x4398e822617d40ca/0x2F7421263A6A86BE"
+      "vertexShader": "shaderset/0x4398e822617d40ca/0xCDAF0B7C0755A6DF.rpak",
+      "pixelShader": "shaderset/0x4398e822617d40ca/0x2F7421263A6A86BE.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x238b586347a89c98/0xD14ED260E78DF33D",
+      "_path": "shaderset/0x238b586347a89c98/0xD14ED260E78DF33D.rpak",
       "$numVertexShaderTextures": 1,
       "inputFlags": [
         "0x2000212",
@@ -2277,7 +2273,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x238b586347a89c98/0xE935D15C4FA13FF8",
+      "_path": "shaderset/0x238b586347a89c98/0xE935D15C4FA13FF8.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4030002000D01",
@@ -2292,17 +2288,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x238b586347a89c98",
+      "_path": "0x238b586347a89c98.rpak",
       "$guid": "0x238b586347a89c98",
       "numSamplers": 4,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x238b586347a89c98/0xD14ED260E78DF33D",
-      "pixelShader": "shaderset/0x238b586347a89c98/0xE935D15C4FA13FF8"
+      "vertexShader": "shaderset/0x238b586347a89c98/0xD14ED260E78DF33D.rpak",
+      "pixelShader": "shaderset/0x238b586347a89c98/0xE935D15C4FA13FF8.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xdbf5268a701fea0b/0xCD68D7260A8CCD89",
+      "_path": "shaderset/0xdbf5268a701fea0b/0xCD68D7260A8CCD89.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000201",
@@ -2311,7 +2307,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xdbf5268a701fea0b/0xCEDBB72ED0F01E1",
+      "_path": "shaderset/0xdbf5268a701fea0b/0xCEDBB72ED0F01E1.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4430002100D01",
@@ -2322,17 +2318,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xdbf5268a701fea0b",
+      "_path": "0xdbf5268a701fea0b.rpak",
       "$guid": "0xdbf5268a701fea0b",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xdbf5268a701fea0b/0xCD68D7260A8CCD89",
-      "pixelShader": "shaderset/0xdbf5268a701fea0b/0xCEDBB72ED0F01E1"
+      "vertexShader": "shaderset/0xdbf5268a701fea0b/0xCD68D7260A8CCD89.rpak",
+      "pixelShader": "shaderset/0xdbf5268a701fea0b/0xCEDBB72ED0F01E1.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8a459d6acc67eb5f/0x8815107E59BA114B",
+      "_path": "shaderset/0x8a459d6acc67eb5f/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2343,7 +2339,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8a459d6acc67eb5f/0x5E2CF1E1D88C5DAF",
+      "_path": "shaderset/0x8a459d6acc67eb5f/0x5E2CF1E1D88C5DAF.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4030002000D01",
@@ -2358,17 +2354,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x8a459d6acc67eb5f",
+      "_path": "0x8a459d6acc67eb5f.rpak",
       "$guid": "0x8a459d6acc67eb5f",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x8a459d6acc67eb5f/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0x8a459d6acc67eb5f/0x5E2CF1E1D88C5DAF"
+      "vertexShader": "shaderset/0x8a459d6acc67eb5f/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x8a459d6acc67eb5f/0x5E2CF1E1D88C5DAF.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfeafd97f05317198/0xAE5089388F3F295B",
+      "_path": "shaderset/0xfeafd97f05317198/0xAE5089388F3F295B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x212",
@@ -2379,7 +2375,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfeafd97f05317198/0x1B3A08728C3B5B9F",
+      "_path": "shaderset/0xfeafd97f05317198/0x1B3A08728C3B5B9F.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034000000D01",
@@ -2394,17 +2390,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xfeafd97f05317198",
+      "_path": "0xfeafd97f05317198.rpak",
       "$guid": "0xfeafd97f05317198",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xfeafd97f05317198/0xAE5089388F3F295B",
-      "pixelShader": "shaderset/0xfeafd97f05317198/0x1B3A08728C3B5B9F"
+      "vertexShader": "shaderset/0xfeafd97f05317198/0xAE5089388F3F295B.rpak",
+      "pixelShader": "shaderset/0xfeafd97f05317198/0x1B3A08728C3B5B9F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd5c8b905a4e1270a/0x5A775C1518F9173E",
+      "_path": "shaderset/0xd5c8b905a4e1270a/0x5A775C1518F9173E.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000012",
@@ -2415,7 +2411,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd5c8b905a4e1270a/0xE160591B2895A4ED",
+      "_path": "shaderset/0xd5c8b905a4e1270a/0xE160591B2895A4ED.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000001",
@@ -2426,17 +2422,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xd5c8b905a4e1270a",
+      "_path": "0xd5c8b905a4e1270a.rpak",
       "$guid": "0xd5c8b905a4e1270a",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xd5c8b905a4e1270a/0x5A775C1518F9173E",
-      "pixelShader": "shaderset/0xd5c8b905a4e1270a/0xE160591B2895A4ED"
+      "vertexShader": "shaderset/0xd5c8b905a4e1270a/0x5A775C1518F9173E.rpak",
+      "pixelShader": "shaderset/0xd5c8b905a4e1270a/0xE160591B2895A4ED.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3f53b1699a0acb3e/0x77A6886291F28DA1",
+      "_path": "shaderset/0x3f53b1699a0acb3e/0x77A6886291F28DA1.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -2447,7 +2443,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3f53b1699a0acb3e/0x1BE686FC63A75D34",
+      "_path": "shaderset/0x3f53b1699a0acb3e/0x1BE686FC63A75D34.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000101",
@@ -2458,17 +2454,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x3f53b1699a0acb3e",
+      "_path": "0x3f53b1699a0acb3e.rpak",
       "$guid": "0x3f53b1699a0acb3e",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x3f53b1699a0acb3e/0x77A6886291F28DA1",
-      "pixelShader": "shaderset/0x3f53b1699a0acb3e/0x1BE686FC63A75D34"
+      "vertexShader": "shaderset/0x3f53b1699a0acb3e/0x77A6886291F28DA1.rpak",
+      "pixelShader": "shaderset/0x3f53b1699a0acb3e/0x1BE686FC63A75D34.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf89ab9c5d6451e3e/0x91331CBED05BB181",
+      "_path": "shaderset/0xf89ab9c5d6451e3e/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -2479,7 +2475,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf89ab9c5d6451e3e/0x300C2E6B82D9F970",
+      "_path": "shaderset/0xf89ab9c5d6451e3e/0x300C2E6B82D9F970.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4030002000D01",
@@ -2494,17 +2490,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xf89ab9c5d6451e3e",
+      "_path": "0xf89ab9c5d6451e3e.rpak",
       "$guid": "0xf89ab9c5d6451e3e",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xf89ab9c5d6451e3e/0x91331CBED05BB181",
-      "pixelShader": "shaderset/0xf89ab9c5d6451e3e/0x300C2E6B82D9F970"
+      "vertexShader": "shaderset/0xf89ab9c5d6451e3e/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0xf89ab9c5d6451e3e/0x300C2E6B82D9F970.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xb7e65560b6023fd/0x8815107E59BA114B",
+      "_path": "shaderset/0xb7e65560b6023fd/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2515,7 +2511,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xb7e65560b6023fd/0xA06FB61400E96641",
+      "_path": "shaderset/0xb7e65560b6023fd/0xA06FB61400E96641.rpak",
       "$numPixelShaderTextures": 7,
       "inputFlags": [
         "0x4030002000D01",
@@ -2530,17 +2526,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xb7e65560b6023fd",
+      "_path": "0xb7e65560b6023fd.rpak",
       "$guid": "0xb7e65560b6023fd",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xb7e65560b6023fd/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0xb7e65560b6023fd/0xA06FB61400E96641"
+      "vertexShader": "shaderset/0xb7e65560b6023fd/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0xb7e65560b6023fd/0xA06FB61400E96641.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd594c12bebf52f2f/0x8815107E59BA114B",
+      "_path": "shaderset/0xd594c12bebf52f2f/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2551,7 +2547,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd594c12bebf52f2f/0xD1241553CBFF3C8A",
+      "_path": "shaderset/0xd594c12bebf52f2f/0xD1241553CBFF3C8A.rpak",
       "$numPixelShaderTextures": 5,
       "inputFlags": [
         "0x4030002000D01",
@@ -2566,17 +2562,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xd594c12bebf52f2f",
+      "_path": "0xd594c12bebf52f2f.rpak",
       "$guid": "0xd594c12bebf52f2f",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xd594c12bebf52f2f/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0xd594c12bebf52f2f/0xD1241553CBFF3C8A"
+      "vertexShader": "shaderset/0xd594c12bebf52f2f/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0xd594c12bebf52f2f/0xD1241553CBFF3C8A.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x30e77abfcd8e81e0/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0x30e77abfcd8e81e0/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -2587,7 +2583,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x30e77abfcd8e81e0/0x11714DD4BA4C4490",
+      "_path": "shaderset/0x30e77abfcd8e81e0/0x11714DD4BA4C4490.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4034002000D01",
@@ -2602,17 +2598,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x30e77abfcd8e81e0",
+      "_path": "0x30e77abfcd8e81e0.rpak",
       "$guid": "0x30e77abfcd8e81e0",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x30e77abfcd8e81e0/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0x30e77abfcd8e81e0/0x11714DD4BA4C4490"
+      "vertexShader": "shaderset/0x30e77abfcd8e81e0/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x30e77abfcd8e81e0/0x11714DD4BA4C4490.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x30ec6e6e0ee5420d/0xBD79718F54D706F5",
+      "_path": "shaderset/0x30ec6e6e0ee5420d/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -2623,7 +2619,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x30ec6e6e0ee5420d/0x11714DD4BA4C4490",
+      "_path": "shaderset/0x30ec6e6e0ee5420d/0x11714DD4BA4C4490.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4034002000D01",
@@ -2638,17 +2634,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x30ec6e6e0ee5420d",
+      "_path": "0x30ec6e6e0ee5420d.rpak",
       "$guid": "0x30ec6e6e0ee5420d",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x30ec6e6e0ee5420d/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x30ec6e6e0ee5420d/0x11714DD4BA4C4490"
+      "vertexShader": "shaderset/0x30ec6e6e0ee5420d/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x30ec6e6e0ee5420d/0x11714DD4BA4C4490.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x26baf7eedc1e8b4e/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0x26baf7eedc1e8b4e/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -2659,7 +2655,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x26baf7eedc1e8b4e/0x7F799AE4D3E8FB78",
+      "_path": "shaderset/0x26baf7eedc1e8b4e/0x7F799AE4D3E8FB78.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4034002000D01",
@@ -2674,17 +2670,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x26baf7eedc1e8b4e",
+      "_path": "0x26baf7eedc1e8b4e.rpak",
       "$guid": "0x26baf7eedc1e8b4e",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x26baf7eedc1e8b4e/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0x26baf7eedc1e8b4e/0x7F799AE4D3E8FB78"
+      "vertexShader": "shaderset/0x26baf7eedc1e8b4e/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x26baf7eedc1e8b4e/0x7F799AE4D3E8FB78.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x26bfeb9d1d754b7b/0xBD79718F54D706F5",
+      "_path": "shaderset/0x26bfeb9d1d754b7b/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -2695,7 +2691,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x26bfeb9d1d754b7b/0x7F799AE4D3E8FB78",
+      "_path": "shaderset/0x26bfeb9d1d754b7b/0x7F799AE4D3E8FB78.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4034002000D01",
@@ -2710,17 +2706,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x26bfeb9d1d754b7b",
+      "_path": "0x26bfeb9d1d754b7b.rpak",
       "$guid": "0x26bfeb9d1d754b7b",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x26bfeb9d1d754b7b/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x26bfeb9d1d754b7b/0x7F799AE4D3E8FB78"
+      "vertexShader": "shaderset/0x26bfeb9d1d754b7b/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x26bfeb9d1d754b7b/0x7F799AE4D3E8FB78.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc412371443b7d5e3/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xc412371443b7d5e3/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -2731,7 +2727,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc412371443b7d5e3/0xCD60FF5E05B238C0",
+      "_path": "shaderset/0xc412371443b7d5e3/0xCD60FF5E05B238C0.rpak",
       "$numPixelShaderTextures": 3,
       "inputFlags": [
         "0x4034002000D01",
@@ -2746,17 +2742,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xc412371443b7d5e3",
+      "_path": "0xc412371443b7d5e3.rpak",
       "$guid": "0xc412371443b7d5e3",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xc412371443b7d5e3/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xc412371443b7d5e3/0xCD60FF5E05B238C0"
+      "vertexShader": "shaderset/0xc412371443b7d5e3/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xc412371443b7d5e3/0xCD60FF5E05B238C0.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x75ab3c79b6cb8ee8/0x8815107E59BA114B",
+      "_path": "shaderset/0x75ab3c79b6cb8ee8/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2767,7 +2763,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x75ab3c79b6cb8ee8/0x79DDD2DDFF5F0E34",
+      "_path": "shaderset/0x75ab3c79b6cb8ee8/0x79DDD2DDFF5F0E34.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4030002000D01",
@@ -2782,17 +2778,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x75ab3c79b6cb8ee8",
+      "_path": "0x75ab3c79b6cb8ee8.rpak",
       "$guid": "0x75ab3c79b6cb8ee8",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x75ab3c79b6cb8ee8/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0x75ab3c79b6cb8ee8/0x79DDD2DDFF5F0E34"
+      "vertexShader": "shaderset/0x75ab3c79b6cb8ee8/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x75ab3c79b6cb8ee8/0x79DDD2DDFF5F0E34.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x40a3e4bf961c27c/0x8815107E59BA114B",
+      "_path": "shaderset/0x40a3e4bf961c27c/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2803,7 +2799,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x40a3e4bf961c27c/0x40D52A521585184A",
+      "_path": "shaderset/0x40a3e4bf961c27c/0x40D52A521585184A.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4030002000D01",
@@ -2814,17 +2810,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x40a3e4bf961c27c",
+      "_path": "0x40a3e4bf961c27c.rpak",
       "$guid": "0x40a3e4bf961c27c",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x40a3e4bf961c27c/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0x40a3e4bf961c27c/0x40D52A521585184A"
+      "vertexShader": "shaderset/0x40a3e4bf961c27c/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x40a3e4bf961c27c/0x40D52A521585184A.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x36627716165fc7da/0x8815107E59BA114B",
+      "_path": "shaderset/0x36627716165fc7da/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2835,7 +2831,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x36627716165fc7da/0x9996FB2101AB4F75",
+      "_path": "shaderset/0x36627716165fc7da/0x9996FB2101AB4F75.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4030002000D01",
@@ -2850,17 +2846,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x36627716165fc7da",
+      "_path": "0x36627716165fc7da.rpak",
       "$guid": "0x36627716165fc7da",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x36627716165fc7da/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0x36627716165fc7da/0x9996FB2101AB4F75"
+      "vertexShader": "shaderset/0x36627716165fc7da/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x36627716165fc7da/0x9996FB2101AB4F75.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x468a9cf884496adc/0x8815107E59BA114B",
+      "_path": "shaderset/0x468a9cf884496adc/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2871,7 +2867,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x468a9cf884496adc/0xCCF1AD35F331C8B",
+      "_path": "shaderset/0x468a9cf884496adc/0xCCF1AD35F331C8B.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4030002000D01",
@@ -2886,17 +2882,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x468a9cf884496adc",
+      "_path": "0x468a9cf884496adc.rpak",
       "$guid": "0x468a9cf884496adc",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x468a9cf884496adc/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0x468a9cf884496adc/0xCCF1AD35F331C8B"
+      "vertexShader": "shaderset/0x468a9cf884496adc/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x468a9cf884496adc/0xCCF1AD35F331C8B.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xaa79c8c1cb4f74e1/0x8815107E59BA114B",
+      "_path": "shaderset/0xaa79c8c1cb4f74e1/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2907,7 +2903,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xaa79c8c1cb4f74e1/0xAB19883876DDE159",
+      "_path": "shaderset/0xaa79c8c1cb4f74e1/0xAB19883876DDE159.rpak",
       "$numPixelShaderTextures": 11,
       "inputFlags": [
         "0x4030002000D01",
@@ -2918,17 +2914,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xaa79c8c1cb4f74e1",
+      "_path": "0xaa79c8c1cb4f74e1.rpak",
       "$guid": "0xaa79c8c1cb4f74e1",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xaa79c8c1cb4f74e1/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0xaa79c8c1cb4f74e1/0xAB19883876DDE159"
+      "vertexShader": "shaderset/0xaa79c8c1cb4f74e1/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0xaa79c8c1cb4f74e1/0xAB19883876DDE159.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xab99ba98d20a73b1/0x8815107E59BA114B",
+      "_path": "shaderset/0xab99ba98d20a73b1/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2939,7 +2935,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xab99ba98d20a73b1/0x20AA3E0C58330A65",
+      "_path": "shaderset/0xab99ba98d20a73b1/0x20AA3E0C58330A65.rpak",
       "$numPixelShaderTextures": 11,
       "inputFlags": [
         "0x4030002000D01",
@@ -2954,17 +2950,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xab99ba98d20a73b1",
+      "_path": "0xab99ba98d20a73b1.rpak",
       "$guid": "0xab99ba98d20a73b1",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xab99ba98d20a73b1/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0xab99ba98d20a73b1/0x20AA3E0C58330A65"
+      "vertexShader": "shaderset/0xab99ba98d20a73b1/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0xab99ba98d20a73b1/0x20AA3E0C58330A65.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc5c7ad158e8ce42b/0x8815107E59BA114B",
+      "_path": "shaderset/0xc5c7ad158e8ce42b/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2975,7 +2971,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc5c7ad158e8ce42b/0xC57BA7775FF8856E",
+      "_path": "shaderset/0xc5c7ad158e8ce42b/0xC57BA7775FF8856E.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4030002000D01",
@@ -2990,17 +2986,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xc5c7ad158e8ce42b",
+      "_path": "0xc5c7ad158e8ce42b.rpak",
       "$guid": "0xc5c7ad158e8ce42b",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xc5c7ad158e8ce42b/0x8815107E59BA114B",
-      "pixelShader": "shaderset/0xc5c7ad158e8ce42b/0xC57BA7775FF8856E"
+      "vertexShader": "shaderset/0xc5c7ad158e8ce42b/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0xc5c7ad158e8ce42b/0xC57BA7775FF8856E.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xaa04d94513644c9e/0xB8087791E688FB42",
+      "_path": "shaderset/0xaa04d94513644c9e/0xB8087791E688FB42.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x211",
@@ -3011,7 +3007,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xaa04d94513644c9e/0xCDD837CA3E22DD9",
+      "_path": "shaderset/0xaa04d94513644c9e/0xCDD837CA3E22DD9.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034000000D01",
@@ -3026,17 +3022,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xaa04d94513644c9e",
+      "_path": "0xaa04d94513644c9e.rpak",
       "$guid": "0xaa04d94513644c9e",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xaa04d94513644c9e/0xB8087791E688FB42",
-      "pixelShader": "shaderset/0xaa04d94513644c9e/0xCDD837CA3E22DD9"
+      "vertexShader": "shaderset/0xaa04d94513644c9e/0xB8087791E688FB42.rpak",
+      "pixelShader": "shaderset/0xaa04d94513644c9e/0xCDD837CA3E22DD9.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x81bf0c4ba29a02a0/0xE50E3DADB0596507",
+      "_path": "shaderset/0x81bf0c4ba29a02a0/0xE50E3DADB0596507.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -3045,7 +3041,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x81bf0c4ba29a02a0/0xC62AC73D5AE5B622",
+      "_path": "shaderset/0x81bf0c4ba29a02a0/0xC62AC73D5AE5B622.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4234000100D01",
@@ -3056,17 +3052,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x81bf0c4ba29a02a0",
+      "_path": "0x81bf0c4ba29a02a0.rpak",
       "$guid": "0x81bf0c4ba29a02a0",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x81bf0c4ba29a02a0/0xE50E3DADB0596507",
-      "pixelShader": "shaderset/0x81bf0c4ba29a02a0/0xC62AC73D5AE5B622"
+      "vertexShader": "shaderset/0x81bf0c4ba29a02a0/0xE50E3DADB0596507.rpak",
+      "pixelShader": "shaderset/0x81bf0c4ba29a02a0/0xC62AC73D5AE5B622.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8d3a1e54263521b5/0xE50E3DADB0596507",
+      "_path": "shaderset/0x8d3a1e54263521b5/0xE50E3DADB0596507.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -3075,7 +3071,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8d3a1e54263521b5/0xE9D148FB31C3A33F",
+      "_path": "shaderset/0x8d3a1e54263521b5/0xE9D148FB31C3A33F.rpak",
       "$numPixelShaderTextures": 17,
       "inputFlags": [
         "0x4234000100D01",
@@ -3084,17 +3080,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x8d3a1e54263521b5",
+      "_path": "0x8d3a1e54263521b5.rpak",
       "$guid": "0x8d3a1e54263521b5",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x8d3a1e54263521b5/0xE50E3DADB0596507",
-      "pixelShader": "shaderset/0x8d3a1e54263521b5/0xE9D148FB31C3A33F"
+      "vertexShader": "shaderset/0x8d3a1e54263521b5/0xE50E3DADB0596507.rpak",
+      "pixelShader": "shaderset/0x8d3a1e54263521b5/0xE9D148FB31C3A33F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x37e8fdc125e09b50/0xB8087791E688FB42",
+      "_path": "shaderset/0x37e8fdc125e09b50/0xB8087791E688FB42.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x211",
@@ -3105,7 +3101,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x37e8fdc125e09b50/0xFA098AD5CABDB5B2",
+      "_path": "shaderset/0x37e8fdc125e09b50/0xFA098AD5CABDB5B2.rpak",
       "$numPixelShaderTextures": 17,
       "inputFlags": [
         "0x4034000000D01",
@@ -3116,17 +3112,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x37e8fdc125e09b50",
+      "_path": "0x37e8fdc125e09b50.rpak",
       "$guid": "0x37e8fdc125e09b50",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x37e8fdc125e09b50/0xB8087791E688FB42",
-      "pixelShader": "shaderset/0x37e8fdc125e09b50/0xFA098AD5CABDB5B2"
+      "vertexShader": "shaderset/0x37e8fdc125e09b50/0xB8087791E688FB42.rpak",
+      "pixelShader": "shaderset/0x37e8fdc125e09b50/0xFA098AD5CABDB5B2.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf4621bb6932d59cf/0x68C175CD8879399",
+      "_path": "shaderset/0xf4621bb6932d59cf/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -3135,7 +3131,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf4621bb6932d59cf/0x3EDA56882833B467",
+      "_path": "shaderset/0xf4621bb6932d59cf/0x3EDA56882833B467.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4434002100D01",
@@ -3146,17 +3142,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xf4621bb6932d59cf",
+      "_path": "0xf4621bb6932d59cf.rpak",
       "$guid": "0xf4621bb6932d59cf",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xf4621bb6932d59cf/0x68C175CD8879399",
-      "pixelShader": "shaderset/0xf4621bb6932d59cf/0x3EDA56882833B467"
+      "vertexShader": "shaderset/0xf4621bb6932d59cf/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0xf4621bb6932d59cf/0x3EDA56882833B467.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xcc9e1af2e7726b57/0xBD79718F54D706F5",
+      "_path": "shaderset/0xcc9e1af2e7726b57/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -3167,7 +3163,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xcc9e1af2e7726b57/0xA3C6A111BF932D78",
+      "_path": "shaderset/0xcc9e1af2e7726b57/0xA3C6A111BF932D78.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4034002000D01",
@@ -3182,17 +3178,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xcc9e1af2e7726b57",
+      "_path": "0xcc9e1af2e7726b57.rpak",
       "$guid": "0xcc9e1af2e7726b57",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xcc9e1af2e7726b57/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0xcc9e1af2e7726b57/0xA3C6A111BF932D78"
+      "vertexShader": "shaderset/0xcc9e1af2e7726b57/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xcc9e1af2e7726b57/0xA3C6A111BF932D78.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd3434aeae8ac5a9b/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0xd3434aeae8ac5a9b/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -3203,7 +3199,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd3434aeae8ac5a9b/0xEF14E0BCE8DFEB9C",
+      "_path": "shaderset/0xd3434aeae8ac5a9b/0xEF14E0BCE8DFEB9C.rpak",
       "$numPixelShaderTextures": 7,
       "inputFlags": [
         "0x4034002000D01",
@@ -3218,17 +3214,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xd3434aeae8ac5a9b",
+      "_path": "0xd3434aeae8ac5a9b.rpak",
       "$guid": "0xd3434aeae8ac5a9b",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xd3434aeae8ac5a9b/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0xd3434aeae8ac5a9b/0xEF14E0BCE8DFEB9C"
+      "vertexShader": "shaderset/0xd3434aeae8ac5a9b/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xd3434aeae8ac5a9b/0xEF14E0BCE8DFEB9C.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x28946b7dfb9c62d3/0x68C175CD8879399",
+      "_path": "shaderset/0x28946b7dfb9c62d3/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -3237,7 +3233,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x28946b7dfb9c62d3/0xC048D324316AD0DA",
+      "_path": "shaderset/0x28946b7dfb9c62d3/0xC048D324316AD0DA.rpak",
       "$numPixelShaderTextures": 7,
       "inputFlags": [
         "0x4434002100D01",
@@ -3248,17 +3244,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x28946b7dfb9c62d3",
+      "_path": "0x28946b7dfb9c62d3.rpak",
       "$guid": "0x28946b7dfb9c62d3",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x28946b7dfb9c62d3/0x68C175CD8879399",
-      "pixelShader": "shaderset/0x28946b7dfb9c62d3/0xC048D324316AD0DA"
+      "vertexShader": "shaderset/0x28946b7dfb9c62d3/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x28946b7dfb9c62d3/0xC048D324316AD0DA.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x28ea5ce728a2e14a/0xBD79718F54D706F5",
+      "_path": "shaderset/0x28ea5ce728a2e14a/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -3269,7 +3265,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x28ea5ce728a2e14a/0xB79DD7A8D488B63F",
+      "_path": "shaderset/0x28ea5ce728a2e14a/0xB79DD7A8D488B63F.rpak",
       "$numPixelShaderTextures": 3,
       "inputFlags": [
         "0x4034002000D01",
@@ -3280,17 +3276,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x28ea5ce728a2e14a",
+      "_path": "0x28ea5ce728a2e14a.rpak",
       "$guid": "0x28ea5ce728a2e14a",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x28ea5ce728a2e14a/0xBD79718F54D706F5",
-      "pixelShader": "shaderset/0x28ea5ce728a2e14a/0xB79DD7A8D488B63F"
+      "vertexShader": "shaderset/0x28ea5ce728a2e14a/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x28ea5ce728a2e14a/0xB79DD7A8D488B63F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x12edf50ff3548e49/0xC6977DCFE447FEEF",
+      "_path": "shaderset/0x12edf50ff3548e49/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -3301,7 +3297,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x12edf50ff3548e49/0xB79DD7A8D488B63F",
+      "_path": "shaderset/0x12edf50ff3548e49/0xB79DD7A8D488B63F.rpak",
       "$numPixelShaderTextures": 3,
       "inputFlags": [
         "0x4034002000D01",
@@ -3312,17 +3308,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x12edf50ff3548e49",
+      "_path": "0x12edf50ff3548e49.rpak",
       "$guid": "0x12edf50ff3548e49",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x12edf50ff3548e49/0xC6977DCFE447FEEF",
-      "pixelShader": "shaderset/0x12edf50ff3548e49/0xB79DD7A8D488B63F"
+      "vertexShader": "shaderset/0x12edf50ff3548e49/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x12edf50ff3548e49/0xB79DD7A8D488B63F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xea95a171294d15dd/0x94E818BD72ED7F13",
+      "_path": "shaderset/0xea95a171294d15dd/0x94E818BD72ED7F13.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000011",
@@ -3333,7 +3329,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xea95a171294d15dd/0x7877ADD9FCDE0CF1",
+      "_path": "shaderset/0xea95a171294d15dd/0x7877ADD9FCDE0CF1.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000001",
@@ -3344,17 +3340,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xea95a171294d15dd",
+      "_path": "0xea95a171294d15dd.rpak",
       "$guid": "0xea95a171294d15dd",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xea95a171294d15dd/0x94E818BD72ED7F13",
-      "pixelShader": "shaderset/0xea95a171294d15dd/0x7877ADD9FCDE0CF1"
+      "vertexShader": "shaderset/0xea95a171294d15dd/0x94E818BD72ED7F13.rpak",
+      "pixelShader": "shaderset/0xea95a171294d15dd/0x7877ADD9FCDE0CF1.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc8e3a5dda497b9dd/0xCA33BE78F498168B",
+      "_path": "shaderset/0xc8e3a5dda497b9dd/0xCA33BE78F498168B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005202",
@@ -3365,7 +3361,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc8e3a5dda497b9dd/0xBD534FFEDBCBBEEF",
+      "_path": "shaderset/0xc8e3a5dda497b9dd/0xBD534FFEDBCBBEEF.rpak",
       "$numPixelShaderTextures": 12,
       "inputFlags": [
         "0x4030002000101",
@@ -3380,17 +3376,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xc8e3a5dda497b9dd",
+      "_path": "0xc8e3a5dda497b9dd.rpak",
       "$guid": "0xc8e3a5dda497b9dd",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xc8e3a5dda497b9dd/0xCA33BE78F498168B",
-      "pixelShader": "shaderset/0xc8e3a5dda497b9dd/0xBD534FFEDBCBBEEF"
+      "vertexShader": "shaderset/0xc8e3a5dda497b9dd/0xCA33BE78F498168B.rpak",
+      "pixelShader": "shaderset/0xc8e3a5dda497b9dd/0xBD534FFEDBCBBEEF.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa0d426ef7ad1b0d4/0x119527D74F210987",
+      "_path": "shaderset/0xa0d426ef7ad1b0d4/0x119527D74F210987.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005202",
@@ -3401,7 +3397,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa0d426ef7ad1b0d4/0x40D52A521585184A",
+      "_path": "shaderset/0xa0d426ef7ad1b0d4/0x40D52A521585184A.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4030002000D01",
@@ -3412,17 +3408,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xa0d426ef7ad1b0d4",
+      "_path": "0xa0d426ef7ad1b0d4.rpak",
       "$guid": "0xa0d426ef7ad1b0d4",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa0d426ef7ad1b0d4/0x119527D74F210987",
-      "pixelShader": "shaderset/0xa0d426ef7ad1b0d4/0x40D52A521585184A"
+      "vertexShader": "shaderset/0xa0d426ef7ad1b0d4/0x119527D74F210987.rpak",
+      "pixelShader": "shaderset/0xa0d426ef7ad1b0d4/0x40D52A521585184A.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x7cf23e1671d90661/0xB5973EF57277B53",
+      "_path": "shaderset/0x7cf23e1671d90661/0xB5973EF57277B53.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005012",
@@ -3433,7 +3429,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x7cf23e1671d90661/0x66D2A0E2125A574C",
+      "_path": "shaderset/0x7cf23e1671d90661/0x66D2A0E2125A574C.rpak",
       "$numPixelShaderTextures": 5,
       "inputFlags": [
         "0x4034002000001",
@@ -3448,17 +3444,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x7cf23e1671d90661",
+      "_path": "0x7cf23e1671d90661.rpak",
       "$guid": "0x7cf23e1671d90661",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x7cf23e1671d90661/0xB5973EF57277B53",
-      "pixelShader": "shaderset/0x7cf23e1671d90661/0x66D2A0E2125A574C"
+      "vertexShader": "shaderset/0x7cf23e1671d90661/0xB5973EF57277B53.rpak",
+      "pixelShader": "shaderset/0x7cf23e1671d90661/0x66D2A0E2125A574C.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe3c7db4efdcbdea5/0x53E6887D9306F713",
+      "_path": "shaderset/0xe3c7db4efdcbdea5/0x53E6887D9306F713.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005002",
@@ -3469,7 +3465,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe3c7db4efdcbdea5/0x929624D5FD1CADB3",
+      "_path": "shaderset/0xe3c7db4efdcbdea5/0x929624D5FD1CADB3.rpak",
       "$numPixelShaderTextures": 5,
       "inputFlags": [
         "0x4030002000001",
@@ -3480,17 +3476,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xe3c7db4efdcbdea5",
+      "_path": "0xe3c7db4efdcbdea5.rpak",
       "$guid": "0xe3c7db4efdcbdea5",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xe3c7db4efdcbdea5/0x53E6887D9306F713",
-      "pixelShader": "shaderset/0xe3c7db4efdcbdea5/0x929624D5FD1CADB3"
+      "vertexShader": "shaderset/0xe3c7db4efdcbdea5/0x53E6887D9306F713.rpak",
+      "pixelShader": "shaderset/0xe3c7db4efdcbdea5/0x929624D5FD1CADB3.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf7dc56a084bb6b28/0xA970DF434EACA95E",
+      "_path": "shaderset/0xf7dc56a084bb6b28/0xA970DF434EACA95E.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -3501,7 +3497,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf7dc56a084bb6b28/0x6D9EA651FFE01C7",
+      "_path": "shaderset/0xf7dc56a084bb6b28/0x6D9EA651FFE01C7.rpak",
       "$numPixelShaderTextures": 12,
       "inputFlags": [
         "0x4034002000101",
@@ -3512,17 +3508,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xf7dc56a084bb6b28",
+      "_path": "0xf7dc56a084bb6b28.rpak",
       "$guid": "0xf7dc56a084bb6b28",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xf7dc56a084bb6b28/0xA970DF434EACA95E",
-      "pixelShader": "shaderset/0xf7dc56a084bb6b28/0x6D9EA651FFE01C7"
+      "vertexShader": "shaderset/0xf7dc56a084bb6b28/0xA970DF434EACA95E.rpak",
+      "pixelShader": "shaderset/0xf7dc56a084bb6b28/0x6D9EA651FFE01C7.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1400cfd3821499d7/0x922F6DFF99CC91DB",
+      "_path": "shaderset/0x1400cfd3821499d7/0x922F6DFF99CC91DB.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x202000011",
@@ -3533,7 +3529,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1400cfd3821499d7/0x254E85F23735490F",
+      "_path": "shaderset/0x1400cfd3821499d7/0x254E85F23735490F.rpak",
       "$numPixelShaderTextures": 12,
       "inputFlags": [
         "0x34042000001",
@@ -3548,17 +3544,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0x1400cfd3821499d7",
+      "_path": "0x1400cfd3821499d7.rpak",
       "$guid": "0x1400cfd3821499d7",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x1400cfd3821499d7/0x922F6DFF99CC91DB",
-      "pixelShader": "shaderset/0x1400cfd3821499d7/0x254E85F23735490F"
+      "vertexShader": "shaderset/0x1400cfd3821499d7/0x922F6DFF99CC91DB.rpak",
+      "pixelShader": "shaderset/0x1400cfd3821499d7/0x254E85F23735490F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x68cfc43d811831b2/0x94E818BD72ED7F13",
+      "_path": "shaderset/0x68cfc43d811831b2/0x94E818BD72ED7F13.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000011",
@@ -3569,7 +3565,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x68cfc43d811831b2/0xE160591B2895A4ED",
+      "_path": "shaderset/0x68cfc43d811831b2/0xE160591B2895A4ED.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000001",
@@ -3580,14 +3576,14 @@
     },
     {
       "_type": "shds",
-      "_path": "0x68cfc43d811831b2",
+      "_path": "0x68cfc43d811831b2.rpak",
       "$guid": "0x68cfc43d811831b2",
-      "vertexShader": "shaderset/0x68cfc43d811831b2/0x94E818BD72ED7F13",
-      "pixelShader": "shaderset/0x68cfc43d811831b2/0xE160591B2895A4ED"
+      "vertexShader": "shaderset/0x68cfc43d811831b2/0x94E818BD72ED7F13.rpak",
+      "pixelShader": "shaderset/0x68cfc43d811831b2/0xE160591B2895A4ED.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xbf5f898c4eaecf64/0x8573EE631D763748",
+      "_path": "shaderset/0xbf5f898c4eaecf64/0x8573EE631D763748.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -3598,7 +3594,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xbf5f898c4eaecf64/0x661B0C35AB1F9352",
+      "_path": "shaderset/0xbf5f898c4eaecf64/0x661B0C35AB1F9352.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000001",
@@ -3609,17 +3605,17 @@
     },
     {
       "_type": "shds",
-      "_path": "0xbf5f898c4eaecf64",
+      "_path": "0xbf5f898c4eaecf64.rpak",
       "$guid": "0xbf5f898c4eaecf64",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xbf5f898c4eaecf64/0x8573EE631D763748",
-      "pixelShader": "shaderset/0xbf5f898c4eaecf64/0x661B0C35AB1F9352"
+      "vertexShader": "shaderset/0xbf5f898c4eaecf64/0x8573EE631D763748.rpak",
+      "pixelShader": "shaderset/0xbf5f898c4eaecf64/0x661B0C35AB1F9352.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xC1B58FF9015D72F6/0x63D5B59B8C1178C4",
+      "_path": "shaderset/0xC1B58FF9015D72F6/0x63D5B59B8C1178C4.rpak",
       "$guid": "0x63D5B59B8C1178C4",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
@@ -3635,7 +3631,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xE481249679D0CA4C/0xB72DA1D91FEC18B4",
+      "_path": "shaderset/0xE481249679D0CA4C/0xB72DA1D91FEC18B4.rpak",
       "$guid": "0xB72DA1D91FEC18B4",
       "$numPixelShaderTextures": 5,
       "inputFlags": [
@@ -3647,7 +3643,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xB01FA0B0714FF14E/0x64C0A5116E066390",
+      "_path": "shaderset/0xB01FA0B0714FF14E/0x64C0A5116E066390.rpak",
       "$guid": "0x64C0A5116E066390",
       "$numPixelShaderTextures": 12,
       "inputFlags": [
@@ -3663,7 +3659,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x89169DFE8555756A/0x67BBDCE2C0163876",
+      "_path": "shaderset/0x89169DFE8555756A/0x67BBDCE2C0163876.rpak",
       "$guid": "0x67BBDCE2C0163876",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
@@ -3675,7 +3671,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1120BDC4F3C9CB30/0x3120DE94B88E230A",
+      "_path": "shaderset/0x1120BDC4F3C9CB30/0x3120DE94B88E230A.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000012",
@@ -3686,7 +3682,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1120BDC4F3C9CB30/0xB72DA1D91FEC18B4",
+      "_path": "shaderset/0x1120BDC4F3C9CB30/0xB72DA1D91FEC18B4.rpak",
       "$numPixelShaderTextures": 5,
       "inputFlags": [
         "0x4034002000001",
@@ -3697,13 +3693,13 @@
     },
     {
       "_type": "shds",
-      "_path": "0x1120BDC4F3C9CB30",
+      "_path": "0x1120BDC4F3C9CB30.rpak",
       "$guid": "0x1120BDC4F3C9CB30",
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x1120BDC4F3C9CB30/0x3120DE94B88E230A",
-      "pixelShader": "shaderset/0x1120BDC4F3C9CB30/0xB72DA1D91FEC18B4"
+      "vertexShader": "shaderset/0x1120BDC4F3C9CB30/0x3120DE94B88E230A.rpak",
+      "pixelShader": "shaderset/0x1120BDC4F3C9CB30/0xB72DA1D91FEC18B4.rpak"
     },
     {
       "_type": "matl",
@@ -20389,7 +20385,7 @@
       ]
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/props/crafting_siphon/crafting_siphon.rmdl",
       "usePhysics": true,
       "animrigs": [
@@ -20397,1112 +20393,1112 @@
       ]
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/beacon/beacon_small_screen_03_a.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/beacon/beacon_small_screen_03_b.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/beacon/beacon_small_screen_03_c.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/beacon/beacon_small_screen_03_d.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/canyonlands/concrete_broken_chunk_8_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/canyonlands/concrete_broken_chunk_8_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/cockpit/console_ship_center_tower_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/cockpit/ship_console_control_large_v2.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/cockpit/ship_console_control_med_v2.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/colony/farmland_domicile_utility_closet_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/bloodhound_tarp_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/bloodhound_tt_decal_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/bloodhound_tt_flag_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/bloodhound_tt_raven_statue_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/bloodhound_tt_raven_statue_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_city_slanted_building_01_slice_02_crack.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_city_train_station_01_shattered_roof.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_city_train_station_railing_broken_glass_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_city_train_station_railing_broken_glass_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_hr_small_apt_a_05_decal.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_hr_small_destroy_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_hr_small_destroy_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_mu2_wall_buttress_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_mu2_wall_large_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_portable_int_floor_108x128_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_portable_int_floor_108x256_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_portable_int_floor_inner_curve_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_portable_int_floor_outter_curve_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_refinery_struct_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_02_window.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_connector_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_connector_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_end_cap_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_end_cap_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_end_cap_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_platform_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_inner_bend_catwalk_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_inner_bend_catwalk_01_45.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_int_pipe_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_int_pipe_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_int_pipe_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_int_pipe_04.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_outter_bend_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_outter_bend_01_45.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_outter_bend_catwalk_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_mu1_mod_extractor_outter_bend_catwalk_01_45.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/industrial_assembly_bldg_distributor_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/industrial_island_train_bldg_support_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/industrial_metal_frame_wall_128x144_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/industrial_struct_bldg_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/industrial_struct_bldg_04.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/industrial_struct_bldg_06.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/indust_struct_cooling_tower_exterior_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/indust_struct_gondola_platform_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/indust_struct_gondola_platform_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/indust_struct_gondola_wheel_base_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/rocket_engine_small.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/rocket_thruster_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/domestic/farmland_bedding_blanket_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/fixtures/stasis_light_01_off.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/foliage/grass_burnt_yellow_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/foliage/grass_burnt_yellow_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/gibs/Glass_shard_group01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/IMC_base/chair_IMC_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/IMC_base/console_door_small_IMC_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/imc_base/imc_portable_int_wall_pipe_64_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/industrial/modular_railing_trim_B.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/industrial/modular_railing_trim_short.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/lamps/search_light_on_godray_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/lamps/search_light_on_godray_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/lamps/search_light_on_light_only_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_canyonlands/crypto_window_godray_cool_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_canyonlands/crypto_window_godray_red_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_canyonlands/crypto_window_godray_warm_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_scraperbridge_03_art.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_scraperbridge_04_art.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_scraperbridge_05_art.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_sniperbuilding_decals.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_apex_sign_mu2_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_10_mu2_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_10_mu2_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_11_mu2_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_13_mu1_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_16_mu2_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_1_mu1_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_1_mu2_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_2_mu2_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_3_mu2_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_5_mu2_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_7_mu2_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_7_mu2_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_8_mu2_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_8_mu2_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_9_mu2_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_halogen_light_godray_yellow_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_column.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_cover.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_cover_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_04.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_tower.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_tower_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hanging_panel.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hanging_panel_int.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hinge_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hinge_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hydraulics_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hydraulics_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_gack_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_gack_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_ring_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_support_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_support_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_support_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_building_platform_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_catwalks_zone16_corner_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_exterior.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_exterior_decals.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_hallway_decals.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_interior_decals.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_platform_exterior.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_platform_exterior_decals.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_cap.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_decals_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_platform.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_ramp.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_interior2_decals.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_interior_decals.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_rock_net.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_exterior.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_exterior_decals_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_exterior_top.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_interior_decals.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_platform.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_platform_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_platform_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress_dirt_decal_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_leg_support_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_leg_support_beam_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_rocket_support_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_rocket_support_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_rocket_support_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_section_09_bridge_wide_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_terrain_section_06_mu1_rubble.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_terrain_section_08_water_mu2.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_terrain_section_16_sideramp_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_z12_mid_pillar_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_ext_ramp_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_hammond_door_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_hammond_door_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_rising_pipes_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_side_platform_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_indust_column_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_vents_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_vents_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_window_frame_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_floor_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_small_walls_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_top_platform_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_wall_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/mendoko/pipe_modular_mendoko_128.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/mendoko/pipe_modular_mendoko_16.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/mendoko/pipe_modular_mendoko_32.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/mendoko/pipe_modular_mendoko_32_valve.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/mendoko/pipe_modular_mendoko_64.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/mendoko/pipe_modular_mendoko_corner.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/mendoko/pipe_modular_mendoko_metal_64.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_staircase_48_double.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_staircase_48_end_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_staircase_48_end_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_staircase_end_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/pipes/pipe_modular_painted_yellow_32_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rocks/rock_fissure_desertlands_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rocks/rock_fissure_desertlands_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rocks/rock_fissure_desertlands_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rocks/rock_sand_cluster_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rocks/rock_sand_large_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rocks/thunderdome_quarry_block_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rocks/thunderdome_quarry_block_stairs_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/concrete_piece_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/concrete_piece_01_rebar.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/concrete_piece_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/concrete_piece_02_rebar.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/concrete_piece_06.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/concrete_piece_06_rebar.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/concrete_piece_07_rebar.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/rebar_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/rebar_02b.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/rebar_cluster_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/rebar_cluster_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/rebar_cluster_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/rebar_cluster_04.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/rebar_pile01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rubble/rubble_pile_flat_sparse.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/s2s/s2s_railing_small_01_64.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thaw/roof_generator_ac.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thunderdome/thunderdome_cage_ceiling_128x128_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thunderdome/thunderdome_spike_traps_large_64_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thunderdome/thunderdome_stands_girder_32x128_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/vistas/desertlands_mu1_se.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/vistas/iceland_slopeb_mu1.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/vistas/iceland_sloped_mu1.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_ship_engine_left.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_ship_engine_right.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_ship_engine_center.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_ship_left.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_ship_right.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/rocket_boosters_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/rocket_engine_small_cards.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/rocket_engine_small_cards_scaled.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/props/raisable_wall_floor/raisable_wall_floor.rmdl",
       "usePhysics": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_mu2_console_01.rmdl",
       "usePhysics": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/beacon/crane_room_monitor_console.rmdl",
       "usePhysics": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/props/prowler_hatch_tt/prowler_hatch_tt.rmdl",
       "usePhysics": true,
       "animrigs": [
@@ -21510,7 +21506,7 @@
       ]
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/props/raisable_wall_hydraulic_arms/hydraulic_arm.rmdl",
       "usePhysics": true,
       "animrigs": [
@@ -21518,7 +21514,7 @@
       ]
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/props/crafting_replicator/crafting_replicator.rmdl",
       "usePhysics": true,
       "animrigs": [
@@ -21526,365 +21522,365 @@
       ]
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/bloodhound_tt_flyer_skull_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/bloodhound_tt_props.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/industrial/gun_rack_arm_down_new_off.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_grate_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_front_ship.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/dlands_top_rail.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/fx/harvester_beam_mu1.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/menu/menu_cubemap_char_select.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thunderdome/thunderdome_cage_wall_256x256_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/refinery/light_tower.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_z12_mid_platform_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_staircase_96_quad.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_staircase_96_double.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_grate_01_32.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_staircase_96_single.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/desertlands/desertlands_train_track_straight_arrows_512.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rocks/thunderdome_quarry_block_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rocks/thunderdome_quarry_block_02.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/utilities/power_cell_64_empty.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/commercial/rack_spectre_portable_closed.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/utilities/power_cell_64_brace_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/utilities/power_cell_64_single_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/domestic/fire_extinguisher_case.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/IMC_base/ladder_modular_32_IMC.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/industrial/modular_railing_trim_long.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/metal_scraps/scrap_metal_panel01_bent.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/industrial/modular_railing_trim_mid.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/metal_scraps/scrap_metal_hinge01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/industrial/modular_railing_trim_a.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/pipes/pipe_modular_painted_yellow_45_angle.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/IMC_base/imc_portable_ext_double_door_frame_red_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/IMC_base/imc_portable_ext_single_door_frame_red_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thunderdome/thunderdome_cage_frame_64x352_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thunderdome/thunderdome_stands_girder_32x512_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thunderdome/thunderdome_spike_traps_small_128_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thunderdome/thunderdome_cage_frame_32_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/imc_base/imc_portable_int_wall_pipe_corner_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/imc_base/imc_portable_int_wall_pipe_32_valve_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/imc_base/imc_portable_int_wall_pipe_tjunction_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/imc_base/imc_portable_int_wall_pipe_32_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/imc_base/imc_portable_int_wall_pipe_16_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/imc_base/imc_portable_int_wall_pipe_8_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/beacon/mendoko_wire_cluster_04.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/foliage/moss_green_hanging_large_04.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/door/canyonlands_lift_door_frame_large_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/relic/hanging_relic_light_on_2.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rocks/rockcluster_light_03.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/rocks/rockcluster_light_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thunderdome/canyonland_thunderdome_ground_cap_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_staircase_96_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/canyonlands/concrete_broken_chunk_01.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/cockpit/ship_console_control_med_v1.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/canyonlands/concrete_broken_chunk_02.rmdl",
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_staircase_96_end_02.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_staircase_48_quad.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_staircase_96_end_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/ola/sewer_grate_clamp_01_256.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/domestic/nessy_doll.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x128_05.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thunderdome/thunderdome_cage_frame_64x32_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x32_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_themine_cylinder_01.rmdl",
       "usePhysics": true,
       "static": true
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/door/door_canyonlands_large_01_animated.rmdl",
       "usePhysics": true,
       "sequences": [
@@ -21893,7 +21889,7 @@
       ]
     },
     {
-      "_type": "rmdl",
+      "_type": "mdl_",
       "_path": "mdl/props/loot_bin/loot_bin_01_loba.rmdl",
       "usePhysics": true,
       "sequences": [
@@ -21911,7 +21907,7 @@
     {
       "_type": "uimg",
       "_path": "ui_image_atlas/overviews/mp_rr_desertlands_mu2",
-      "atlas": "texture/ui_atlas/overviews/mp_rr_desertlands_mu2",
+      "atlas": "texture/ui_atlas/overviews/mp_rr_desertlands_mu2.rpak",
       "textures": [
         {
           "path": "overviews/mp_rr_desertlands_mu2",
