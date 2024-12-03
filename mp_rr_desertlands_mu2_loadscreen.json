@@ -2,20 +2,16 @@
   "$mapversion": 1,
   "version": 8,
 
-  "assetsDir": ".\\assets\\",
+  "assetsDir": ".\\assetss6\\",
   "outputDir": ".\\build\\",
 
   "name": "mp_rr_desertlands_mu2_loadscreen",
 
   "files": [
     {
-      "$type": "txtr",
-      "path": "texture/ui_atlas/loadscreens/mp_rr_desertlands_mu2_widescreen"
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/loadscreens/mp_rr_desertlands_mu2_widescreen",
-      "atlas": "texture/ui_atlas/loadscreens/mp_rr_desertlands_mu2_widescreen",
+      "_type": "uimg",
+      "_path": "ui_image_atlas/loadscreens/mp_rr_desertlands_mu2_widescreen",
+      "atlas": "texture/ui_atlas/loadscreens/mp_rr_desertlands_mu2_widescreen.rpak",
       "textures": [
         {
           "path": "loadscreens/mp_rr_desertlands_mu2_widescreen",
