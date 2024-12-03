@@ -20327,7 +20327,7 @@
     {
       "_type": "arig",
       "_path": "animrig/props/prowler_hatch_tt/prowler_hatch_tt.rrig",
-      "sequences": [
+      "$sequences": [
         "animseq/props/prowler_hatch_tt/close.rseq",
         "animseq/props/prowler_hatch_tt/close_idle.rseq",
         "animseq/props/prowler_hatch_tt/open.rseq",
@@ -20338,7 +20338,7 @@
     {
       "_type": "arig",
       "_path": "animrig/props/crafting_replicator/crafting_replicator.rrig",
-      "sequences": [
+      "$sequences": [
         "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_auto_A.rseq",
         "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_auto_B.rseq",
         "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_auto_C.rseq",
@@ -20362,7 +20362,7 @@
     {
       "_type": "arig",
       "_path": "animrig/props/crafting_siphon/crafting_siphon.rrig",
-      "sequences": [
+      "$sequences": [
         "animseq/props/crafting_siphon/crafting_siphon/source_empty_idle.rseq",
         "animseq/props/crafting_siphon/crafting_siphon/source_empty_to_full.rseq",
         "animseq/props/crafting_siphon/crafting_siphon/source_full_idle.rseq",
@@ -20372,7 +20372,7 @@
     {
       "_type": "arig",
       "_path": "animrig/props/raisable_wall_hydraulic_arms/hydraulic_arm.rrig",
-      "sequences": [
+      "$sequences": [
         "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_idle.rseq",
         "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_idle1.rseq",
         "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_idle2.rseq",
@@ -20387,1120 +20387,897 @@
     {
       "_type": "mdl_",
       "_path": "mdl/props/crafting_siphon/crafting_siphon.rmdl",
-      "usePhysics": true,
       "animrigs": [
         "animrig/props/crafting_siphon/crafting_siphon.rrig"
       ]
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/beacon/beacon_small_screen_03_a.rmdl",
-      "static": true
+      "_path": "mdl/beacon/beacon_small_screen_03_a.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/beacon/beacon_small_screen_03_b.rmdl",
-      "static": true
+      "_path": "mdl/beacon/beacon_small_screen_03_b.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/beacon/beacon_small_screen_03_c.rmdl",
-      "static": true
+      "_path": "mdl/beacon/beacon_small_screen_03_c.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/beacon/beacon_small_screen_03_d.rmdl",
-      "static": true
+      "_path": "mdl/beacon/beacon_small_screen_03_d.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/canyonlands/concrete_broken_chunk_8_01.rmdl",
-      "static": true
+      "_path": "mdl/canyonlands/concrete_broken_chunk_8_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/canyonlands/concrete_broken_chunk_8_02.rmdl",
-      "static": true
+      "_path": "mdl/canyonlands/concrete_broken_chunk_8_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/cockpit/console_ship_center_tower_01.rmdl",
-      "static": true
+      "_path": "mdl/cockpit/console_ship_center_tower_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/cockpit/ship_console_control_large_v2.rmdl",
-      "static": true
+      "_path": "mdl/cockpit/ship_console_control_large_v2.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/cockpit/ship_console_control_med_v2.rmdl",
-      "static": true
+      "_path": "mdl/cockpit/ship_console_control_med_v2.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/colony/farmland_domicile_utility_closet_01.rmdl",
-      "static": true
+      "_path": "mdl/colony/farmland_domicile_utility_closet_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/bloodhound_tarp_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/bloodhound_tarp_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/bloodhound_tt_decal_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/bloodhound_tt_decal_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/bloodhound_tt_flag_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/bloodhound_tt_flag_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/bloodhound_tt_raven_statue_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/bloodhound_tt_raven_statue_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/bloodhound_tt_raven_statue_02.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/bloodhound_tt_raven_statue_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_city_slanted_building_01_slice_02_crack.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_city_slanted_building_01_slice_02_crack.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_city_train_station_01_shattered_roof.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_city_train_station_01_shattered_roof.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_city_train_station_railing_broken_glass_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_city_train_station_railing_broken_glass_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_city_train_station_railing_broken_glass_02.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_city_train_station_railing_broken_glass_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_hr_small_apt_a_05_decal.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_hr_small_apt_a_05_decal.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_hr_small_destroy_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_hr_small_destroy_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_hr_small_destroy_02.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_hr_small_destroy_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_mu2_wall_buttress_02.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_mu2_wall_buttress_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_mu2_wall_large_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_mu2_wall_large_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_portable_int_floor_108x128_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_portable_int_floor_108x128_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_portable_int_floor_108x256_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_portable_int_floor_108x256_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_portable_int_floor_inner_curve_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_portable_int_floor_inner_curve_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_portable_int_floor_outter_curve_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_portable_int_floor_outter_curve_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_refinery_struct_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/desertlands_refinery_struct_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_02.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_02_window.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_02_window.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_connector_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_connector_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_connector_02.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_connector_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_end_cap_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_end_cap_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_end_cap_02.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_end_cap_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_end_cap_03.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_end_cap_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_platform_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_ext_platform_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_inner_bend_catwalk_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_inner_bend_catwalk_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_inner_bend_catwalk_01_45.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_inner_bend_catwalk_01_45.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_int_pipe_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_int_pipe_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_int_pipe_02.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_int_pipe_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_int_pipe_03.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_int_pipe_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_int_pipe_04.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_int_pipe_04.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_outter_bend_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_outter_bend_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_outter_bend_01_45.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_outter_bend_01_45.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_outter_bend_catwalk_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_outter_bend_catwalk_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_outter_bend_catwalk_01_45.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_mu1_mod_extractor_outter_bend_catwalk_01_45.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/industrial_assembly_bldg_distributor_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/industrial_assembly_bldg_distributor_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/industrial_island_train_bldg_support_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/industrial_island_train_bldg_support_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/industrial_metal_frame_wall_128x144_03.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/industrial_metal_frame_wall_128x144_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/industrial_struct_bldg_02.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/industrial_struct_bldg_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/industrial_struct_bldg_04.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/industrial_struct_bldg_04.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/industrial_struct_bldg_06.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/industrial_struct_bldg_06.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/indust_struct_cooling_tower_exterior_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/indust_struct_cooling_tower_exterior_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/indust_struct_gondola_platform_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/indust_struct_gondola_platform_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/indust_struct_gondola_platform_02.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/indust_struct_gondola_platform_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/indust_struct_gondola_wheel_base_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/indust_struct_gondola_wheel_base_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/rocket_engine_small.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/rocket_engine_small.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/rocket_thruster_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/rocket_thruster_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/domestic/farmland_bedding_blanket_01.rmdl",
-      "static": true
+      "_path": "mdl/domestic/farmland_bedding_blanket_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/fixtures/stasis_light_01_off.rmdl",
-      "static": true
+      "_path": "mdl/fixtures/stasis_light_01_off.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/foliage/grass_burnt_yellow_01.rmdl",
-      "static": true
+      "_path": "mdl/foliage/grass_burnt_yellow_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/foliage/grass_burnt_yellow_02.rmdl",
-      "static": true
+      "_path": "mdl/foliage/grass_burnt_yellow_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/gibs/Glass_shard_group01.rmdl",
-      "static": true
+      "_path": "mdl/gibs/Glass_shard_group01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/IMC_base/chair_IMC_01.rmdl",
-      "static": true
+      "_path": "mdl/IMC_base/chair_IMC_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/IMC_base/console_door_small_IMC_01.rmdl",
-      "static": true
+      "_path": "mdl/IMC_base/console_door_small_IMC_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_64_02.rmdl",
-      "static": true
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_64_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/industrial/modular_railing_trim_B.rmdl",
-      "static": true
+      "_path": "mdl/industrial/modular_railing_trim_B.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/industrial/modular_railing_trim_short.rmdl",
-      "static": true
+      "_path": "mdl/industrial/modular_railing_trim_short.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/lamps/search_light_on_godray_01.rmdl",
-      "static": true
+      "_path": "mdl/lamps/search_light_on_godray_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/lamps/search_light_on_godray_02.rmdl",
-      "static": true
+      "_path": "mdl/lamps/search_light_on_godray_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/lamps/search_light_on_light_only_02.rmdl",
-      "static": true
+      "_path": "mdl/lamps/search_light_on_light_only_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_canyonlands/crypto_window_godray_cool_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_canyonlands/crypto_window_godray_cool_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_canyonlands/crypto_window_godray_red_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_canyonlands/crypto_window_godray_red_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_canyonlands/crypto_window_godray_warm_03.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_canyonlands/crypto_window_godray_warm_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_scraperbridge_03_art.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_scraperbridge_03_art.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_scraperbridge_04_art.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_scraperbridge_04_art.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_scraperbridge_05_art.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_scraperbridge_05_art.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_sniperbuilding_decals.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/cap_city_sniperbuilding_decals.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_apex_sign_mu2_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_apex_sign_mu2_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_10_mu2_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_10_mu2_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_10_mu2_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_10_mu2_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_11_mu2_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_11_mu2_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_13_mu1_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_13_mu1_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_16_mu2_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_16_mu2_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_1_mu1_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_1_mu1_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_1_mu2_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_1_mu2_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_2_mu2_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_2_mu2_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_3_mu2_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_3_mu2_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_5_mu2_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_5_mu2_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_7_mu2_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_7_mu2_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_7_mu2_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_7_mu2_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_8_mu2_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_8_mu2_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_8_mu2_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_8_mu2_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_9_mu2_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_zone_9_mu2_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_halogen_light_godray_yellow_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_halogen_light_godray_yellow_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_column.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_column.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_cover.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_cover.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_cover_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_cover_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_03.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_04.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_base_pipes_04.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_tower.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_tower.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_tower_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_center_tower_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hanging_panel.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hanging_panel.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hanging_panel_int.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hanging_panel_int.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hinge_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hinge_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hinge_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hinge_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hydraulics_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hydraulics_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hydraulics_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_hydraulics_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_03.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_gack_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_gack_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_gack_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_leg_gack_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_ring_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_ring_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_support_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_support_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_support_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_support_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_support_03.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu1_excavator_support_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_building_platform_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_building_platform_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_catwalks_zone16_corner_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_catwalks_zone16_corner_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_exterior.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_exterior.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_exterior_decals.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_exterior_decals.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_hallway_decals.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_hallway_decals.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_interior_decals.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_interior_decals.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_platform_exterior.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_platform_exterior.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_platform_exterior_decals.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_corner_building_platform_exterior_decals.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_cap.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_cap.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_decals_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_decals_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_platform.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_platform.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_ramp.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_exterior_ramp.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_interior2_decals.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_interior2_decals.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_interior_decals.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_interior_decals.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_rock_net.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress01_rock_net.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_exterior.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_exterior.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_exterior_decals_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_exterior_decals_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_exterior_top.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_exterior_top.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_interior_decals.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_interior_decals.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_platform.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_platform.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_platform_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_platform_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_platform_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress02_platform_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress_dirt_decal_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_MU2_fortress_dirt_decal_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_leg_support_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_leg_support_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_leg_support_beam_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_leg_support_beam_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_rocket_support_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_rocket_support_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_rocket_support_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_rocket_support_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_rocket_support_03.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_mu2_rocket_support_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_section_09_bridge_wide_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_section_09_bridge_wide_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_terrain_section_06_mu1_rubble.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_terrain_section_06_mu1_rubble.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_terrain_section_08_water_mu2.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_terrain_section_08_water_mu2.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_terrain_section_16_sideramp_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_terrain_section_16_sideramp_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_z12_mid_pillar_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_z12_mid_pillar_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_ext_ramp_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_ext_ramp_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_hammond_door_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_hammond_door_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_hammond_door_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_hammond_door_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_rising_pipes_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_rising_pipes_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_side_platform_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_zone1_side_platform_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_indust_column_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_indust_column_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_vents_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_vents_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_vents_02.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_vents_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_window_frame_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_hammond_window_frame_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_floor_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_floor_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_small_walls_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_small_walls_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_top_platform_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_top_platform_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_wall_01.rmdl",
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/raisable_wall_wall_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/mendoko/pipe_modular_mendoko_128.rmdl",
-      "static": true
+      "_path": "mdl/mendoko/pipe_modular_mendoko_128.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/mendoko/pipe_modular_mendoko_16.rmdl",
-      "static": true
+      "_path": "mdl/mendoko/pipe_modular_mendoko_16.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/mendoko/pipe_modular_mendoko_32.rmdl",
-      "static": true
+      "_path": "mdl/mendoko/pipe_modular_mendoko_32.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/mendoko/pipe_modular_mendoko_32_valve.rmdl",
-      "static": true
+      "_path": "mdl/mendoko/pipe_modular_mendoko_32_valve.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/mendoko/pipe_modular_mendoko_64.rmdl",
-      "static": true
+      "_path": "mdl/mendoko/pipe_modular_mendoko_64.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/mendoko/pipe_modular_mendoko_corner.rmdl",
-      "static": true
+      "_path": "mdl/mendoko/pipe_modular_mendoko_corner.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/mendoko/pipe_modular_mendoko_metal_64.rmdl",
-      "static": true
+      "_path": "mdl/mendoko/pipe_modular_mendoko_metal_64.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_staircase_48_double.rmdl",
-      "static": true
+      "_path": "mdl/ola/sewer_staircase_48_double.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_staircase_48_end_01.rmdl",
-      "static": true
+      "_path": "mdl/ola/sewer_staircase_48_end_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_staircase_48_end_02.rmdl",
-      "static": true
+      "_path": "mdl/ola/sewer_staircase_48_end_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_staircase_end_01.rmdl",
-      "static": true
+      "_path": "mdl/ola/sewer_staircase_end_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/pipes/pipe_modular_painted_yellow_32_02.rmdl",
-      "static": true
+      "_path": "mdl/pipes/pipe_modular_painted_yellow_32_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rocks/rock_fissure_desertlands_01.rmdl",
-      "static": true
+      "_path": "mdl/rocks/rock_fissure_desertlands_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rocks/rock_fissure_desertlands_02.rmdl",
-      "static": true
+      "_path": "mdl/rocks/rock_fissure_desertlands_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rocks/rock_fissure_desertlands_03.rmdl",
-      "static": true
+      "_path": "mdl/rocks/rock_fissure_desertlands_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rocks/rock_sand_cluster_01.rmdl",
-      "static": true
+      "_path": "mdl/rocks/rock_sand_cluster_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rocks/rock_sand_large_01.rmdl",
-      "static": true
+      "_path": "mdl/rocks/rock_sand_large_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rocks/thunderdome_quarry_block_03.rmdl",
-      "static": true
+      "_path": "mdl/rocks/thunderdome_quarry_block_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rocks/thunderdome_quarry_block_stairs_01.rmdl",
-      "static": true
+      "_path": "mdl/rocks/thunderdome_quarry_block_stairs_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/concrete_piece_01.rmdl",
-      "static": true
+      "_path": "mdl/rubble/concrete_piece_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/concrete_piece_01_rebar.rmdl",
-      "static": true
+      "_path": "mdl/rubble/concrete_piece_01_rebar.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/concrete_piece_02.rmdl",
-      "static": true
+      "_path": "mdl/rubble/concrete_piece_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/concrete_piece_02_rebar.rmdl",
-      "static": true
+      "_path": "mdl/rubble/concrete_piece_02_rebar.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/concrete_piece_06.rmdl",
-      "static": true
+      "_path": "mdl/rubble/concrete_piece_06.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/concrete_piece_06_rebar.rmdl",
-      "static": true
+      "_path": "mdl/rubble/concrete_piece_06_rebar.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/concrete_piece_07_rebar.rmdl",
-      "static": true
+      "_path": "mdl/rubble/concrete_piece_07_rebar.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/rebar_01.rmdl",
-      "static": true
+      "_path": "mdl/rubble/rebar_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/rebar_02b.rmdl",
-      "static": true
+      "_path": "mdl/rubble/rebar_02b.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/rebar_cluster_01.rmdl",
-      "static": true
+      "_path": "mdl/rubble/rebar_cluster_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/rebar_cluster_02.rmdl",
-      "static": true
+      "_path": "mdl/rubble/rebar_cluster_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/rebar_cluster_03.rmdl",
-      "static": true
+      "_path": "mdl/rubble/rebar_cluster_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/rebar_cluster_04.rmdl",
-      "static": true
+      "_path": "mdl/rubble/rebar_cluster_04.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/rebar_pile01.rmdl",
-      "static": true
+      "_path": "mdl/rubble/rebar_pile01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rubble/rubble_pile_flat_sparse.rmdl",
-      "static": true
+      "_path": "mdl/rubble/rubble_pile_flat_sparse.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/s2s/s2s_railing_small_01_64.rmdl",
-      "static": true
+      "_path": "mdl/s2s/s2s_railing_small_01_64.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thaw/roof_generator_ac.rmdl",
-      "static": true
+      "_path": "mdl/thaw/roof_generator_ac.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thunderdome/thunderdome_cage_ceiling_128x128_03.rmdl",
-      "static": true
+      "_path": "mdl/thunderdome/thunderdome_cage_ceiling_128x128_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thunderdome/thunderdome_spike_traps_large_64_01.rmdl",
-      "static": true
+      "_path": "mdl/thunderdome/thunderdome_spike_traps_large_64_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thunderdome/thunderdome_stands_girder_32x128_01.rmdl",
-      "static": true
+      "_path": "mdl/thunderdome/thunderdome_stands_girder_32x128_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/vistas/desertlands_mu1_se.rmdl",
-      "static": true
+      "_path": "mdl/vistas/desertlands_mu1_se.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/vistas/iceland_slopeb_mu1.rmdl",
-      "static": true
+      "_path": "mdl/vistas/iceland_slopeb_mu1.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/vistas/iceland_sloped_mu1.rmdl",
-      "static": true
+      "_path": "mdl/vistas/iceland_sloped_mu1.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_ship_engine_left.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_ship_engine_left.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_ship_engine_right.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_ship_engine_right.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_ship_engine_center.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_ship_engine_center.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_ship_left.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_ship_left.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_ship_right.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_ship_right.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/rocket_boosters_01.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/rocket_boosters_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/rocket_engine_small_cards.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/rocket_engine_small_cards.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/rocket_engine_small_cards_scaled.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/rocket_engine_small_cards_scaled.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/props/raisable_wall_floor/raisable_wall_floor.rmdl",
-      "usePhysics": true
+      "_path": "mdl/props/raisable_wall_floor/raisable_wall_floor.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_mu2_console_01.rmdl",
-      "usePhysics": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/dlands_mu2_console_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/beacon/crane_room_monitor_console.rmdl",
-      "usePhysics": true
+      "_path": "mdl/beacon/crane_room_monitor_console.rmdl"
     },
     {
       "_type": "mdl_",
       "_path": "mdl/props/prowler_hatch_tt/prowler_hatch_tt.rmdl",
-      "usePhysics": true,
       "animrigs": [
         "animrig/props/prowler_hatch_tt/prowler_hatch_tt.rrig"
       ]
@@ -21508,7 +21285,6 @@
     {
       "_type": "mdl_",
       "_path": "mdl/props/raisable_wall_hydraulic_arms/hydraulic_arm.rmdl",
-      "usePhysics": true,
       "animrigs": [
         "animrig/props/raisable_wall_hydraulic_arms/hydraulic_arm.rrig"
       ]
@@ -21516,374 +21292,262 @@
     {
       "_type": "mdl_",
       "_path": "mdl/props/crafting_replicator/crafting_replicator.rmdl",
-      "usePhysics": true,
       "animrigs": [
         "animrig/props/crafting_replicator/crafting_replicator.rrig"
       ]
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/bloodhound_tt_flyer_skull_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/desertlands/bloodhound_tt_flyer_skull_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/bloodhound_tt_props.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/desertlands/bloodhound_tt_props.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/industrial/gun_rack_arm_down_new_off.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/industrial/gun_rack_arm_down_new_off.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_grate_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/ola/sewer_grate_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_front_ship.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_front_ship.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/dlands_top_rail.rmdl",
-      "static": true
+      "_path": "mdl/desertlands/dlands_top_rail.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/fx/harvester_beam_mu1.rmdl",
-      "static": true
+      "_path": "mdl/fx/harvester_beam_mu1.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/menu/menu_cubemap_char_select.rmdl",
-      "static": true
+      "_path": "mdl/menu/menu_cubemap_char_select.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thunderdome/thunderdome_cage_wall_256x256_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/thunderdome/thunderdome_cage_wall_256x256_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/refinery/light_tower.rmdl",
-      "static": true
+      "_path": "mdl/refinery/light_tower.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_z12_mid_platform_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_z12_mid_platform_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_staircase_96_quad.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/ola/sewer_staircase_96_quad.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_staircase_96_double.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/ola/sewer_staircase_96_double.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_grate_01_32.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/ola/sewer_grate_01_32.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_staircase_96_single.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/ola/sewer_staircase_96_single.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/desertlands/desertlands_train_track_straight_arrows_512.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/desertlands/desertlands_train_track_straight_arrows_512.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rocks/thunderdome_quarry_block_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/rocks/thunderdome_quarry_block_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rocks/thunderdome_quarry_block_02.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/rocks/thunderdome_quarry_block_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/utilities/power_cell_64_empty.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/utilities/power_cell_64_empty.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/commercial/rack_spectre_portable_closed.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/commercial/rack_spectre_portable_closed.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/utilities/power_cell_64_brace_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/utilities/power_cell_64_brace_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/utilities/power_cell_64_single_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/utilities/power_cell_64_single_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/domestic/fire_extinguisher_case.rmdl",
-      "static": true
+      "_path": "mdl/domestic/fire_extinguisher_case.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/IMC_base/ladder_modular_32_IMC.rmdl",
-      "static": true
+      "_path": "mdl/IMC_base/ladder_modular_32_IMC.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/industrial/modular_railing_trim_long.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/industrial/modular_railing_trim_long.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/metal_scraps/scrap_metal_panel01_bent.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/metal_scraps/scrap_metal_panel01_bent.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/industrial/modular_railing_trim_mid.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/industrial/modular_railing_trim_mid.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/metal_scraps/scrap_metal_hinge01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/metal_scraps/scrap_metal_hinge01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/industrial/modular_railing_trim_a.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/industrial/modular_railing_trim_a.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/pipes/pipe_modular_painted_yellow_45_angle.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/pipes/pipe_modular_painted_yellow_45_angle.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/IMC_base/imc_portable_ext_double_door_frame_red_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/IMC_base/imc_portable_ext_double_door_frame_red_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/IMC_base/imc_portable_ext_single_door_frame_red_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/IMC_base/imc_portable_ext_single_door_frame_red_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thunderdome/thunderdome_cage_frame_64x352_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/thunderdome/thunderdome_cage_frame_64x352_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thunderdome/thunderdome_stands_girder_32x512_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/thunderdome/thunderdome_stands_girder_32x512_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thunderdome/thunderdome_spike_traps_small_128_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/thunderdome/thunderdome_spike_traps_small_128_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thunderdome/thunderdome_cage_frame_32_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/thunderdome/thunderdome_cage_frame_32_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_corner_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_corner_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_32_valve_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_32_valve_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_tjunction_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_tjunction_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_32_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_32_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_16_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_16_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_8_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_8_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/beacon/mendoko_wire_cluster_04.rmdl",
-      "static": true
+      "_path": "mdl/beacon/mendoko_wire_cluster_04.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/foliage/moss_green_hanging_large_04.rmdl",
-      "static": true
+      "_path": "mdl/foliage/moss_green_hanging_large_04.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/door/canyonlands_lift_door_frame_large_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/door/canyonlands_lift_door_frame_large_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/relic/hanging_relic_light_on_2.rmdl",
-      "static": true
+      "_path": "mdl/relic/hanging_relic_light_on_2.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rocks/rockcluster_light_03.rmdl",
-      "static": true
+      "_path": "mdl/rocks/rockcluster_light_03.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/rocks/rockcluster_light_01.rmdl",
-      "static": true
+      "_path": "mdl/rocks/rockcluster_light_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thunderdome/canyonland_thunderdome_ground_cap_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/thunderdome/canyonland_thunderdome_ground_cap_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_staircase_96_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/ola/sewer_staircase_96_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/canyonlands/concrete_broken_chunk_01.rmdl",
-      "static": true
+      "_path": "mdl/canyonlands/concrete_broken_chunk_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/cockpit/ship_console_control_med_v1.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/cockpit/ship_console_control_med_v1.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/canyonlands/concrete_broken_chunk_02.rmdl",
-      "static": true
+      "_path": "mdl/canyonlands/concrete_broken_chunk_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_staircase_96_end_02.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/ola/sewer_staircase_96_end_02.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_staircase_48_quad.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/ola/sewer_staircase_48_quad.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_staircase_96_end_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/ola/sewer_staircase_96_end_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/ola/sewer_grate_clamp_01_256.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/ola/sewer_grate_clamp_01_256.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/domestic/nessy_doll.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/domestic/nessy_doll.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x128_05.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x128_05.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thunderdome/thunderdome_cage_frame_64x32_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/thunderdome/thunderdome_cage_frame_64x32_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x32_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x32_01.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_themine_cylinder_01.rmdl",
-      "usePhysics": true,
-      "static": true
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_themine_cylinder_01.rmdl"
     },
     {
       "_type": "mdl_",
       "_path": "mdl/door/door_canyonlands_large_01_animated.rmdl",
-      "usePhysics": true,
-      "sequences": [
+      "$sequences": [
         "animseq/door/door_canyonlands_large_01_animated/close.rseq",
         "animseq/door/door_canyonlands_large_01_animated/open.rseq"
       ]
@@ -21891,8 +21555,7 @@
     {
       "_type": "mdl_",
       "_path": "mdl/props/loot_bin/loot_bin_01_loba.rmdl",
-      "usePhysics": true,
-      "sequences": [
+      "$sequences": [
         "animseq/ot_bin/dmx/animation/loot_bin_01_loba_close_top.rseq",
         "animseq/ot_bin/dmx/animation/loot_bin_01_loba_open_bottom.rseq",
         "animseq/ot_bin/dmx/animation/loot_bin_01_loba_open_top.rseq",
