@@ -26,7 +26,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x88b829c6640aa10d/0x119527D74F210987.rpak",
+      "_path": "shaderset/0x119527D74F210987.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005202",
@@ -37,7 +37,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x88b829c6640aa10d/0x936C13413823F663.rpak",
+      "_path": "shaderset/0x936C13413823F663.rpak",
       "$numPixelShaderTextures": 7,
       "inputFlags": [
         "0x4030002000D01",
@@ -53,12 +53,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x88b829c6640aa10d/0x119527D74F210987.rpak",
-      "pixelShader": "shaderset/0x88b829c6640aa10d/0x936C13413823F663.rpak"
+      "vertexShader": "shaderset/0x119527D74F210987.rpak",
+      "pixelShader": "shaderset/0x936C13413823F663.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4f98a3071773dbc5/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -69,7 +69,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4f98a3071773dbc5/0x406DC09111C7B05A.rpak",
+      "_path": "shaderset/0x406DC09111C7B05A.rpak",
       "$numPixelShaderTextures": 16,
       "inputFlags": [
         "0x4030002000D01",
@@ -89,12 +89,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x4f98a3071773dbc5/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0x4f98a3071773dbc5/0x406DC09111C7B05A.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x406DC09111C7B05A.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x7701cea67d76ef45/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -105,7 +105,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x7701cea67d76ef45/0xCB1F33713DDC7796.rpak",
+      "_path": "shaderset/0xCB1F33713DDC7796.rpak",
       "$numPixelShaderTextures": 14,
       "inputFlags": [
         "0x4034002000D01",
@@ -125,12 +125,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x7701cea67d76ef45/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x7701cea67d76ef45/0xCB1F33713DDC7796.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xCB1F33713DDC7796.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x61e4913da01ba4ee/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -139,7 +139,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x61e4913da01ba4ee/0x6D7A319D606C7F.rpak",
+      "_path": "shaderset/0x6D7A319D606C7F.rpak",
       "$numPixelShaderTextures": 12,
       "inputFlags": [
         "0x4434002100D01",
@@ -153,12 +153,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x61e4913da01ba4ee/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0x61e4913da01ba4ee/0x6D7A319D606C7F.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x6D7A319D606C7F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xcd31b06a779d3273/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -167,7 +167,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xcd31b06a779d3273/0x279DAA31E0E91697.rpak",
+      "_path": "shaderset/0x279DAA31E0E91697.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4434002100D01",
@@ -181,12 +181,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xcd31b06a779d3273/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0xcd31b06a779d3273/0x279DAA31E0E91697.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x279DAA31E0E91697.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x5fd1a021284ecdfe/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -195,7 +195,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x5fd1a021284ecdfe/0xC5D779F0089718A0.rpak",
+      "_path": "shaderset/0xC5D779F0089718A0.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4434002100D01",
@@ -211,12 +211,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x5fd1a021284ecdfe/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0x5fd1a021284ecdfe/0xC5D779F0089718A0.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0xC5D779F0089718A0.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc65f09bb5104240/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -227,7 +227,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc65f09bb5104240/0x604D52BAD6C73789.rpak",
+      "_path": "shaderset/0x604D52BAD6C73789.rpak",
       "$numPixelShaderTextures": 31,
       "inputFlags": [
         "0x4034002000D01",
@@ -247,12 +247,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xc65f09bb5104240/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0xc65f09bb5104240/0x604D52BAD6C73789.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x604D52BAD6C73789.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xdd54d69f937a066e/0x91331CBED05BB181.rpak",
+      "_path": "shaderset/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -263,7 +263,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xdd54d69f937a066e/0xF00AECEAC89C2C49.rpak",
+      "_path": "shaderset/0xF00AECEAC89C2C49.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4030002000D01",
@@ -283,12 +283,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xdd54d69f937a066e/0x91331CBED05BB181.rpak",
-      "pixelShader": "shaderset/0xdd54d69f937a066e/0xF00AECEAC89C2C49.rpak"
+      "vertexShader": "shaderset/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0xF00AECEAC89C2C49.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa7097dda709bb243/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -299,7 +299,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa7097dda709bb243/0xB86A8F89A060E889.rpak",
+      "_path": "shaderset/0xB86A8F89A060E889.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4034002000D01",
@@ -315,12 +315,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa7097dda709bb243/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0xa7097dda709bb243/0xB86A8F89A060E889.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xB86A8F89A060E889.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd3483e99366ac6aa/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -331,7 +331,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd3483e99366ac6aa/0xEF14E0BCE8DFEB9C.rpak",
+      "_path": "shaderset/0xEF14E0BCE8DFEB9C.rpak",
       "$numPixelShaderTextures": 7,
       "inputFlags": [
         "0x4034002000D01",
@@ -351,12 +351,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xd3483e99366ac6aa/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0xd3483e99366ac6aa/0xEF14E0BCE8DFEB9C.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xEF14E0BCE8DFEB9C.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x52589eb1faf32296/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -367,7 +367,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x52589eb1faf32296/0xE1E391D91FD02DCA.rpak",
+      "_path": "shaderset/0xE1E391D91FD02DCA.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -387,12 +387,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x52589eb1faf32296/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x52589eb1faf32296/0xE1E391D91FD02DCA.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xE1E391D91FD02DCA.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa80c7b4f263155b9/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -403,7 +403,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa80c7b4f263155b9/0xF2FE3E2319087B21.rpak",
+      "_path": "shaderset/0xF2FE3E2319087B21.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4034002000D01",
@@ -423,12 +423,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa80c7b4f263155b9/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xa80c7b4f263155b9/0xF2FE3E2319087B21.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xF2FE3E2319087B21.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x52be692c7c2e683/0x91331CBED05BB181.rpak",
+      "_path": "shaderset/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -439,7 +439,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x52be692c7c2e683/0xCBCF98A5C17D9693.rpak",
+      "_path": "shaderset/0xCBCF98A5C17D9693.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4030002000D01",
@@ -455,12 +455,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x52be692c7c2e683/0x91331CBED05BB181.rpak",
-      "pixelShader": "shaderset/0x52be692c7c2e683/0xCBCF98A5C17D9693.rpak"
+      "vertexShader": "shaderset/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0xCBCF98A5C17D9693.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf8b38f6f323de640/0x91331CBED05BB181.rpak",
+      "_path": "shaderset/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -471,7 +471,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf8b38f6f323de640/0x580BB0BD73B276F5.rpak",
+      "_path": "shaderset/0x580BB0BD73B276F5.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4030002000D01",
@@ -491,12 +491,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xf8b38f6f323de640/0x91331CBED05BB181.rpak",
-      "pixelShader": "shaderset/0xf8b38f6f323de640/0x580BB0BD73B276F5.rpak"
+      "vertexShader": "shaderset/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0x580BB0BD73B276F5.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xed288eb99982b860/0x119527D74F210987.rpak",
+      "_path": "shaderset/0x119527D74F210987.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005202",
@@ -507,7 +507,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xed288eb99982b860/0x3407B2E2BC8358A6.rpak",
+      "_path": "shaderset/0x3407B2E2BC8358A6.rpak",
       "$numPixelShaderTextures": 16,
       "inputFlags": [
         "0x4030002000D01",
@@ -527,12 +527,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xed288eb99982b860/0x119527D74F210987.rpak",
-      "pixelShader": "shaderset/0xed288eb99982b860/0x3407B2E2BC8358A6.rpak"
+      "vertexShader": "shaderset/0x119527D74F210987.rpak",
+      "pixelShader": "shaderset/0x3407B2E2BC8358A6.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe522d75f1b4268af/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -543,7 +543,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe522d75f1b4268af/0x285DFBF59A53D6F8.rpak",
+      "_path": "shaderset/0x285DFBF59A53D6F8.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -559,12 +559,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xe522d75f1b4268af/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xe522d75f1b4268af/0x285DFBF59A53D6F8.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x285DFBF59A53D6F8.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xde20a4616c67349b/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -575,7 +575,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xde20a4616c67349b/0xD019AF6CD13CEB51.rpak",
+      "_path": "shaderset/0xD019AF6CD13CEB51.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4034002000D01",
@@ -595,12 +595,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xde20a4616c67349b/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xde20a4616c67349b/0xD019AF6CD13CEB51.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xD019AF6CD13CEB51.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xb319782b6839a724/0xE50E3DADB0596507.rpak",
+      "_path": "shaderset/0xE50E3DADB0596507.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -609,7 +609,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xb319782b6839a724/0x4ECC19F19DC897DB.rpak",
+      "_path": "shaderset/0x4ECC19F19DC897DB.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4234000100D01",
@@ -625,12 +625,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xb319782b6839a724/0xE50E3DADB0596507.rpak",
-      "pixelShader": "shaderset/0xb319782b6839a724/0x4ECC19F19DC897DB.rpak"
+      "vertexShader": "shaderset/0xE50E3DADB0596507.rpak",
+      "pixelShader": "shaderset/0x4ECC19F19DC897DB.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa807f8e155ec5c6/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -641,7 +641,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa807f8e155ec5c6/0x7EA17DD2302C30C6.rpak",
+      "_path": "shaderset/0x7EA17DD2302C30C6.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4034002000D01",
@@ -661,12 +661,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa807f8e155ec5c6/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xa807f8e155ec5c6/0x7EA17DD2302C30C6.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x7EA17DD2302C30C6.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x306605351f85574c/0xAABEA74FB08178EB.rpak",
+      "_path": "shaderset/0xAABEA74FB08178EB.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000201",
@@ -675,7 +675,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x306605351f85574c/0x72219EA3A4CB2E7E.rpak",
+      "_path": "shaderset/0x72219EA3A4CB2E7E.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4230000100D01",
@@ -691,12 +691,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x306605351f85574c/0xAABEA74FB08178EB.rpak",
-      "pixelShader": "shaderset/0x306605351f85574c/0x72219EA3A4CB2E7E.rpak"
+      "vertexShader": "shaderset/0xAABEA74FB08178EB.rpak",
+      "pixelShader": "shaderset/0x72219EA3A4CB2E7E.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x5483548ace13d0ad/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -707,7 +707,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x5483548ace13d0ad/0x285DFBF59A53D6F8.rpak",
+      "_path": "shaderset/0x285DFBF59A53D6F8.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -723,12 +723,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x5483548ace13d0ad/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x5483548ace13d0ad/0x285DFBF59A53D6F8.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x285DFBF59A53D6F8.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x619403aadefd5db3/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -737,7 +737,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x619403aadefd5db3/0x17D8B474D7F54186.rpak",
+      "_path": "shaderset/0x17D8B474D7F54186.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4434002100D01",
@@ -753,12 +753,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x619403aadefd5db3/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0x619403aadefd5db3/0x17D8B474D7F54186.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x17D8B474D7F54186.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4360e6cf6f3fdbbe/0x91331CBED05BB181.rpak",
+      "_path": "shaderset/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -769,7 +769,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4360e6cf6f3fdbbe/0x3407B2E2BC8358A6.rpak",
+      "_path": "shaderset/0x3407B2E2BC8358A6.rpak",
       "$numPixelShaderTextures": 16,
       "inputFlags": [
         "0x4030002000D01",
@@ -789,12 +789,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x4360e6cf6f3fdbbe/0x91331CBED05BB181.rpak",
-      "pixelShader": "shaderset/0x4360e6cf6f3fdbbe/0x3407B2E2BC8358A6.rpak"
+      "vertexShader": "shaderset/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0x3407B2E2BC8358A6.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x81b1357d694c34fb/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -803,7 +803,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x81b1357d694c34fb/0x8E191660261EFB73.rpak",
+      "_path": "shaderset/0x8E191660261EFB73.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4434002100D01",
@@ -819,12 +819,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x81b1357d694c34fb/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0x81b1357d694c34fb/0x8E191660261EFB73.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x8E191660261EFB73.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x57f1043203fd45e1/0x8921AED67396752D.rpak",
+      "_path": "shaderset/0x8921AED67396752D.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000002",
@@ -835,7 +835,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x57f1043203fd45e1/0x70129E9114F29C6E.rpak",
+      "_path": "shaderset/0x70129E9114F29C6E.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4030002000001",
@@ -851,12 +851,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x57f1043203fd45e1/0x8921AED67396752D.rpak",
-      "pixelShader": "shaderset/0x57f1043203fd45e1/0x70129E9114F29C6E.rpak"
+      "vertexShader": "shaderset/0x8921AED67396752D.rpak",
+      "pixelShader": "shaderset/0x70129E9114F29C6E.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x31f056c620e61127/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -867,7 +867,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x31f056c620e61127/0xD983D71FF6A3E0B.rpak",
+      "_path": "shaderset/0xD983D71FF6A3E0B.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4030002000D01",
@@ -887,12 +887,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x31f056c620e61127/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0x31f056c620e61127/0xD983D71FF6A3E0B.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0xD983D71FF6A3E0B.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x10a156ac87cd432/0xCD68D7260A8CCD89.rpak",
+      "_path": "shaderset/0xCD68D7260A8CCD89.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000201",
@@ -901,7 +901,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x10a156ac87cd432/0x742FC75600C8AB8D.rpak",
+      "_path": "shaderset/0x742FC75600C8AB8D.rpak",
       "$numPixelShaderTextures": 7,
       "inputFlags": [
         "0x4430002100D01",
@@ -917,12 +917,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x10a156ac87cd432/0xCD68D7260A8CCD89.rpak",
-      "pixelShader": "shaderset/0x10a156ac87cd432/0x742FC75600C8AB8D.rpak"
+      "vertexShader": "shaderset/0xCD68D7260A8CCD89.rpak",
+      "pixelShader": "shaderset/0x742FC75600C8AB8D.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x6df499b9946f2f34/0xCD68D7260A8CCD89.rpak",
+      "_path": "shaderset/0xCD68D7260A8CCD89.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000201",
@@ -931,7 +931,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x6df499b9946f2f34/0xCA9C6B046DBBE829.rpak",
+      "_path": "shaderset/0xCA9C6B046DBBE829.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4430002100D01",
@@ -947,12 +947,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x6df499b9946f2f34/0xCD68D7260A8CCD89.rpak",
-      "pixelShader": "shaderset/0x6df499b9946f2f34/0xCA9C6B046DBBE829.rpak"
+      "vertexShader": "shaderset/0xCD68D7260A8CCD89.rpak",
+      "pixelShader": "shaderset/0xCA9C6B046DBBE829.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4b19992983c87e11/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -963,7 +963,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4b19992983c87e11/0xD019AF6CD13CEB51.rpak",
+      "_path": "shaderset/0xD019AF6CD13CEB51.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4034002000D01",
@@ -983,12 +983,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x4b19992983c87e11/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x4b19992983c87e11/0xD019AF6CD13CEB51.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xD019AF6CD13CEB51.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3f9c021b04545deb/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -999,7 +999,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3f9c021b04545deb/0x991D5F18B4371E32.rpak",
+      "_path": "shaderset/0x991D5F18B4371E32.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4034002000D01",
@@ -1019,12 +1019,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x3f9c021b04545deb/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0x3f9c021b04545deb/0x991D5F18B4371E32.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x991D5F18B4371E32.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x25d8c6986cacc42b/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1035,7 +1035,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x25d8c6986cacc42b/0x56B8AD14DC545130.rpak",
+      "_path": "shaderset/0x56B8AD14DC545130.rpak",
       "$numPixelShaderTextures": 32,
       "inputFlags": [
         "0x4034002000D01",
@@ -1055,12 +1055,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x25d8c6986cacc42b/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x25d8c6986cacc42b/0x56B8AD14DC545130.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x56B8AD14DC545130.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x87e84c4baf796901/0x459F4C307153B294.rpak",
+      "_path": "shaderset/0x459F4C307153B294.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005212",
@@ -1071,7 +1071,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x87e84c4baf796901/0xD019AF6CD13CEB51.rpak",
+      "_path": "shaderset/0xD019AF6CD13CEB51.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4034002000D01",
@@ -1091,12 +1091,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x87e84c4baf796901/0x459F4C307153B294.rpak",
-      "pixelShader": "shaderset/0x87e84c4baf796901/0xD019AF6CD13CEB51.rpak"
+      "vertexShader": "shaderset/0x459F4C307153B294.rpak",
+      "pixelShader": "shaderset/0xD019AF6CD13CEB51.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x673ceb9fdba9452d/0xE50E3DADB0596507.rpak",
+      "_path": "shaderset/0xE50E3DADB0596507.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -1105,7 +1105,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x673ceb9fdba9452d/0x1916A18B8CFE0945.rpak",
+      "_path": "shaderset/0x1916A18B8CFE0945.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4234000100D01",
@@ -1121,12 +1121,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x673ceb9fdba9452d/0xE50E3DADB0596507.rpak",
-      "pixelShader": "shaderset/0x673ceb9fdba9452d/0x1916A18B8CFE0945.rpak"
+      "vertexShader": "shaderset/0xE50E3DADB0596507.rpak",
+      "pixelShader": "shaderset/0x1916A18B8CFE0945.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x505434c3816d44e5/0x91331CBED05BB181.rpak",
+      "_path": "shaderset/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -1137,7 +1137,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x505434c3816d44e5/0x31C06D745761EE40.rpak",
+      "_path": "shaderset/0x31C06D745761EE40.rpak",
       "$numPixelShaderTextures": 3,
       "inputFlags": [
         "0x4030002000D01",
@@ -1157,12 +1157,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x505434c3816d44e5/0x91331CBED05BB181.rpak",
-      "pixelShader": "shaderset/0x505434c3816d44e5/0x31C06D745761EE40.rpak"
+      "vertexShader": "shaderset/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0x31C06D745761EE40.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xdd544aa94943385a/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1173,7 +1173,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xdd544aa94943385a/0x1FD6F70AD9863E5.rpak",
+      "_path": "shaderset/0x1FD6F70AD9863E5.rpak",
       "$numPixelShaderTextures": 25,
       "inputFlags": [
         "0x4034002000D01",
@@ -1193,12 +1193,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xdd544aa94943385a/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xdd544aa94943385a/0x1FD6F70AD9863E5.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x1FD6F70AD9863E5.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfdc5ec12af6c548/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1209,7 +1209,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfdc5ec12af6c548/0x56B8AD14DC545130.rpak",
+      "_path": "shaderset/0x56B8AD14DC545130.rpak",
       "$numPixelShaderTextures": 32,
       "inputFlags": [
         "0x4034002000D01",
@@ -1229,12 +1229,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xfdc5ec12af6c548/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xfdc5ec12af6c548/0x56B8AD14DC545130.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x56B8AD14DC545130.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3efe329c2955bc31/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -1243,7 +1243,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3efe329c2955bc31/0x75EE0DCC88084B9.rpak",
+      "_path": "shaderset/0x75EE0DCC88084B9.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4434002100D01",
@@ -1257,12 +1257,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x3efe329c2955bc31/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0x3efe329c2955bc31/0x75EE0DCC88084B9.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x75EE0DCC88084B9.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x6da66fad7081a1c6/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1273,7 +1273,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x6da66fad7081a1c6/0xFF83CBF2D2B59E6B.rpak",
+      "_path": "shaderset/0xFF83CBF2D2B59E6B.rpak",
       "$numPixelShaderTextures": 17,
       "inputFlags": [
         "0x4034002000D01",
@@ -1289,12 +1289,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x6da66fad7081a1c6/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x6da66fad7081a1c6/0xFF83CBF2D2B59E6B.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xFF83CBF2D2B59E6B.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x506e3d7e51bed744/0xCD68D7260A8CCD89.rpak",
+      "_path": "shaderset/0xCD68D7260A8CCD89.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000201",
@@ -1303,7 +1303,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x506e3d7e51bed744/0xEF837C7C7D674BDF.rpak",
+      "_path": "shaderset/0xEF837C7C7D674BDF.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4430002100D01",
@@ -1317,12 +1317,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x506e3d7e51bed744/0xCD68D7260A8CCD89.rpak",
-      "pixelShader": "shaderset/0x506e3d7e51bed744/0xEF837C7C7D674BDF.rpak"
+      "vertexShader": "shaderset/0xCD68D7260A8CCD89.rpak",
+      "pixelShader": "shaderset/0xEF837C7C7D674BDF.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8048f672fea655e9/0xB8087791E688FB42.rpak",
+      "_path": "shaderset/0xB8087791E688FB42.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x211",
@@ -1333,7 +1333,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8048f672fea655e9/0x5B9B13651C689ECB.rpak",
+      "_path": "shaderset/0x5B9B13651C689ECB.rpak",
       "$numPixelShaderTextures": 17,
       "inputFlags": [
         "0x4034000000D01",
@@ -1349,12 +1349,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x8048f672fea655e9/0xB8087791E688FB42.rpak",
-      "pixelShader": "shaderset/0x8048f672fea655e9/0x5B9B13651C689ECB.rpak"
+      "vertexShader": "shaderset/0xB8087791E688FB42.rpak",
+      "pixelShader": "shaderset/0x5B9B13651C689ECB.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x169507f532f22d20/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -1363,7 +1363,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x169507f532f22d20/0x36E96EBF2312E58B.rpak",
+      "_path": "shaderset/0x36E96EBF2312E58B.rpak",
       "$numPixelShaderTextures": 17,
       "inputFlags": [
         "0x4434002100D01",
@@ -1377,12 +1377,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x169507f532f22d20/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0x169507f532f22d20/0x36E96EBF2312E58B.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x36E96EBF2312E58B.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa8bd584ed811b360/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1393,7 +1393,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa8bd584ed811b360/0x8739376B0B2063A.rpak",
+      "_path": "shaderset/0x8739376B0B2063A.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -1409,12 +1409,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa8bd584ed811b360/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xa8bd584ed811b360/0x8739376B0B2063A.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x8739376B0B2063A.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe9ad12091c9989ea/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1425,7 +1425,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe9ad12091c9989ea/0xC7C066DBE9C05F2C.rpak",
+      "_path": "shaderset/0xC7C066DBE9C05F2C.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -1441,12 +1441,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xe9ad12091c9989ea/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xe9ad12091c9989ea/0xC7C066DBE9C05F2C.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xC7C066DBE9C05F2C.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe9b205b776bfa1db/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1457,7 +1457,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe9b205b776bfa1db/0xC7C066DBE9C05F2C.rpak",
+      "_path": "shaderset/0xC7C066DBE9C05F2C.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -1473,12 +1473,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xe9b205b776bfa1db/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0xe9b205b776bfa1db/0xC7C066DBE9C05F2C.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xC7C066DBE9C05F2C.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfb1d1ceb3ececf0c/0x91331CBED05BB181.rpak",
+      "_path": "shaderset/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -1489,7 +1489,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfb1d1ceb3ececf0c/0x4942680F9D10D664.rpak",
+      "_path": "shaderset/0x4942680F9D10D664.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4030002000D01",
@@ -1505,12 +1505,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xfb1d1ceb3ececf0c/0x91331CBED05BB181.rpak",
-      "pixelShader": "shaderset/0xfb1d1ceb3ececf0c/0x4942680F9D10D664.rpak"
+      "vertexShader": "shaderset/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0x4942680F9D10D664.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xeebb2568a4490d7a/0x91331CBED05BB181.rpak",
+      "_path": "shaderset/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -1521,7 +1521,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xeebb2568a4490d7a/0x11D7DF7F67E2BE6B.rpak",
+      "_path": "shaderset/0x11D7DF7F67E2BE6B.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4030002000D01",
@@ -1541,12 +1541,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xeebb2568a4490d7a/0x91331CBED05BB181.rpak",
-      "pixelShader": "shaderset/0xeebb2568a4490d7a/0x11D7DF7F67E2BE6B.rpak"
+      "vertexShader": "shaderset/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0x11D7DF7F67E2BE6B.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x849dadaaf83dd8cd/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -1555,7 +1555,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x849dadaaf83dd8cd/0xA520F04B3D5A86AE.rpak",
+      "_path": "shaderset/0xA520F04B3D5A86AE.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4434002100D01",
@@ -1571,12 +1571,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x849dadaaf83dd8cd/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0x849dadaaf83dd8cd/0xA520F04B3D5A86AE.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0xA520F04B3D5A86AE.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x708acb8d387917b3/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1587,7 +1587,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x708acb8d387917b3/0x5E95AF7510C1EB9F.rpak",
+      "_path": "shaderset/0x5E95AF7510C1EB9F.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -1607,12 +1607,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x708acb8d387917b3/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x708acb8d387917b3/0x5E95AF7510C1EB9F.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x5E95AF7510C1EB9F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x12a4e6185a7afb5/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1623,7 +1623,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x12a4e6185a7afb5/0x5E95AF7510C1EB9F.rpak",
+      "_path": "shaderset/0x5E95AF7510C1EB9F.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000D01",
@@ -1643,12 +1643,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x12a4e6185a7afb5/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0x12a4e6185a7afb5/0x5E95AF7510C1EB9F.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x5E95AF7510C1EB9F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x20f4e9878e0ec262/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -1657,7 +1657,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x20f4e9878e0ec262/0xEEDD01EEC2DE0CD8.rpak",
+      "_path": "shaderset/0xEEDD01EEC2DE0CD8.rpak",
       "$numPixelShaderTextures": 3,
       "inputFlags": [
         "0x4434002100D01",
@@ -1671,12 +1671,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x20f4e9878e0ec262/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0x20f4e9878e0ec262/0xEEDD01EEC2DE0CD8.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0xEEDD01EEC2DE0CD8.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3aa5f3cf71f3aa3e/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1687,7 +1687,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3aa5f3cf71f3aa3e/0xA1E2DBD3F92732BA.rpak",
+      "_path": "shaderset/0xA1E2DBD3F92732BA.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4034002000D01",
@@ -1707,12 +1707,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x3aa5f3cf71f3aa3e/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x3aa5f3cf71f3aa3e/0xA1E2DBD3F92732BA.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xA1E2DBD3F92732BA.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x84cc4d3db0e53d0d/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1723,7 +1723,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x84cc4d3db0e53d0d/0xCF2642FD7C816EB5.rpak",
+      "_path": "shaderset/0xCF2642FD7C816EB5.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4034002000D01",
@@ -1743,12 +1743,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x84cc4d3db0e53d0d/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0x84cc4d3db0e53d0d/0xCF2642FD7C816EB5.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xCF2642FD7C816EB5.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfc497072329a393f/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -1757,7 +1757,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfc497072329a393f/0xF0242EB2A199BB27.rpak",
+      "_path": "shaderset/0xF0242EB2A199BB27.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4434002100D01",
@@ -1773,12 +1773,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xfc497072329a393f/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0xfc497072329a393f/0xF0242EB2A199BB27.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0xF0242EB2A199BB27.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1310032f7fb762b0/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1789,7 +1789,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1310032f7fb762b0/0x27EF4B487112DF88.rpak",
+      "_path": "shaderset/0x27EF4B487112DF88.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4034002000D01",
@@ -1809,12 +1809,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x1310032f7fb762b0/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x1310032f7fb762b0/0x27EF4B487112DF88.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x27EF4B487112DF88.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3c0821f74fade405/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1825,7 +1825,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3c0821f74fade405/0xFC79C6661FEA3BEF.rpak",
+      "_path": "shaderset/0xFC79C6661FEA3BEF.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4034002000D01",
@@ -1841,12 +1841,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x3c0821f74fade405/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0x3c0821f74fade405/0xFC79C6661FEA3BEF.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xFC79C6661FEA3BEF.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1efe6d0bede9a74b/0x8573EE631D763748.rpak",
+      "_path": "shaderset/0x8573EE631D763748.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1857,7 +1857,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1efe6d0bede9a74b/0xC8EE83CD6674B158.rpak",
+      "_path": "shaderset/0xC8EE83CD6674B158.rpak",
       "$numPixelShaderTextures": 1,
       "inputFlags": [
         "0x34002000101",
@@ -1873,12 +1873,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x1efe6d0bede9a74b/0x8573EE631D763748.rpak",
-      "pixelShader": "shaderset/0x1efe6d0bede9a74b/0xC8EE83CD6674B158.rpak"
+      "vertexShader": "shaderset/0x8573EE631D763748.rpak",
+      "pixelShader": "shaderset/0xC8EE83CD6674B158.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3bd7c1179ed36512/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1889,7 +1889,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3bd7c1179ed36512/0xAEC364004D8BB6B0.rpak",
+      "_path": "shaderset/0xAEC364004D8BB6B0.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -1909,12 +1909,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x3bd7c1179ed36512/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x3bd7c1179ed36512/0xAEC364004D8BB6B0.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xAEC364004D8BB6B0.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xcdf7f92a0e24e274/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1925,7 +1925,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xcdf7f92a0e24e274/0xAEC364004D8BB6B0.rpak",
+      "_path": "shaderset/0xAEC364004D8BB6B0.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -1945,12 +1945,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xcdf7f92a0e24e274/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xcdf7f92a0e24e274/0xAEC364004D8BB6B0.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xAEC364004D8BB6B0.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe9d97b3b0d9cf9e3/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -1961,7 +1961,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe9d97b3b0d9cf9e3/0x6F6A986762AD98A3.rpak",
+      "_path": "shaderset/0x6F6A986762AD98A3.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -1981,12 +1981,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xe9d97b3b0d9cf9e3/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xe9d97b3b0d9cf9e3/0x6F6A986762AD98A3.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x6F6A986762AD98A3.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x742bd0b022777101/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -1997,7 +1997,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x742bd0b022777101/0x6C1BE984A4271803.rpak",
+      "_path": "shaderset/0x6C1BE984A4271803.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -2017,12 +2017,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x742bd0b022777101/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x742bd0b022777101/0x6C1BE984A4271803.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x6C1BE984A4271803.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x6f38226226050697/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -2033,7 +2033,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x6f38226226050697/0x6C1BE984A4271803.rpak",
+      "_path": "shaderset/0x6C1BE984A4271803.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -2053,12 +2053,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x6f38226226050697/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0x6f38226226050697/0x6C1BE984A4271803.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x6C1BE984A4271803.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xeecd29893bae13d5/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -2069,7 +2069,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xeecd29893bae13d5/0x6F6A986762AD98A3.rpak",
+      "_path": "shaderset/0x6F6A986762AD98A3.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -2089,12 +2089,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xeecd29893bae13d5/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0xeecd29893bae13d5/0x6F6A986762AD98A3.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x6F6A986762AD98A3.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8dc34c2f769e713f/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -2103,7 +2103,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8dc34c2f769e713f/0x463279A021F1CC18.rpak",
+      "_path": "shaderset/0x463279A021F1CC18.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4434002100D01",
@@ -2119,12 +2119,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x8dc34c2f769e713f/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0x8dc34c2f769e713f/0x463279A021F1CC18.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x463279A021F1CC18.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc644d738cecdeb6/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -2135,7 +2135,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc644d738cecdeb6/0xE32F4BAD1E92592.rpak",
+      "_path": "shaderset/0xE32F4BAD1E92592.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -2155,12 +2155,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xc644d738cecdeb6/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0xc644d738cecdeb6/0xE32F4BAD1E92592.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xE32F4BAD1E92592.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf6b4d6a8b8710db3/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -2171,7 +2171,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf6b4d6a8b8710db3/0xE32F4BAD1E92592.rpak",
+      "_path": "shaderset/0xE32F4BAD1E92592.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034002000D01",
@@ -2191,12 +2191,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xf6b4d6a8b8710db3/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xf6b4d6a8b8710db3/0xE32F4BAD1E92592.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xE32F4BAD1E92592.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa6a4e372764f51b9/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2207,7 +2207,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa6a4e372764f51b9/0x29FAC4F61753E0DD.rpak",
+      "_path": "shaderset/0x29FAC4F61753E0DD.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4030002000D01",
@@ -2227,12 +2227,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa6a4e372764f51b9/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0xa6a4e372764f51b9/0x29FAC4F61753E0DD.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x29FAC4F61753E0DD.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4398e822617d40ca/0xCDAF0B7C0755A6DF.rpak",
+      "_path": "shaderset/0xCDAF0B7C0755A6DF.rpak",
       "$numVertexShaderTextures": 1,
       "inputFlags": [
         "0x79000211",
@@ -2241,7 +2241,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x4398e822617d40ca/0x2F7421263A6A86BE.rpak",
+      "_path": "shaderset/0x2F7421263A6A86BE.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4430002100D01",
@@ -2257,12 +2257,12 @@
       "numSamplers": 4,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x4398e822617d40ca/0xCDAF0B7C0755A6DF.rpak",
-      "pixelShader": "shaderset/0x4398e822617d40ca/0x2F7421263A6A86BE.rpak"
+      "vertexShader": "shaderset/0xCDAF0B7C0755A6DF.rpak",
+      "pixelShader": "shaderset/0x2F7421263A6A86BE.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x238b586347a89c98/0xD14ED260E78DF33D.rpak",
+      "_path": "shaderset/0xD14ED260E78DF33D.rpak",
       "$numVertexShaderTextures": 1,
       "inputFlags": [
         "0x2000212",
@@ -2273,7 +2273,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x238b586347a89c98/0xE935D15C4FA13FF8.rpak",
+      "_path": "shaderset/0xE935D15C4FA13FF8.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4030002000D01",
@@ -2293,12 +2293,12 @@
       "numSamplers": 4,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x238b586347a89c98/0xD14ED260E78DF33D.rpak",
-      "pixelShader": "shaderset/0x238b586347a89c98/0xE935D15C4FA13FF8.rpak"
+      "vertexShader": "shaderset/0xD14ED260E78DF33D.rpak",
+      "pixelShader": "shaderset/0xE935D15C4FA13FF8.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xdbf5268a701fea0b/0xCD68D7260A8CCD89.rpak",
+      "_path": "shaderset/0xCD68D7260A8CCD89.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000201",
@@ -2307,7 +2307,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xdbf5268a701fea0b/0xCEDBB72ED0F01E1.rpak",
+      "_path": "shaderset/0xCEDBB72ED0F01E1.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4430002100D01",
@@ -2323,12 +2323,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xdbf5268a701fea0b/0xCD68D7260A8CCD89.rpak",
-      "pixelShader": "shaderset/0xdbf5268a701fea0b/0xCEDBB72ED0F01E1.rpak"
+      "vertexShader": "shaderset/0xCD68D7260A8CCD89.rpak",
+      "pixelShader": "shaderset/0xCEDBB72ED0F01E1.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8a459d6acc67eb5f/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2339,7 +2339,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8a459d6acc67eb5f/0x5E2CF1E1D88C5DAF.rpak",
+      "_path": "shaderset/0x5E2CF1E1D88C5DAF.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4030002000D01",
@@ -2359,12 +2359,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x8a459d6acc67eb5f/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0x8a459d6acc67eb5f/0x5E2CF1E1D88C5DAF.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x5E2CF1E1D88C5DAF.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfeafd97f05317198/0xAE5089388F3F295B.rpak",
+      "_path": "shaderset/0xAE5089388F3F295B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x212",
@@ -2375,7 +2375,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xfeafd97f05317198/0x1B3A08728C3B5B9F.rpak",
+      "_path": "shaderset/0x1B3A08728C3B5B9F.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034000000D01",
@@ -2395,12 +2395,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xfeafd97f05317198/0xAE5089388F3F295B.rpak",
-      "pixelShader": "shaderset/0xfeafd97f05317198/0x1B3A08728C3B5B9F.rpak"
+      "vertexShader": "shaderset/0xAE5089388F3F295B.rpak",
+      "pixelShader": "shaderset/0x1B3A08728C3B5B9F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd5c8b905a4e1270a/0x5A775C1518F9173E.rpak",
+      "_path": "shaderset/0x5A775C1518F9173E.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000012",
@@ -2411,7 +2411,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd5c8b905a4e1270a/0xE160591B2895A4ED.rpak",
+      "_path": "shaderset/0xE160591B2895A4ED.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000001",
@@ -2427,12 +2427,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xd5c8b905a4e1270a/0x5A775C1518F9173E.rpak",
-      "pixelShader": "shaderset/0xd5c8b905a4e1270a/0xE160591B2895A4ED.rpak"
+      "vertexShader": "shaderset/0x5A775C1518F9173E.rpak",
+      "pixelShader": "shaderset/0xE160591B2895A4ED.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3f53b1699a0acb3e/0x77A6886291F28DA1.rpak",
+      "_path": "shaderset/0x77A6886291F28DA1.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -2443,7 +2443,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x3f53b1699a0acb3e/0x1BE686FC63A75D34.rpak",
+      "_path": "shaderset/0x1BE686FC63A75D34.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000101",
@@ -2459,12 +2459,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x3f53b1699a0acb3e/0x77A6886291F28DA1.rpak",
-      "pixelShader": "shaderset/0x3f53b1699a0acb3e/0x1BE686FC63A75D34.rpak"
+      "vertexShader": "shaderset/0x77A6886291F28DA1.rpak",
+      "pixelShader": "shaderset/0x1BE686FC63A75D34.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf89ab9c5d6451e3e/0x91331CBED05BB181.rpak",
+      "_path": "shaderset/0x91331CBED05BB181.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000201",
@@ -2475,7 +2475,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf89ab9c5d6451e3e/0x300C2E6B82D9F970.rpak",
+      "_path": "shaderset/0x300C2E6B82D9F970.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4030002000D01",
@@ -2495,12 +2495,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xf89ab9c5d6451e3e/0x91331CBED05BB181.rpak",
-      "pixelShader": "shaderset/0xf89ab9c5d6451e3e/0x300C2E6B82D9F970.rpak"
+      "vertexShader": "shaderset/0x91331CBED05BB181.rpak",
+      "pixelShader": "shaderset/0x300C2E6B82D9F970.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xb7e65560b6023fd/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2511,7 +2511,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xb7e65560b6023fd/0xA06FB61400E96641.rpak",
+      "_path": "shaderset/0xA06FB61400E96641.rpak",
       "$numPixelShaderTextures": 7,
       "inputFlags": [
         "0x4030002000D01",
@@ -2531,12 +2531,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xb7e65560b6023fd/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0xb7e65560b6023fd/0xA06FB61400E96641.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0xA06FB61400E96641.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd594c12bebf52f2f/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2547,7 +2547,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd594c12bebf52f2f/0xD1241553CBFF3C8A.rpak",
+      "_path": "shaderset/0xD1241553CBFF3C8A.rpak",
       "$numPixelShaderTextures": 5,
       "inputFlags": [
         "0x4030002000D01",
@@ -2567,12 +2567,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xd594c12bebf52f2f/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0xd594c12bebf52f2f/0xD1241553CBFF3C8A.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0xD1241553CBFF3C8A.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x30e77abfcd8e81e0/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -2583,7 +2583,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x30e77abfcd8e81e0/0x11714DD4BA4C4490.rpak",
+      "_path": "shaderset/0x11714DD4BA4C4490.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4034002000D01",
@@ -2603,12 +2603,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x30e77abfcd8e81e0/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0x30e77abfcd8e81e0/0x11714DD4BA4C4490.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x11714DD4BA4C4490.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x30ec6e6e0ee5420d/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -2619,7 +2619,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x30ec6e6e0ee5420d/0x11714DD4BA4C4490.rpak",
+      "_path": "shaderset/0x11714DD4BA4C4490.rpak",
       "$numPixelShaderTextures": 10,
       "inputFlags": [
         "0x4034002000D01",
@@ -2639,12 +2639,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x30ec6e6e0ee5420d/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x30ec6e6e0ee5420d/0x11714DD4BA4C4490.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x11714DD4BA4C4490.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x26baf7eedc1e8b4e/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -2655,7 +2655,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x26baf7eedc1e8b4e/0x7F799AE4D3E8FB78.rpak",
+      "_path": "shaderset/0x7F799AE4D3E8FB78.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4034002000D01",
@@ -2675,12 +2675,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x26baf7eedc1e8b4e/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0x26baf7eedc1e8b4e/0x7F799AE4D3E8FB78.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0x7F799AE4D3E8FB78.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x26bfeb9d1d754b7b/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -2691,7 +2691,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x26bfeb9d1d754b7b/0x7F799AE4D3E8FB78.rpak",
+      "_path": "shaderset/0x7F799AE4D3E8FB78.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4034002000D01",
@@ -2711,12 +2711,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x26bfeb9d1d754b7b/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x26bfeb9d1d754b7b/0x7F799AE4D3E8FB78.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0x7F799AE4D3E8FB78.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc412371443b7d5e3/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -2727,7 +2727,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc412371443b7d5e3/0xCD60FF5E05B238C0.rpak",
+      "_path": "shaderset/0xCD60FF5E05B238C0.rpak",
       "$numPixelShaderTextures": 3,
       "inputFlags": [
         "0x4034002000D01",
@@ -2747,12 +2747,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xc412371443b7d5e3/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xc412371443b7d5e3/0xCD60FF5E05B238C0.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xCD60FF5E05B238C0.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x75ab3c79b6cb8ee8/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2763,7 +2763,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x75ab3c79b6cb8ee8/0x79DDD2DDFF5F0E34.rpak",
+      "_path": "shaderset/0x79DDD2DDFF5F0E34.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4030002000D01",
@@ -2783,12 +2783,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x75ab3c79b6cb8ee8/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0x75ab3c79b6cb8ee8/0x79DDD2DDFF5F0E34.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x79DDD2DDFF5F0E34.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x40a3e4bf961c27c/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2799,7 +2799,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x40a3e4bf961c27c/0x40D52A521585184A.rpak",
+      "_path": "shaderset/0x40D52A521585184A.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4030002000D01",
@@ -2815,12 +2815,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x40a3e4bf961c27c/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0x40a3e4bf961c27c/0x40D52A521585184A.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x40D52A521585184A.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x36627716165fc7da/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2831,7 +2831,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x36627716165fc7da/0x9996FB2101AB4F75.rpak",
+      "_path": "shaderset/0x9996FB2101AB4F75.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4030002000D01",
@@ -2851,12 +2851,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x36627716165fc7da/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0x36627716165fc7da/0x9996FB2101AB4F75.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x9996FB2101AB4F75.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x468a9cf884496adc/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2867,7 +2867,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x468a9cf884496adc/0xCCF1AD35F331C8B.rpak",
+      "_path": "shaderset/0xCCF1AD35F331C8B.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4030002000D01",
@@ -2887,12 +2887,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x468a9cf884496adc/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0x468a9cf884496adc/0xCCF1AD35F331C8B.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0xCCF1AD35F331C8B.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xaa79c8c1cb4f74e1/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2903,7 +2903,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xaa79c8c1cb4f74e1/0xAB19883876DDE159.rpak",
+      "_path": "shaderset/0xAB19883876DDE159.rpak",
       "$numPixelShaderTextures": 11,
       "inputFlags": [
         "0x4030002000D01",
@@ -2919,12 +2919,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xaa79c8c1cb4f74e1/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0xaa79c8c1cb4f74e1/0xAB19883876DDE159.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0xAB19883876DDE159.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xab99ba98d20a73b1/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2935,7 +2935,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xab99ba98d20a73b1/0x20AA3E0C58330A65.rpak",
+      "_path": "shaderset/0x20AA3E0C58330A65.rpak",
       "$numPixelShaderTextures": 11,
       "inputFlags": [
         "0x4030002000D01",
@@ -2955,12 +2955,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xab99ba98d20a73b1/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0xab99ba98d20a73b1/0x20AA3E0C58330A65.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0x20AA3E0C58330A65.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc5c7ad158e8ce42b/0x8815107E59BA114B.rpak",
+      "_path": "shaderset/0x8815107E59BA114B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000202",
@@ -2971,7 +2971,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc5c7ad158e8ce42b/0xC57BA7775FF8856E.rpak",
+      "_path": "shaderset/0xC57BA7775FF8856E.rpak",
       "$numPixelShaderTextures": 6,
       "inputFlags": [
         "0x4030002000D01",
@@ -2991,12 +2991,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xc5c7ad158e8ce42b/0x8815107E59BA114B.rpak",
-      "pixelShader": "shaderset/0xc5c7ad158e8ce42b/0xC57BA7775FF8856E.rpak"
+      "vertexShader": "shaderset/0x8815107E59BA114B.rpak",
+      "pixelShader": "shaderset/0xC57BA7775FF8856E.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xaa04d94513644c9e/0xB8087791E688FB42.rpak",
+      "_path": "shaderset/0xB8087791E688FB42.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x211",
@@ -3007,7 +3007,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xaa04d94513644c9e/0xCDD837CA3E22DD9.rpak",
+      "_path": "shaderset/0xCDD837CA3E22DD9.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4034000000D01",
@@ -3027,12 +3027,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xaa04d94513644c9e/0xB8087791E688FB42.rpak",
-      "pixelShader": "shaderset/0xaa04d94513644c9e/0xCDD837CA3E22DD9.rpak"
+      "vertexShader": "shaderset/0xB8087791E688FB42.rpak",
+      "pixelShader": "shaderset/0xCDD837CA3E22DD9.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x81bf0c4ba29a02a0/0xE50E3DADB0596507.rpak",
+      "_path": "shaderset/0xE50E3DADB0596507.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -3041,7 +3041,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x81bf0c4ba29a02a0/0xC62AC73D5AE5B622.rpak",
+      "_path": "shaderset/0xC62AC73D5AE5B622.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4234000100D01",
@@ -3057,12 +3057,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x81bf0c4ba29a02a0/0xE50E3DADB0596507.rpak",
-      "pixelShader": "shaderset/0x81bf0c4ba29a02a0/0xC62AC73D5AE5B622.rpak"
+      "vertexShader": "shaderset/0xE50E3DADB0596507.rpak",
+      "pixelShader": "shaderset/0xC62AC73D5AE5B622.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8d3a1e54263521b5/0xE50E3DADB0596507.rpak",
+      "_path": "shaderset/0xE50E3DADB0596507.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -3071,7 +3071,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x8d3a1e54263521b5/0xE9D148FB31C3A33F.rpak",
+      "_path": "shaderset/0xE9D148FB31C3A33F.rpak",
       "$numPixelShaderTextures": 17,
       "inputFlags": [
         "0x4234000100D01",
@@ -3085,12 +3085,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x8d3a1e54263521b5/0xE50E3DADB0596507.rpak",
-      "pixelShader": "shaderset/0x8d3a1e54263521b5/0xE9D148FB31C3A33F.rpak"
+      "vertexShader": "shaderset/0xE50E3DADB0596507.rpak",
+      "pixelShader": "shaderset/0xE9D148FB31C3A33F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x37e8fdc125e09b50/0xB8087791E688FB42.rpak",
+      "_path": "shaderset/0xB8087791E688FB42.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x211",
@@ -3101,7 +3101,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x37e8fdc125e09b50/0xFA098AD5CABDB5B2.rpak",
+      "_path": "shaderset/0xFA098AD5CABDB5B2.rpak",
       "$numPixelShaderTextures": 17,
       "inputFlags": [
         "0x4034000000D01",
@@ -3117,12 +3117,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x37e8fdc125e09b50/0xB8087791E688FB42.rpak",
-      "pixelShader": "shaderset/0x37e8fdc125e09b50/0xFA098AD5CABDB5B2.rpak"
+      "vertexShader": "shaderset/0xB8087791E688FB42.rpak",
+      "pixelShader": "shaderset/0xFA098AD5CABDB5B2.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf4621bb6932d59cf/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -3131,7 +3131,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf4621bb6932d59cf/0x3EDA56882833B467.rpak",
+      "_path": "shaderset/0x3EDA56882833B467.rpak",
       "$numPixelShaderTextures": 33,
       "inputFlags": [
         "0x4434002100D01",
@@ -3147,12 +3147,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xf4621bb6932d59cf/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0xf4621bb6932d59cf/0x3EDA56882833B467.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0x3EDA56882833B467.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xcc9e1af2e7726b57/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -3163,7 +3163,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xcc9e1af2e7726b57/0xA3C6A111BF932D78.rpak",
+      "_path": "shaderset/0xA3C6A111BF932D78.rpak",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
         "0x4034002000D01",
@@ -3183,12 +3183,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xcc9e1af2e7726b57/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0xcc9e1af2e7726b57/0xA3C6A111BF932D78.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xA3C6A111BF932D78.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd3434aeae8ac5a9b/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -3199,7 +3199,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xd3434aeae8ac5a9b/0xEF14E0BCE8DFEB9C.rpak",
+      "_path": "shaderset/0xEF14E0BCE8DFEB9C.rpak",
       "$numPixelShaderTextures": 7,
       "inputFlags": [
         "0x4034002000D01",
@@ -3219,12 +3219,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xd3434aeae8ac5a9b/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0xd3434aeae8ac5a9b/0xEF14E0BCE8DFEB9C.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xEF14E0BCE8DFEB9C.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x28946b7dfb9c62d3/0x68C175CD8879399.rpak",
+      "_path": "shaderset/0x68C175CD8879399.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x79000211",
@@ -3233,7 +3233,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x28946b7dfb9c62d3/0xC048D324316AD0DA.rpak",
+      "_path": "shaderset/0xC048D324316AD0DA.rpak",
       "$numPixelShaderTextures": 7,
       "inputFlags": [
         "0x4434002100D01",
@@ -3249,12 +3249,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x28946b7dfb9c62d3/0x68C175CD8879399.rpak",
-      "pixelShader": "shaderset/0x28946b7dfb9c62d3/0xC048D324316AD0DA.rpak"
+      "vertexShader": "shaderset/0x68C175CD8879399.rpak",
+      "pixelShader": "shaderset/0xC048D324316AD0DA.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x28ea5ce728a2e14a/0xBD79718F54D706F5.rpak",
+      "_path": "shaderset/0xBD79718F54D706F5.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -3265,7 +3265,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x28ea5ce728a2e14a/0xB79DD7A8D488B63F.rpak",
+      "_path": "shaderset/0xB79DD7A8D488B63F.rpak",
       "$numPixelShaderTextures": 3,
       "inputFlags": [
         "0x4034002000D01",
@@ -3281,12 +3281,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x28ea5ce728a2e14a/0xBD79718F54D706F5.rpak",
-      "pixelShader": "shaderset/0x28ea5ce728a2e14a/0xB79DD7A8D488B63F.rpak"
+      "vertexShader": "shaderset/0xBD79718F54D706F5.rpak",
+      "pixelShader": "shaderset/0xB79DD7A8D488B63F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x12edf50ff3548e49/0xC6977DCFE447FEEF.rpak",
+      "_path": "shaderset/0xC6977DCFE447FEEF.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -3297,7 +3297,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x12edf50ff3548e49/0xB79DD7A8D488B63F.rpak",
+      "_path": "shaderset/0xB79DD7A8D488B63F.rpak",
       "$numPixelShaderTextures": 3,
       "inputFlags": [
         "0x4034002000D01",
@@ -3313,12 +3313,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x12edf50ff3548e49/0xC6977DCFE447FEEF.rpak",
-      "pixelShader": "shaderset/0x12edf50ff3548e49/0xB79DD7A8D488B63F.rpak"
+      "vertexShader": "shaderset/0xC6977DCFE447FEEF.rpak",
+      "pixelShader": "shaderset/0xB79DD7A8D488B63F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xea95a171294d15dd/0x94E818BD72ED7F13.rpak",
+      "_path": "shaderset/0x94E818BD72ED7F13.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000011",
@@ -3329,7 +3329,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xea95a171294d15dd/0x7877ADD9FCDE0CF1.rpak",
+      "_path": "shaderset/0x7877ADD9FCDE0CF1.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000001",
@@ -3345,12 +3345,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xea95a171294d15dd/0x94E818BD72ED7F13.rpak",
-      "pixelShader": "shaderset/0xea95a171294d15dd/0x7877ADD9FCDE0CF1.rpak"
+      "vertexShader": "shaderset/0x94E818BD72ED7F13.rpak",
+      "pixelShader": "shaderset/0x7877ADD9FCDE0CF1.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc8e3a5dda497b9dd/0xCA33BE78F498168B.rpak",
+      "_path": "shaderset/0xCA33BE78F498168B.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005202",
@@ -3361,7 +3361,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xc8e3a5dda497b9dd/0xBD534FFEDBCBBEEF.rpak",
+      "_path": "shaderset/0xBD534FFEDBCBBEEF.rpak",
       "$numPixelShaderTextures": 12,
       "inputFlags": [
         "0x4030002000101",
@@ -3381,12 +3381,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xc8e3a5dda497b9dd/0xCA33BE78F498168B.rpak",
-      "pixelShader": "shaderset/0xc8e3a5dda497b9dd/0xBD534FFEDBCBBEEF.rpak"
+      "vertexShader": "shaderset/0xCA33BE78F498168B.rpak",
+      "pixelShader": "shaderset/0xBD534FFEDBCBBEEF.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa0d426ef7ad1b0d4/0x119527D74F210987.rpak",
+      "_path": "shaderset/0x119527D74F210987.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005202",
@@ -3397,7 +3397,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa0d426ef7ad1b0d4/0x40D52A521585184A.rpak",
+      "_path": "shaderset/0x40D52A521585184A.rpak",
       "$numPixelShaderTextures": 4,
       "inputFlags": [
         "0x4030002000D01",
@@ -3413,12 +3413,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa0d426ef7ad1b0d4/0x119527D74F210987.rpak",
-      "pixelShader": "shaderset/0xa0d426ef7ad1b0d4/0x40D52A521585184A.rpak"
+      "vertexShader": "shaderset/0x119527D74F210987.rpak",
+      "pixelShader": "shaderset/0x40D52A521585184A.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x7cf23e1671d90661/0xB5973EF57277B53.rpak",
+      "_path": "shaderset/0xB5973EF57277B53.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005012",
@@ -3429,7 +3429,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x7cf23e1671d90661/0x66D2A0E2125A574C.rpak",
+      "_path": "shaderset/0x66D2A0E2125A574C.rpak",
       "$numPixelShaderTextures": 5,
       "inputFlags": [
         "0x4034002000001",
@@ -3449,12 +3449,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x7cf23e1671d90661/0xB5973EF57277B53.rpak",
-      "pixelShader": "shaderset/0x7cf23e1671d90661/0x66D2A0E2125A574C.rpak"
+      "vertexShader": "shaderset/0xB5973EF57277B53.rpak",
+      "pixelShader": "shaderset/0x66D2A0E2125A574C.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe3c7db4efdcbdea5/0x53E6887D9306F713.rpak",
+      "_path": "shaderset/0x53E6887D9306F713.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2005002",
@@ -3465,7 +3465,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xe3c7db4efdcbdea5/0x929624D5FD1CADB3.rpak",
+      "_path": "shaderset/0x929624D5FD1CADB3.rpak",
       "$numPixelShaderTextures": 5,
       "inputFlags": [
         "0x4030002000001",
@@ -3481,12 +3481,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xe3c7db4efdcbdea5/0x53E6887D9306F713.rpak",
-      "pixelShader": "shaderset/0xe3c7db4efdcbdea5/0x929624D5FD1CADB3.rpak"
+      "vertexShader": "shaderset/0x53E6887D9306F713.rpak",
+      "pixelShader": "shaderset/0x929624D5FD1CADB3.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf7dc56a084bb6b28/0xA970DF434EACA95E.rpak",
+      "_path": "shaderset/0xA970DF434EACA95E.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000211",
@@ -3497,7 +3497,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xf7dc56a084bb6b28/0x6D9EA651FFE01C7.rpak",
+      "_path": "shaderset/0x6D9EA651FFE01C7.rpak",
       "$numPixelShaderTextures": 12,
       "inputFlags": [
         "0x4034002000101",
@@ -3513,12 +3513,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xf7dc56a084bb6b28/0xA970DF434EACA95E.rpak",
-      "pixelShader": "shaderset/0xf7dc56a084bb6b28/0x6D9EA651FFE01C7.rpak"
+      "vertexShader": "shaderset/0xA970DF434EACA95E.rpak",
+      "pixelShader": "shaderset/0x6D9EA651FFE01C7.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1400cfd3821499d7/0x922F6DFF99CC91DB.rpak",
+      "_path": "shaderset/0x922F6DFF99CC91DB.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x202000011",
@@ -3529,7 +3529,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1400cfd3821499d7/0x254E85F23735490F.rpak",
+      "_path": "shaderset/0x254E85F23735490F.rpak",
       "$numPixelShaderTextures": 12,
       "inputFlags": [
         "0x34042000001",
@@ -3549,12 +3549,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x1400cfd3821499d7/0x922F6DFF99CC91DB.rpak",
-      "pixelShader": "shaderset/0x1400cfd3821499d7/0x254E85F23735490F.rpak"
+      "vertexShader": "shaderset/0x922F6DFF99CC91DB.rpak",
+      "pixelShader": "shaderset/0x254E85F23735490F.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x68cfc43d811831b2/0x94E818BD72ED7F13.rpak",
+      "_path": "shaderset/0x94E818BD72ED7F13.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000011",
@@ -3565,7 +3565,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x68cfc43d811831b2/0xE160591B2895A4ED.rpak",
+      "_path": "shaderset/0xE160591B2895A4ED.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000001",
@@ -3578,12 +3578,12 @@
       "_type": "shds",
       "_path": "0x68cfc43d811831b2.rpak",
       "$guid": "0x68cfc43d811831b2",
-      "vertexShader": "shaderset/0x68cfc43d811831b2/0x94E818BD72ED7F13.rpak",
-      "pixelShader": "shaderset/0x68cfc43d811831b2/0xE160591B2895A4ED.rpak"
+      "vertexShader": "shaderset/0x94E818BD72ED7F13.rpak",
+      "pixelShader": "shaderset/0xE160591B2895A4ED.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xbf5f898c4eaecf64/0x8573EE631D763748.rpak",
+      "_path": "shaderset/0x8573EE631D763748.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000212",
@@ -3594,7 +3594,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xbf5f898c4eaecf64/0x661B0C35AB1F9352.rpak",
+      "_path": "shaderset/0x661B0C35AB1F9352.rpak",
       "$numPixelShaderTextures": 8,
       "inputFlags": [
         "0x4034002000001",
@@ -3610,12 +3610,12 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xbf5f898c4eaecf64/0x8573EE631D763748.rpak",
-      "pixelShader": "shaderset/0xbf5f898c4eaecf64/0x661B0C35AB1F9352.rpak"
+      "vertexShader": "shaderset/0x8573EE631D763748.rpak",
+      "pixelShader": "shaderset/0x661B0C35AB1F9352.rpak"
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xC1B58FF9015D72F6/0x63D5B59B8C1178C4.rpak",
+      "_path": "shaderset/0x63D5B59B8C1178C4.rpak",
       "$guid": "0x63D5B59B8C1178C4",
       "$numPixelShaderTextures": 26,
       "inputFlags": [
@@ -3631,7 +3631,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xE481249679D0CA4C/0xB72DA1D91FEC18B4.rpak",
+      "_path": "shaderset/0xB72DA1D91FEC18B4.rpak",
       "$guid": "0xB72DA1D91FEC18B4",
       "$numPixelShaderTextures": 5,
       "inputFlags": [
@@ -3643,7 +3643,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xB01FA0B0714FF14E/0x64C0A5116E066390.rpak",
+      "_path": "shaderset/0x64C0A5116E066390.rpak",
       "$guid": "0x64C0A5116E066390",
       "$numPixelShaderTextures": 12,
       "inputFlags": [
@@ -3659,7 +3659,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x89169DFE8555756A/0x67BBDCE2C0163876.rpak",
+      "_path": "shaderset/0x67BBDCE2C0163876.rpak",
       "$guid": "0x67BBDCE2C0163876",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
@@ -3671,7 +3671,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1120BDC4F3C9CB30/0x3120DE94B88E230A.rpak",
+      "_path": "shaderset/0x3120DE94B88E230A.rpak",
       "$numVertexShaderTextures": 0,
       "inputFlags": [
         "0x2000012",
@@ -3682,7 +3682,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x1120BDC4F3C9CB30/0xB72DA1D91FEC18B4.rpak",
+      "_path": "shaderset/0xB72DA1D91FEC18B4.rpak",
       "$numPixelShaderTextures": 5,
       "inputFlags": [
         "0x4034002000001",
@@ -3698,8 +3698,8 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0x1120BDC4F3C9CB30/0x3120DE94B88E230A.rpak",
-      "pixelShader": "shaderset/0x1120BDC4F3C9CB30/0xB72DA1D91FEC18B4.rpak"
+      "vertexShader": "shaderset/0x3120DE94B88E230A.rpak",
+      "pixelShader": "shaderset/0xB72DA1D91FEC18B4.rpak"
     },
     {
       "_type": "matl",
