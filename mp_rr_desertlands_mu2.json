@@ -2222,6 +2222,7 @@
       "_type": "shds",
       "_path": "0x68cfc43d811831b2.rpak",
       "$guid": "0x68cfc43d811831b2",
+      "numSamplers": 3,
       "vertexShader": "shaders/0x94E818BD72ED7F13.rpak",
       "pixelShader": "shaders/0xE160591B2895A4ED.rpak"
     },
